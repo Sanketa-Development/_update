@@ -1,0 +1,33 @@
+# Global Tantra dependency notices
+
+Exact versions, source URLs and input hashes are in `dependencies.lock.json`.
+Build dependencies remain in ignored `external/`; staging copies these notices
+to `_client_bgfx/runtime/licenses`, alongside the shipped runtime assets.
+
+| Component | Use | License text |
+| --- | --- | --- |
+| bgfx | D3D11/D3D12/OpenGL/Vulkan renderer and shader tools | `assets/licenses/bgfx-LICENSE.txt` |
+| bx | Renderer utility code | `assets/licenses/bx-LICENSE.txt` |
+| bimg | Native texture decoding | `assets/licenses/bimg-LICENSE.txt` |
+| bgfx.cmake | Build integration | `assets/licenses/bgfx.cmake-LICENSE.txt` |
+| SDL 3.2.0 | Window and input, linked statically | `assets/licenses/SDL3-LICENSE.txt` |
+| miniaudio 0.11.25 | Shared music and sample engine, linked statically | Public domain or MIT, `assets/licenses/miniaudio-LICENSE.txt` |
+| SQLite 3.54.1 | Private offline database, linked statically | Public domain dedication in `assets/licenses/SQLite-NOTICE.txt` |
+
+Windows, WIC and a compatible GPU driver are prerequisites. Direct3D 11 is the
+default. OpenGL and Vulkan use the installed GPU driver; Direct3D 12 requires
+a compatible Windows installation and GPU driver. Shaders are compiled before shipping.
+Release staging includes the app-local x64 Microsoft Visual C++ redistributable
+DLLs imported by the executable, including the atomic-wait support used by C++20
+workers. Redistribution is governed by the installed Visual Studio license and
+Microsoft redist list; see `assets/licenses/MSVC-REDIST-NOTICE.txt`. A fresh virtual
+machine is separate from the verified relocation and module-closure tests.
+Existing Tantra client assets and migrated project source retain their
+existing ownership; these dependency licenses do not grant rights to those assets.
+
+Shared secure connections use Boost.Asio (Boost Software License 1.0) and nlohmann/json (MIT), with pinned source inputs in `_server_cpp/dependencies.lock.json`. TLS and cryptography use Windows Schannel/CNG system APIs. Their license texts are staged inside the client under runtime/licenses.
+
+The optional Microsoft DirectX web installer is kept unmodified under runtime/redist,
+with its source and checksum in `assets/licenses/DirectX-REDIST-NOTICE.txt`.
+It runs only after the player confirms and accepts Windows' elevation prompt.
+It supplies legacy SDK libraries; Windows Update owns DirectX 11/12 core repairs.

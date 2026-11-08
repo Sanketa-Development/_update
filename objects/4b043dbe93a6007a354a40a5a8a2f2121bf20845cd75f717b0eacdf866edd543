@@ -1,0 +1,15 @@
+Microsoft DirectX End-User Runtime Web Installer (dxwebsetup.exe)
+Publisher: Microsoft Corporation
+Official download: https://www.microsoft.com/en-us/download/details.aspx?id=35
+Payload: https://download.microsoft.com/download/1/7/1/1718ccc4-6315-4d8e-9543-8e28a4e18c4c/dxwebsetup.exe
+SHA256: 2cf71d098c608c56e07f4655855a886c3102553f648df88458df616b26fd612f
+
+This is Microsoft's unmodified signed installer, not Global Tantra source code.
+Microsoft's installer displays its own license and installation choices.
+It requires internet access and the player's Windows administrator approval.
+Global Tantra does not install these components silently.
+
+This package adds optional legacy SDK libraries. It does not install or repair
+the DirectX 11/12 runtime included with Windows, graphics drivers or game files.
+The Global Tantra client does not require these legacy SDK libraries for its
+ordinary graphics/audio paths. Windows core graphics repairs use Windows Update.
