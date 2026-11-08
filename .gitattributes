@@ -3,3 +3,4 @@ UpdateList.dat -text
 NotifyMsg.dat -text
 releases/** -text
 objects/** -text -filter -diff -merge
+bootstrap/Patcher.dat -text

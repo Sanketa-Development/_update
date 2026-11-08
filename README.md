@@ -1,19 +1,15 @@
-# Global Tantra development updates
+# Sanketa development patch feed
 
-This is a signed incremental update feed for Tantra.exe. Install the complete
-development client once, then use Tantra.exe to fetch later updates.
+Private development repository holding signed client update artifacts. The active player patch channel remains the **LAN HTTPS/HTTP host**, as requested; clients cannot download raw contents of this private GitHub repository without authentication. No GitHub token is embedded in the client.
 
-Publish from the game source checkout with:
+From the parent workspace, run `publish-lan-updates.bat` after building/staging. Add changed native resources with `-Include resource/path/file.hpk`. The script generates this repository's signed feed and mirrors its approved payloads to the LAN web root; commit/push this repository afterward to archive the checkpoint. The default migrated feed is `http://172.16.90.12/sanketa-patch`, served from `C:/xampp/htdocs/sanketa-patch`. The previous workspace's `/patch` feed is left intact.
 
-    python tools/publish-github-patches.py
+- Root `Patcher.dat`: signed release descriptor, not client configuration.
+- `UpdateList.dat` and `NotifyMsg.dat`: release manifest and notices.
+- `releases/`: immutable versioned manifests/notices.
+- `objects/`: content-addressed file payloads.
+- `bootstrap/Patcher.dat`: signed client configuration for the selected LAN feed. Copy this file into an existing compatible client root once to select that feed.
 
-The default feed includes the game executable, app-local libraries, runtime
-assets and client tables/layouts. Add a changed packed/loose resource with
-`--include resource/path/file.hpk`. Previously selected files remain in later
-manifests so testers can catch up. Bootstrap Tantra.exe changes require a fresh
-base client. Player preferences, saves and offline server data are excluded.
+Keep signing keys, source code, saves, preferences, server state and credentials outside this repository. Binary/signed payloads must remain byte-exact. Bootstrap Tantra.exe replacement still needs an updated base client.
 
-The publisher keeps signing keys outside this repository. Clients verify the
-signed manifest, hashes and monotonic version; no GitHub token goes in the game.
-GitHub's raw-content cache can delay visibility of a newly published update.
-Use the normal patch host for large assets and production distribution.
+GitHub-based player patching can be enabled later only after selecting a publicly reachable feed. See the parent HANDOFF.md for current publication status.

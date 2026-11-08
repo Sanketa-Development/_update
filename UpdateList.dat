@@ -23,7 +23,7 @@
     {
       "bytes": 10978816,
       "path": "client/ZFLauncher.exe",
-      "sha256": "88e429cad5fa1c3369c7bc7267d9be313849e6737c451a096e57b1698015e21e"
+      "sha256": "a1fbb9094558bb8b9a336639eaa8098764717821ceb5d1c232b49eb3f7f9b7d1"
     },
     {
       "bytes": 27846,
@@ -206,9 +206,9 @@
       "sha256": "4b3aa1849af66195c7668d8665424277f88360c97736a2998d11147f1bf5d05e"
     },
     {
-      "bytes": 981,
+      "bytes": 963,
       "path": "client/runtime/licenses/DirectX-REDIST-NOTICE.txt",
-      "sha256": "4b043dbe93a6007a354a40a5a8a2f2121bf20845cd75f717b0eacdf866edd543"
+      "sha256": "da81deeef253102dbc826c57b4e01a039695a350b19066bf941077728129844a"
     },
     {
       "bytes": 534,
@@ -617,5 +617,5 @@
     }
   ],
   "schema": 1,
-  "version": 1794144991
+  "version": 1794156591
 }
