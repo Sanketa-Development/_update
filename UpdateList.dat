@@ -21,9 +21,9 @@
       "sha256": "2e9d5bcb36c6fc292dd51aa4136f2a53d43bce00ad58029ca26bdd799ba50f3d"
     },
     {
-      "bytes": 10978816,
+      "bytes": 10994176,
       "path": "client/ZFLauncher.exe",
-      "sha256": "a1fbb9094558bb8b9a336639eaa8098764717821ceb5d1c232b49eb3f7f9b7d1"
+      "sha256": "3829bee1d63b4ef2efc965ac00ae84ea64a55baff9c9a06b2157a9394aec5f0a"
     },
     {
       "bytes": 27846,
@@ -556,9 +556,9 @@
       "sha256": "9673f6ab643c0c8bbf3e5d577a94d121fd3e7487639977673c3fe3dd19028da2"
     },
     {
-      "bytes": 935004,
+      "bytes": 1727364,
       "path": "client/system/Kathana3_NPC.txl",
-      "sha256": "0c2dcb86d060f6c5ba2a66c4f7c90a9d4d67de736574af5bae678c22aea1a5c8"
+      "sha256": "f778811efbd01113504b2c88581af1d696a5010814c83a12d23dbd1f6c6e7682"
     },
     {
       "bytes": 3020,
@@ -617,5 +617,5 @@
     }
   ],
   "schema": 1,
-  "version": 1794156591
+  "version": 1794197424
 }
