@@ -21,9 +21,9 @@
       "sha256": "2e9d5bcb36c6fc292dd51aa4136f2a53d43bce00ad58029ca26bdd799ba50f3d"
     },
     {
-      "bytes": 10994176,
+      "bytes": 11041280,
       "path": "client/ZFLauncher.exe",
-      "sha256": "3829bee1d63b4ef2efc965ac00ae84ea64a55baff9c9a06b2157a9394aec5f0a"
+      "sha256": "3a45cccd00a13414d7e4a1598026773a39bbd7f770190dc935e3557ffc67b8f7"
     },
     {
       "bytes": 27846,
@@ -59,6 +59,131 @@
       "bytes": 2126,
       "path": "client/resource/UI/LoadingUI.sys",
       "sha256": "c9ed86760090fdc98d9f488df6c878b39e21e76b8a5d2c94b5b3586b61d03855"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_Harman1.bmp",
+      "sha256": "79f7ce4fbad3e452f07579d1f870bcbd6c501945d94835566c1f5d00558696f4"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_Harman2.bmp",
+      "sha256": "2b24ff16379fdc8b723f60da00418fdc8627d70d18a72e85de3fd8ab82ca6bee"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_Kruma1.bmp",
+      "sha256": "5f49ebc73a5796915c4ebd1cd1908826b4afb09357fb59f8416ead39e4be9e5f"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_Kruma2.bmp",
+      "sha256": "6a42bcf2b7a0734e33bcc3ffeb8abafc8038885856a24fc2d1697bffb21e0a7f"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_Pink01.bmp",
+      "sha256": "016525e55e662bb8505fd056490cc80b0e6a0e8144e5484ce1af3c969c7c6302"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_Pink02.bmp",
+      "sha256": "0080218e9fbfe40db846766323e7f5b2a1ed1afc3cc53a5db76f42d29f9e2efc"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_chatu01_32.bmp",
+      "sha256": "8c5dc38f1314070b91478d516724cff0b1a9a83d2e36c91200a0a5366747f81e"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_chatu02_32.bmp",
+      "sha256": "98bd26e95a556c430764cd705c7dcc24b0c95de0628ca537878be3fba1f510cc"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_laughutava_32.bmp",
+      "sha256": "663315e6e9dfc4eaf94de44151ff7d8ca893f59d7d8c6472c56d9588dd18fd73"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_matra_32.bmp",
+      "sha256": "875b3922865351d23eaabe367f34b60d919edb9d978349db64e1e0e1a8b8171e"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_parcint_32.bmp",
+      "sha256": "a9f80b71f3b00d71da8edd22871f059db2a1af0558810ea28935052624286e65"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_partrvha_32.bmp",
+      "sha256": "928c833008cbc1c8798079abd296ae186e765d0e3bfec16c445d67796f57864e"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_parvha_32.bmp",
+      "sha256": "fab07ed1a3a84e814ee01f50091c1d11d4fa62b24dd1c5a38497bf389a36de42"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_EliphantPink.bmp",
+      "sha256": "7ef0b77c9d5ffed1495de868b8d0a26d4f5649876dc6fff9cda244399eb9a7a7"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_Harman.bmp",
+      "sha256": "98c8d898f86e185540628b90abc56419bbf48db38368f338e3242d791a35af72"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_Kruma.bmp",
+      "sha256": "8de35f2d6c87d8d664b7a32d42b0b78573e8015f792040a0d964fcfc27c93950"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_bhasat_32.bmp",
+      "sha256": "6951d94c1df72750fcd9160b68e98cb77fbedab98430de10802a02687c0b4762"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_chaturangaarmy_32.bmp",
+      "sha256": "0718470501aa33f71a33c38cc9996a3524d934d6920b065dfe13a7b34a0abbf6"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_food01_32.bmp",
+      "sha256": "6ea22e382b6c0df938091104f508e3417901b57694b0c1d5a5e4f8138046c5d8"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_food02_32.bmp",
+      "sha256": "f1f3a1170abb63e305990daa930d73d6954dd7cbf4efcc4b1b0d0dec100ec56b"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_food03_32.bmp",
+      "sha256": "26aae404c98bb1716808bcb91d8d5b55db93dc3932f3be06e842af005284942c"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_ganesha_32.bmp",
+      "sha256": "65ba493fd71786f6b5dba3e3d1503d29f56dc40f4dd2e0e2c4d10804a1d3b896"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_matsya_32.bmp",
+      "sha256": "f0758f63b9f9c4b2df2fd124c4078f253d8a4293177d4c5e98b10ed9d00ae262"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_resurrect2_01.bmp",
+      "sha256": "34558894dea6ff3eea2935ed08a2fc33aa0d4c6a93d429238effa3430ffe3d6b"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_resurrection_32.bmp",
+      "sha256": "89c7f828238c3592ced7bce79af2b2efc0bdab55939f21dadf9f8543a5c49a3f"
     },
     {
       "bytes": 323675,
@@ -617,5 +742,5 @@
     }
   ],
   "schema": 1,
-  "version": 1794197424
+  "version": 1794219628
 }
