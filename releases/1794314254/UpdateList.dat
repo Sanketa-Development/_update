@@ -1,0 +1,1909 @@
+{
+  "files": [
+    {
+      "bytes": 564712,
+      "path": "client/MSVCP140.dll",
+      "payload": {
+        "bytes": 209921,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "4be572db71871abd4a74f4ef271108794ab893b46859b74f39e3584703e4e859"
+      },
+      "sha256": "3951e6bda389b85585ccac8d36ddcb6658270cf674e8e55aa0d77302e59d803c"
+    },
+    {
+      "bytes": 39408,
+      "path": "client/MSVCP140_ATOMIC_WAIT.dll",
+      "payload": {
+        "bytes": 22555,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a39191956291c43adb846a1e24f48ba44b75ec8ef88d59dd7d0d2bf6f914889f"
+      },
+      "sha256": "abd3418a7a94d96e43a03f26644cff63da698634a6d429bcfddd782d12d1fb4f"
+    },
+    {
+      "bytes": 109552,
+      "path": "client/VCRUNTIME140.dll",
+      "payload": {
+        "bytes": 59853,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f69f90ddff533682905be3bb12debaee60874f852e87a20fa5d1a76c31cc8799"
+      },
+      "sha256": "cfd58d2573a2f3c7b7ff256aacca833f9da863fa86d058ba458d4c16b3cc9342"
+    },
+    {
+      "bytes": 38384,
+      "path": "client/VCRUNTIME140_1.dll",
+      "payload": {
+        "bytes": 22763,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "9bde76b94da226e25886062a6ca26d581614a8eff244d5e4aa3728015eb5b253"
+      },
+      "sha256": "2e9d5bcb36c6fc292dd51aa4136f2a53d43bce00ad58029ca26bdd799ba50f3d"
+    },
+    {
+      "bytes": 11429888,
+      "path": "client/ZFLauncher.exe",
+      "payload": {
+        "bytes": 5949464,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "bb7f368cece75c26cfb92d0060818b728797efd33105ab1209105e7a2d7aec15"
+      },
+      "sha256": "9c82cfa3fbc2d203624bdd422ea620a31a81430afd1b8b84d45983f763d4d92a"
+    },
+    {
+      "bytes": 27846,
+      "path": "client/resource/UI/IntroUIInfo.sys",
+      "payload": {
+        "bytes": 6369,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "802a42974c6d7f02350de7980ce5107a795ea800dd0ee2e6c84d65c108c5c70e"
+      },
+      "sha256": "4570aa9102d4092f441262d51f15acde52ad5cc145d3345fd9e07aa5194b8392"
+    },
+    {
+      "bytes": 27846,
+      "path": "client/resource/UI/K2/IntroUIInfo.K2.sys",
+      "payload": {
+        "bytes": 6379,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "22ba2453e567faa160f2bc1153688bdd9441b80e9dba0524283c7d12daa2e120"
+      },
+      "sha256": "7f4eeedc71ac37c602d881fcf9148151da7ca91599d1757ba046a064383c7f15"
+    },
+    {
+      "bytes": 191009,
+      "path": "client/resource/UI/K2/Layout.tsv",
+      "payload": {
+        "bytes": 42686,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "76be45f2d3ce07fc0ed103b99e23c8b1d635a11cb6cd3d66d3d92035e4f3f2c9"
+      },
+      "sha256": "3faf2309129c1e4d8473e60413c76370ae71fa8439fd47729bdae94680b764df"
+    },
+    {
+      "bytes": 2126,
+      "path": "client/resource/UI/K2/LoadingUI.K2.sys",
+      "payload": {
+        "bytes": 874,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a5512e277793304a49c4f382baba940e1bce35fa41362ddd56b98cecbd7778ab"
+      },
+      "sha256": "c9ed86760090fdc98d9f488df6c878b39e21e76b8a5d2c94b5b3586b61d03855"
+    },
+    {
+      "bytes": 281567,
+      "path": "client/resource/UI/K2/MainUIInfo.K2.sys",
+      "payload": {
+        "bytes": 59960,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1c5ee1efa798ea91566b0d6efea27c6dab60fe4701b9fcec15c0fae4b32523fd"
+      },
+      "sha256": "5b6c7969e3c521d0a5bd0c00e4ec7befb06a43913062373a469823e217acacf2"
+    },
+    {
+      "bytes": 770,
+      "path": "client/resource/UI/K2/Scene/system/IntroObj.txl",
+      "payload": {
+        "bytes": 544,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1123fccb23f06a62698c1bfb1532de5e547963b9afaf515609222f0a77e51733"
+      },
+      "sha256": "3a1b2dccb69c7a88c2cff843df0e940ef66154702bfed9eee87ce532d71db60c"
+    },
+    {
+      "bytes": 2126,
+      "path": "client/resource/UI/LoadingUI.sys",
+      "payload": {
+        "bytes": 874,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a5512e277793304a49c4f382baba940e1bce35fa41362ddd56b98cecbd7778ab"
+      },
+      "sha256": "c9ed86760090fdc98d9f488df6c878b39e21e76b8a5d2c94b5b3586b61d03855"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_Harman1.bmp",
+      "payload": {
+        "bytes": 3090,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "89d8471eca78ee7aa3e5df3e04b67b3b9056e125a621611ebf9cad7c3c4599b8"
+      },
+      "sha256": "79f7ce4fbad3e452f07579d1f870bcbd6c501945d94835566c1f5d00558696f4"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_Harman2.bmp",
+      "payload": {
+        "bytes": 3234,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "90ce4729931a354aeeab78235f1b4ab31177b3c90f98181e83acc8a21c8e070c"
+      },
+      "sha256": "2b24ff16379fdc8b723f60da00418fdc8627d70d18a72e85de3fd8ab82ca6bee"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_Kruma1.bmp",
+      "payload": {
+        "bytes": 3238,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "635063100cee6631c2738e494bb321227d501857a1494d1ad3ea033290191bc4"
+      },
+      "sha256": "5f49ebc73a5796915c4ebd1cd1908826b4afb09357fb59f8416ead39e4be9e5f"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_Kruma2.bmp",
+      "payload": {
+        "bytes": 3104,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "794e5cdd8a33312d64dcc3972742920a2f455587f7095101f0b8d2d8c16d70e1"
+      },
+      "sha256": "6a42bcf2b7a0734e33bcc3ffeb8abafc8038885856a24fc2d1697bffb21e0a7f"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_Pink01.bmp",
+      "payload": {
+        "bytes": 3238,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "876cd7dbfa668cd87824d398a45aac5d65f07ec4d9b0f1f7cfb76eb28af8987f"
+      },
+      "sha256": "016525e55e662bb8505fd056490cc80b0e6a0e8144e5484ce1af3c969c7c6302"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_Pink02.bmp",
+      "payload": {
+        "bytes": 3230,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "81e09941cc980cc50d0c3ff56420ffe805147f8615105dc317aa783f972941c6"
+      },
+      "sha256": "0080218e9fbfe40db846766323e7f5b2a1ed1afc3cc53a5db76f42d29f9e2efc"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_chatu01_32.bmp",
+      "payload": {
+        "bytes": 3228,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c18615636f96bc7582670385b11690344612f9cb0a8868efc52caced7353e682"
+      },
+      "sha256": "8c5dc38f1314070b91478d516724cff0b1a9a83d2e36c91200a0a5366747f81e"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_chatu02_32.bmp",
+      "payload": {
+        "bytes": 3136,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "0a8d23ea6c31adc9598e3246fbc8487c9a3d62f28be63892a4ca97188e4f38e8"
+      },
+      "sha256": "98bd26e95a556c430764cd705c7dcc24b0c95de0628ca537878be3fba1f510cc"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_laughutava_32.bmp",
+      "payload": {
+        "bytes": 3119,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b2dd803524219ddb9c45d3832e0b73cd7b77765334bf9f7e036add7163b8f8a2"
+      },
+      "sha256": "663315e6e9dfc4eaf94de44151ff7d8ca893f59d7d8c6472c56d9588dd18fd73"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_matra_32.bmp",
+      "payload": {
+        "bytes": 2639,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "6732ad469bc8a09f46e81c3c3dbdf4b4d7966061cee651b8fc5cd5b1d3762c5e"
+      },
+      "sha256": "875b3922865351d23eaabe367f34b60d919edb9d978349db64e1e0e1a8b8171e"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_parcint_32.bmp",
+      "payload": {
+        "bytes": 3232,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "89131b14c739074dd0ab5c199ee5d997ca5574c9317848c01abf8fa1fd623b33"
+      },
+      "sha256": "a9f80b71f3b00d71da8edd22871f059db2a1af0558810ea28935052624286e65"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_partrvha_32.bmp",
+      "payload": {
+        "bytes": 3006,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "0655fadb6f7341bb7ddfad335173cf19ccf3aee46c124d37ddcba948b3205d6e"
+      },
+      "sha256": "928c833008cbc1c8798079abd296ae186e765d0e3bfec16c445d67796f57864e"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_parvha_32.bmp",
+      "payload": {
+        "bytes": 3112,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e774d69510f49aec539a6938257a9d060cf827d559505183e60ddf25a28d8e04"
+      },
+      "sha256": "fab07ed1a3a84e814ee01f50091c1d11d4fa62b24dd1c5a38497bf389a36de42"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_EliphantPink.bmp",
+      "payload": {
+        "bytes": 3238,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "3bdb514ada94620775ea354baf0e244ac4d6653337fb9ed4a96da4043783aed3"
+      },
+      "sha256": "7ef0b77c9d5ffed1495de868b8d0a26d4f5649876dc6fff9cda244399eb9a7a7"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_Harman.bmp",
+      "payload": {
+        "bytes": 2778,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "273b091bb520c573b95a260106ccf02af9c0d219c92ff2c40ec4f3283919a89d"
+      },
+      "sha256": "98c8d898f86e185540628b90abc56419bbf48db38368f338e3242d791a35af72"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_Kruma.bmp",
+      "payload": {
+        "bytes": 2943,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "80f42cedf0b7dc0c44b5f4408a650ae299e263e1b3906ac70f6064155b66d505"
+      },
+      "sha256": "8de35f2d6c87d8d664b7a32d42b0b78573e8015f792040a0d964fcfc27c93950"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_bhasat_32.bmp",
+      "payload": {
+        "bytes": 3238,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "8a41df9797815e7c0a68c5bb6d2e5c964db508af5b6c1f93faeb8198acb80981"
+      },
+      "sha256": "6951d94c1df72750fcd9160b68e98cb77fbedab98430de10802a02687c0b4762"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_chaturangaarmy_32.bmp",
+      "payload": {
+        "bytes": 3170,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "9a370d4389db28e04e94d89dd1a3900cb1c063a0e267ce8596d8c15dffb4d319"
+      },
+      "sha256": "0718470501aa33f71a33c38cc9996a3524d934d6920b065dfe13a7b34a0abbf6"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_food01_32.bmp",
+      "payload": {
+        "bytes": 3200,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "ce3bed7e9c39812eec5205341b2d9e2680ef39b886e0da1601db1ddc1fb8fc00"
+      },
+      "sha256": "6ea22e382b6c0df938091104f508e3417901b57694b0c1d5a5e4f8138046c5d8"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_food02_32.bmp",
+      "payload": {
+        "bytes": 3008,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e145268405737128afb8c856046bfdaa6b54fcba53f3281e1fd700c810cb5e7f"
+      },
+      "sha256": "f1f3a1170abb63e305990daa930d73d6954dd7cbf4efcc4b1b0d0dec100ec56b"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_food03_32.bmp",
+      "payload": {
+        "bytes": 3038,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "94576563115a992efe17d5ee96d731964ad7afe3b81d59510d0972fe5295b2ba"
+      },
+      "sha256": "26aae404c98bb1716808bcb91d8d5b55db93dc3932f3be06e842af005284942c"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_ganesha_32.bmp",
+      "payload": {
+        "bytes": 3238,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c1e29c68ac946eb779c1114e19d235ad1357f203a7982451b7bb280241e6112a"
+      },
+      "sha256": "65ba493fd71786f6b5dba3e3d1503d29f56dc40f4dd2e0e2c4d10804a1d3b896"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_matsya_32.bmp",
+      "payload": {
+        "bytes": 3238,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "ca1e9256d58388ee1895c38231080ac4b106f85a689b1a98cf7ec4d0c75dd0d9"
+      },
+      "sha256": "f0758f63b9f9c4b2df2fd124c4078f253d8a4293177d4c5e98b10ed9d00ae262"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_resurrect2_01.bmp",
+      "payload": {
+        "bytes": 3240,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "29a11022724cb21af127d2844bfea175e4ae9c4bceb56b4b003c5c49c1538573"
+      },
+      "sha256": "34558894dea6ff3eea2935ed08a2fc33aa0d4c6a93d429238effa3430ffe3d6b"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_resurrection_32.bmp",
+      "payload": {
+        "bytes": 2871,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "37be0a9e17d6874d1a83e15892a75ed95380d4e904ab48100e0b7e8a36dcda00"
+      },
+      "sha256": "89c7f828238c3592ced7bce79af2b2efc0bdab55939f21dadf9f8543a5c49a3f"
+    },
+    {
+      "bytes": 323675,
+      "path": "client/resource/UI/MainUIInfo.sys",
+      "payload": {
+        "bytes": 67914,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c0fd23ab55928c4c690ac5fc3446c684e0633272421e2e6cad51536078430df8"
+      },
+      "sha256": "493515412e665ecfffcddcb77f7d906a5baab8fc4b774b7e2038811aa3ed4889"
+    },
+    {
+      "bytes": 34062,
+      "path": "client/resource/fx/fxMAPArenaDurga.txl",
+      "payload": {
+        "bytes": 2104,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "245fdb753def2e82453cee1f176296ee6b00776d35277487d5934019d53e47d9"
+      },
+      "sha256": "127298063a47195fca8750cfadacf6e25fcf411ee372c03f38fc591231c170c1"
+    },
+    {
+      "bytes": 7773,
+      "path": "client/resource/fx/fxMAPIntro.txl",
+      "payload": {
+        "bytes": 833,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b6ac9dbd7d482ca1bad7e15d2f121f63ac1fdd367456c08c53534695020989ed"
+      },
+      "sha256": "8d65dfdb69ec8e4a6b1d28505ec37557ad6deec0730e198a4d74738ae77655d9"
+    },
+    {
+      "bytes": 38822,
+      "path": "client/resource/fx/fxMAPJina1st.txl",
+      "payload": {
+        "bytes": 2214,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a4e984383f07b351fa49a8c6c9ad238a8bae16039c5e6e87f92a6d2f762889a6"
+      },
+      "sha256": "20875e6e638c8330c662cea9d86e4a7b6ff25c78706a8997d0d1389b93a097c2"
+    },
+    {
+      "bytes": 49970,
+      "path": "client/resource/fx/fxMAPJina2nd.txl",
+      "payload": {
+        "bytes": 2950,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "05e19b71e60356e6780bedc0bee108018a4eabf1331d2e372792b5e212a247c8"
+      },
+      "sha256": "c234d9959c897f5ec11dcfff07aaca527b808a5a3cc221a3e826e7ad0c05d71f"
+    },
+    {
+      "bytes": 35514,
+      "path": "client/resource/fx/fxMAPJina3rd.txl",
+      "payload": {
+        "bytes": 1986,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "dd6283034ce0abd6b5b9ef885901b5c6d8805d9c3e5a34dfc0117aa3ed8ee191"
+      },
+      "sha256": "5450659bda904ec1cb77faee3fde36899425d680951015921600b94d96e85dc0"
+    },
+    {
+      "bytes": 38666,
+      "path": "client/resource/fx/fxMAPJina4th.txl",
+      "payload": {
+        "bytes": 2251,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "917318f65631b9924252ea99cde3d5906e946b2fcc21ec1e39a04bebc9b082e6"
+      },
+      "sha256": "d66605646606f576abfe70a262f4c959dc02e83d0e9e281c8f902303c4e976d0"
+    },
+    {
+      "bytes": 35078,
+      "path": "client/resource/fx/fxMAPJina5th.txl",
+      "payload": {
+        "bytes": 2025,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b850c2b0ef40a8b8a1665dea618fd559d8a423fb123cd3b8e094b524fa69fc1a"
+      },
+      "sha256": "f6585c7919ee929df01d81d125fb504468b84d481861aae5d713e1c9797c1faf"
+    },
+    {
+      "bytes": 45182,
+      "path": "client/resource/fx/fxMAPJina7thCave.txl",
+      "payload": {
+        "bytes": 2686,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "45e76bceabb2522a39030bad778c7d04b8a1669200ed171957fafb53cae2b1f4"
+      },
+      "sha256": "23cbf5081418aec2a3b32e54989e2cea6385f3fc276c8d67ec522a902cb4f547"
+    },
+    {
+      "bytes": 24822,
+      "path": "client/resource/fx/fxMAPJina8thCave.txl",
+      "payload": {
+        "bytes": 1374,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "bbee5e6573a7a08a8f8fb6c048fface5ab846a842bde72113ce46059a97e2203"
+      },
+      "sha256": "78ba64941942921a5ec508f35cfc7be657c52e8d0a4b3e80a0f78a806c48313f"
+    },
+    {
+      "bytes": 45442,
+      "path": "client/resource/fx/fxMAPMandara1st.txl",
+      "payload": {
+        "bytes": 2497,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "7fb3547d23793f202e69ed23111b933955192d46daa4119377fadb34777f42a3"
+      },
+      "sha256": "f09ab1ccfbbe69ac65a813d1cc9de29dd30e3341c2af4880f91f30339f83ce28"
+    },
+    {
+      "bytes": 36806,
+      "path": "client/resource/fx/fxMAPMandara2nd.txl",
+      "payload": {
+        "bytes": 2094,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c1e4672d8cf045da91ae708a60fcdd73d5591487fe8a92938d09eb6a678f99bf"
+      },
+      "sha256": "6da5365f3d8e5f14707f4f3af82ec8cc936c350820210ded64e8b21760745080"
+    },
+    {
+      "bytes": 26550,
+      "path": "client/resource/fx/fxMAPMandaraCave1st.txl",
+      "payload": {
+        "bytes": 1504,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "4b01b608fb844d36674265dd721e45bcf3c36292089112b7c17686537c77f54e"
+      },
+      "sha256": "8efd66f06197e2989b22856f091a07819c320217109347bd3494adfbbecc9922"
+    },
+    {
+      "bytes": 28970,
+      "path": "client/resource/fx/fxMAPMandaraCave2nd.txl",
+      "payload": {
+        "bytes": 1593,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "676360e2259efe85215e4e51a3e669b652ad733ae5de9a209107d6e09707f42c"
+      },
+      "sha256": "04ccbdc268213fe7c98be449beeeebcb1d21a6ef19848cfba2aad54c6ae3fde6"
+    },
+    {
+      "bytes": 31166,
+      "path": "client/resource/fx/fxMAPMandaraCave3rd.txl",
+      "payload": {
+        "bytes": 1694,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f14f77cd4412f2021f35cdab8faea79dd39141d03caf3324ef0d410626882da7"
+      },
+      "sha256": "e3dd10c754ff16ff3593721504a145eea6e119c6624d44da3da8ca4dd627c17f"
+    },
+    {
+      "bytes": 27934,
+      "path": "client/resource/fx/fxMAPMandaraCave4th.txl",
+      "payload": {
+        "bytes": 1557,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "272cc313c9daa2aca1115a37233bacb186dc47bfb3996606f8b71e049b9c7d06"
+      },
+      "sha256": "4a99974e50a0ef4124c7f01209aa1a7a2ba1aaf85c10cfdb3de77d201e7acaef"
+    },
+    {
+      "bytes": 41458,
+      "path": "client/resource/fx/fxMapBiryuCastle.txl",
+      "payload": {
+        "bytes": 2458,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "49df7e4d8b5cadc443d3724861ccc7dc3e1190d7a3d6e8f68ae4d2c7f70cd66c"
+      },
+      "sha256": "e67ce41ac915f35c270533f10795b8578f246c086fae7144fe0924a790ebe0c8"
+    },
+    {
+      "bytes": 523390,
+      "path": "client/resource/fx/fxPC.txl",
+      "payload": {
+        "bytes": 22643,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "6eaaf23a76bbeaa3cf6bb72a165e50930acc96254cfd36fb6eab598347ca4bfd"
+      },
+      "sha256": "e1992e5a8690efa00247e02abe11b0aa79c5388f03c619f76f5ba7c3daeb9216"
+    },
+    {
+      "bytes": 465,
+      "path": "client/runtime/data/english.json",
+      "payload": {
+        "bytes": 577,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "74cec364c673af6b31220afb36643b13969391a089cb22706f6a61aaca15b1c5"
+      },
+      "sha256": "f1a6b45a0c432fc6824745414fc0162dbebe30010470b48dfb324890de4bfe04"
+    },
+    {
+      "bytes": 746527,
+      "path": "client/runtime/data/english.tsv",
+      "payload": {
+        "bytes": 154224,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "3db4ab520d220f4740dbe7e49d2506a94562373975c5aa577c75da6a35cdad9e"
+      },
+      "sha256": "e0261ae96f200b432fdb6c5046439dd2b8d2ebb3e64d37d221c10f25d21ed911"
+    },
+    {
+      "bytes": 1281,
+      "path": "client/runtime/data/rules/character-stats/Coefficient.tsv",
+      "payload": {
+        "bytes": 818,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1eef06a8bd4ad27c7aa2770d7892e245a6e249b4a6edc0ddd0326f17ac7ca264"
+      },
+      "sha256": "e3266aedea147191c343d543010da69c4606325a31df7b14a896a6d1ad0c428b"
+    },
+    {
+      "bytes": 481,
+      "path": "client/runtime/data/rules/character-stats/EffectTolerance.tsv",
+      "payload": {
+        "bytes": 549,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "ce5b9a0c868827c51dea0b2bce4469858c27fa4baec3d15c18d0925f56e62e20"
+      },
+      "sha256": "c4428feee97b62655d780ab1f9e26e7051ac55788f282b9d3f51eb0f3a21607b"
+    },
+    {
+      "bytes": 2600,
+      "path": "client/runtime/data/rules/character-stats/LevelUp.tsv",
+      "payload": {
+        "bytes": 1192,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "bb74d821c514d4c363967106252150bf7fc9284b66096e8c3f962ff773a9ca3d"
+      },
+      "sha256": "58aad9cb49143138ea11a2a99f83f9628f5527e37ca68c3e15381ca288771dbc"
+    },
+    {
+      "bytes": 1904,
+      "path": "client/runtime/data/rules/character-stats/PROVENANCE.json",
+      "payload": {
+        "bytes": 1149,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "395afe61f1e8db50d9ae995d6539a3d01282a9b8987286623b96745b1dadc38f"
+      },
+      "sha256": "96637a49f19e39d0ed1aa69fcded94be56c98cab68cf576f2ecf9887b744b501"
+    },
+    {
+      "bytes": 347008,
+      "path": "client/runtime/data/rules/gameplay-parameters/Item.tsv",
+      "payload": {
+        "bytes": 50522,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "58952f68fcdc95a2bb41eafab0a7de3979826bc6b64936c9efeaf28f5a1cca2b"
+      },
+      "sha256": "00db8a9c7789c52889e0a9ecfdd5c30854ec348a3d1eb4f2c1ce31c006e45576"
+    },
+    {
+      "bytes": 75056,
+      "path": "client/runtime/data/rules/gameplay-parameters/MonsterSkill.tsv",
+      "payload": {
+        "bytes": 14324,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "364ee09f7765ffea96c1911c3930953612a829a3a8fef858af213f7e38bd1d0b"
+      },
+      "sha256": "87a5c61546e742e4a66cbc4c4d5972bad638cb59d66c86eecfaf34208cdc02f8"
+    },
+    {
+      "bytes": 173879,
+      "path": "client/runtime/data/rules/gameplay-parameters/PCSkill.tsv",
+      "payload": {
+        "bytes": 30498,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b75dfd16f3aaab4148c2acae0cf7269a93bedd7e11cc6bf6085b9b9a68ff61dd"
+      },
+      "sha256": "fca465ed024eb9ed560b9b01b2977ccad52d5f4b7b0970a0eb1f267f5c4a36f3"
+    },
+    {
+      "bytes": 13213,
+      "path": "client/runtime/data/rules/gameplay-parameters/PROVENANCE.json",
+      "payload": {
+        "bytes": 3437,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "d10d67b0691f8a12c5716af07cc17876fe8b21dc9ecf86724030d460f4343783"
+      },
+      "sha256": "ef3462c66210c0f697105b80dd6a7289824d44655b796fb71443e0863ad41508"
+    },
+    {
+      "bytes": 73820,
+      "path": "client/runtime/data/rules/npc-services/Item.tsv",
+      "payload": {
+        "bytes": 15120,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "0a37d3ce5f3def259e1566723fd15e2ada5f793a347fe8e102d2b36d0722b56f"
+      },
+      "sha256": "c65d63681914d808d22b4ca5a88ed47a8d37207a44bb855f75bc694751ab4d9c"
+    },
+    {
+      "bytes": 3208,
+      "path": "client/runtime/data/rules/npc-services/PROVENANCE.json",
+      "payload": {
+        "bytes": 1507,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c9f1a1c8fd1d12df9766acfdd6bf9ba1f882d20928c98045f9c8285946e33a2a"
+      },
+      "sha256": "7be05240d8d0c18ec49b70fc4ee75c2b46c2e509cbf9f75ce4515af6409b937d"
+    },
+    {
+      "bytes": 2784,
+      "path": "client/runtime/dependencies.lock.json",
+      "payload": {
+        "bytes": 1594,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c7c0eadc4a554ec1bb174b523f93dc6a6d313b784b9ded01aa546e67a1df507c"
+      },
+      "sha256": "4b3aa1849af66195c7668d8665424277f88360c97736a2998d11147f1bf5d05e"
+    },
+    {
+      "bytes": 963,
+      "path": "client/runtime/licenses/DirectX-REDIST-NOTICE.txt",
+      "payload": {
+        "bytes": 881,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "ee9db6ed04ae05141758e4b1d39df5efb7314c041a70a48f35a871571c5caee0"
+      },
+      "sha256": "da81deeef253102dbc826c57b4e01a039695a350b19066bf941077728129844a"
+    },
+    {
+      "bytes": 534,
+      "path": "client/runtime/licenses/MSVC-REDIST-NOTICE.txt",
+      "payload": {
+        "bytes": 643,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "d75ddb3f659f125e5c2c4c15eb1c9a18a7ffc1c22da98dd069ca692c96ccd7b0"
+      },
+      "sha256": "7997426dc5862fa4380b37a58e9af4a6061d48c72c223cbd800b825f56718ff5"
+    },
+    {
+      "bytes": 1093,
+      "path": "client/runtime/licenses/NVJOB-water-LICENSE.txt",
+      "payload": {
+        "bytes": 1002,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "d40259ca66c13d82cb55af32292b0c6f24ccb8387af827634fbba40081816343"
+      },
+      "sha256": "01905f8ac5c893f2f8849c44d571828f47b2dd00eec1ee1bef6c6545aabf6bb8"
+    },
+    {
+      "bytes": 902,
+      "path": "client/runtime/licenses/SDL3-LICENSE.txt",
+      "payload": {
+        "bytes": 833,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e4f0cf58c4f22a8d602a55caea50e4b1378bb9c6a5b6adb917c05538fc332d0d"
+      },
+      "sha256": "6b8da877f518bae3e261b2613754cc97e916f20001c5499b4cea6680ac6d1e1b"
+    },
+    {
+      "bytes": 419,
+      "path": "client/runtime/licenses/SQLite-NOTICE.txt",
+      "payload": {
+        "bytes": 531,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1f9a00308dfe9c7fdb5e9f2bb712984edb6e2dcbd5a80d665bbc1db54a623334"
+      },
+      "sha256": "ebe295abdd6d90eba8de103cf832a0b493cc65d0ceb1a45c9a44ef23a07873c2"
+    },
+    {
+      "bytes": 2616,
+      "path": "client/runtime/licenses/THIRD_PARTY_NOTICES.md",
+      "payload": {
+        "bytes": 1654,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "7eb8819a1214e77e36ed13e319142bb1d274f397de89f5d3197890f4fe49620f"
+      },
+      "sha256": "3ba40b66078e151c7a8147cdf69cc4ad2ac066a6383640ce30494f37fa3f2e69"
+    },
+    {
+      "bytes": 1062,
+      "path": "client/runtime/licenses/Unity-water-LICENSE.txt",
+      "payload": {
+        "bytes": 974,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "7c1f24003b7513533604b8ddf479bb1ca8310bcd130a0f67ca8f736386e2c2c2"
+      },
+      "sha256": "9ce7cf0c6902bea1d3919d78c20ef28fb052b545fecace901e4d98e8c2bcf4ce"
+    },
+    {
+      "bytes": 1321,
+      "path": "client/runtime/licenses/bgfx-LICENSE.txt",
+      "payload": {
+        "bytes": 1052,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a318833347d3aff5d37e3b99e7b587138824df397ea413dc25944a32411d6d98"
+      },
+      "sha256": "2791a69b0fc5337cd704ecffeba80d7ee080aa95cfde5255704365f26887f0f0"
+    },
+    {
+      "bytes": 7169,
+      "path": "client/runtime/licenses/bgfx.cmake-LICENSE.txt",
+      "payload": {
+        "bytes": 3708,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f17aca626fc6d21d3f832c2b18802e24d8aa41ddcd13861a8db3371509d2f1b5"
+      },
+      "sha256": "f4e7f373b9b996950337e8d41a4a2939c2d90b7725e9baf3d5084a22717ad328"
+    },
+    {
+      "bytes": 1321,
+      "path": "client/runtime/licenses/bimg-LICENSE.txt",
+      "payload": {
+        "bytes": 1052,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a318833347d3aff5d37e3b99e7b587138824df397ea413dc25944a32411d6d98"
+      },
+      "sha256": "2791a69b0fc5337cd704ecffeba80d7ee080aa95cfde5255704365f26887f0f0"
+    },
+    {
+      "bytes": 1338,
+      "path": "client/runtime/licenses/boost-LICENSE_1_0.txt",
+      "payload": {
+        "bytes": 1112,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "db6d73154fc3fdd64c95d50742294055139a7ca119d499106f8e3b48f48b5504"
+      },
+      "sha256": "c9bff75738922193e67fa726fa225535870d2aa1059f91452c411736284ad566"
+    },
+    {
+      "bytes": 1321,
+      "path": "client/runtime/licenses/bx-LICENSE.txt",
+      "payload": {
+        "bytes": 1052,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a318833347d3aff5d37e3b99e7b587138824df397ea413dc25944a32411d6d98"
+      },
+      "sha256": "2791a69b0fc5337cd704ecffeba80d7ee080aa95cfde5255704365f26887f0f0"
+    },
+    {
+      "bytes": 1076,
+      "path": "client/runtime/licenses/json-LICENSE.MIT",
+      "payload": {
+        "bytes": 990,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5ac12be3e21d68ed68e41f471519f93aa4d006102f5b9c859d36a34a6790392f"
+      },
+      "sha256": "46a65cffd1ea955132d95a8dd921640714a8d6b537d2e4e482d31145ae95b603"
+    },
+    {
+      "bytes": 2643,
+      "path": "client/runtime/licenses/miniaudio-LICENSE.txt",
+      "payload": {
+        "bytes": 1463,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "0544d6243aca55ae246ba63cbfcc636984a2885cb5aec6031fc6704079af6b6d"
+      },
+      "sha256": "cf00884e3bae1ec7b49e96bc014079f5b4c803987586b894ac431779927c67b3"
+    },
+    {
+      "bytes": 295320,
+      "path": "client/runtime/redist/dxwebsetup.exe",
+      "payload": {
+        "bytes": 261915,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "669e92b6f24897154eff4cf6c75405df0b043d45cdebf8e942daa366d1ea2850"
+      },
+      "sha256": "2cf71d098c608c56e07f4655855a886c3102553f648df88458df616b26fd612f"
+    },
+    {
+      "bytes": 11147,
+      "path": "client/runtime/shaders/graphics/d3d12/fs_native.bin",
+      "payload": {
+        "bytes": 8621,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1cf23ece1fe5d773d066ade86fe30cab16261d9f5b1faafa8c772bfce4747f4c"
+      },
+      "sha256": "0006d8af9401f497293ecf171062f928fe34077fd45f8f006c9b2cf0062e52f5"
+    },
+    {
+      "bytes": 2710,
+      "path": "client/runtime/shaders/graphics/d3d12/fs_shadow.bin",
+      "payload": {
+        "bytes": 2418,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f882dcc6b03547c3683d7f0777ee7890214273902533f291815b7e55ddc30aa4"
+      },
+      "sha256": "0216926df0ad71793830edc481182695138456a233c033221cb54f403184cbe0"
+    },
+    {
+      "bytes": 8031,
+      "path": "client/runtime/shaders/graphics/d3d12/fs_water.bin",
+      "payload": {
+        "bytes": 6214,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "67b4640408703cf542eb29c291a1600cfd67a9977967411920db4f7685295145"
+      },
+      "sha256": "f4d985adcabf09c7774b4791f944a6a0f2986126fc7f205a850ab537215b0b61"
+    },
+    {
+      "bytes": 66,
+      "path": "client/runtime/shaders/graphics/d3d12/shader-cache.key",
+      "payload": {
+        "bytes": 178,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "8c6838a1e0d1587b42e712ed2996f71e60a64e27bc5cf5dcd68a47d41f417b60"
+      },
+      "sha256": "5a37ec30f6a7dec28ee9a154871d877cb3cc7f3e343f1adb6bf59c1298ff7715"
+    },
+    {
+      "bytes": 8892,
+      "path": "client/runtime/shaders/graphics/d3d12/vs_crowd_instanced.bin",
+      "payload": {
+        "bytes": 6455,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "85fcdfc4bb6a110e03429d43df90cc4d6812922bfe9b32ffb16a4bb1e024c957"
+      },
+      "sha256": "262bb194d5bad19139272e532b0c485bafb01e3e4b7f0e5458153aa3ef2aa259"
+    },
+    {
+      "bytes": 5142,
+      "path": "client/runtime/shaders/graphics/d3d12/vs_instanced.bin",
+      "payload": {
+        "bytes": 3826,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "cffc9076a31151a31565d5dae46d8918620f755e19c92285f33b62c0f32a5e0e"
+      },
+      "sha256": "75890c037901a4c0308499bdf7dc47fc29ee188c38f09706eb077a0db4db72f5"
+    },
+    {
+      "bytes": 4888,
+      "path": "client/runtime/shaders/graphics/d3d12/vs_native.bin",
+      "payload": {
+        "bytes": 3701,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a2dc373fb306ece68976541be69e534324a4a1ea5d1e07f7e00b8d3c12294631"
+      },
+      "sha256": "f7d8db8de86b06f0480a98b292467696e8bb1571a688a22149275297a60fdc60"
+    },
+    {
+      "bytes": 3937,
+      "path": "client/runtime/shaders/graphics/d3d12/vs_particle_instanced.bin",
+      "payload": {
+        "bytes": 3084,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "41273d8a4b8caf19f9afc244311f516c07d9f4c57b31f1889965c1686eaeda94"
+      },
+      "sha256": "585c6f311f27231cc0a9ed153be221b907004fce2d9f89920da1c70f4a584689"
+    },
+    {
+      "bytes": 2644,
+      "path": "client/runtime/shaders/graphics/d3d12/vs_shadow.bin",
+      "payload": {
+        "bytes": 2311,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b5bb21a6111555fd9e0fc1e854e21682a188a6f16e5adbb5f7dd3d1c933dfddb"
+      },
+      "sha256": "31bd42940c5912999b92456aac3bb38ba69f300cc12607532f14c5410bacf551"
+    },
+    {
+      "bytes": 5025,
+      "path": "client/runtime/shaders/graphics/d3d12/vs_shadow_skinned.bin",
+      "payload": {
+        "bytes": 3997,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "75789efbb1029b764b47fe5b4f14d49fc39ed81502c4d9c8eb5644d3c17a7a58"
+      },
+      "sha256": "cfa7c76fcd6f0147ed681fd79857ea6191c30380c80d8b9d33055df4296acf8d"
+    },
+    {
+      "bytes": 7317,
+      "path": "client/runtime/shaders/graphics/d3d12/vs_skinned.bin",
+      "payload": {
+        "bytes": 5407,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f8a4d3804000d42800f94cfbd648e15d9c343291a301b6a8058f209e7c19cb1b"
+      },
+      "sha256": "410d13f53922c091a67bc8b1364a152ef2d104331370596a847b4565df5dba9b"
+    },
+    {
+      "bytes": 7841,
+      "path": "client/runtime/shaders/graphics/d3d12/vs_skinned_instanced.bin",
+      "payload": {
+        "bytes": 5745,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1a61539847eb2a88ce8a0f86c8c9233ca08897839b132f8d8b82d164f46e5b41"
+      },
+      "sha256": "cfec6fbf42a9b985cb98a6727a6be2fc3656024bf8bc7f648d5cb82d7fc609ee"
+    },
+    {
+      "bytes": 4570,
+      "path": "client/runtime/shaders/graphics/d3d12/vs_water.bin",
+      "payload": {
+        "bytes": 3475,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "2758b4d25357f769dc44de92d7d02fbc59f12b806352eff3c5aff252bd0aa66d"
+      },
+      "sha256": "abf957c689cc0bffc4dd5482f512f5b949a9ce29e8b2c31d7af449daa1bf79b1"
+    },
+    {
+      "bytes": 12751,
+      "path": "client/runtime/shaders/graphics/fs_native.bin",
+      "payload": {
+        "bytes": 3868,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "fe7ce586c07c187b833e67f11a0b20241d1bac49adf9c466c817a01565643a04"
+      },
+      "sha256": "6aad617bc3d816896c5a774460f9ce0bf43492d2e903599b4f419d446146deca"
+    },
+    {
+      "bytes": 618,
+      "path": "client/runtime/shaders/graphics/fs_shadow.bin",
+      "payload": {
+        "bytes": 653,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "bb5492b03226ee0d85b0b0362d63796f057fb25ce2836c5c4c7915b9b4f97046"
+      },
+      "sha256": "76e662de2d27c2c0343e7ca09604318a0b80539b42a36e782299c86aa40b2b6d"
+    },
+    {
+      "bytes": 8331,
+      "path": "client/runtime/shaders/graphics/fs_water.bin",
+      "payload": {
+        "bytes": 2829,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "2da476e98ea8b3c113dc75993a55b498f7d27e01d1e1cd9efeb0ac931d5b88d3"
+      },
+      "sha256": "b9f366bf35dc30cd86b4cff56f0ece8b823b4da74c82e27f080b3863812ee4ba"
+    },
+    {
+      "bytes": 12690,
+      "path": "client/runtime/shaders/graphics/opengl/fs_native.bin",
+      "payload": {
+        "bytes": 4174,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5fbdee8ee90ced3cff027e1cc973b1daa288af19456915c2bbaa95c697625a11"
+      },
+      "sha256": "cd2fb8a1a8163d06298ce598f3fab0aac43ce6d8e2b9598423e801f9c9bd9819"
+    },
+    {
+      "bytes": 373,
+      "path": "client/runtime/shaders/graphics/opengl/fs_shadow.bin",
+      "payload": {
+        "bytes": 485,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5c9d152a25648da634ba71e4094cf98a10bd207f443e21e86de007232451f333"
+      },
+      "sha256": "b35f195e502951626d9bd902369dc5301531242265169e464b71cd3ed7555f35"
+    },
+    {
+      "bytes": 4859,
+      "path": "client/runtime/shaders/graphics/opengl/fs_water.bin",
+      "payload": {
+        "bytes": 2167,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "05df2d274f4af3b989107fff08c164bbf9f3e170411c6e5a448727852c520e32"
+      },
+      "sha256": "4815b0827b89eb8d045df032bf8940ecb1b02dd342b2cadcf18f3c6fd7de8d2a"
+    },
+    {
+      "bytes": 66,
+      "path": "client/runtime/shaders/graphics/opengl/shader-cache.key",
+      "payload": {
+        "bytes": 178,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "03294967493f4cccf513511451ba354dbf1d1da6dbc9873aba16130ee6d2aa75"
+      },
+      "sha256": "42c7f274709724a8656c0ce2a0ef0969c040a0d050e2ad5cd54c27a31db36ddb"
+    },
+    {
+      "bytes": 3294,
+      "path": "client/runtime/shaders/graphics/opengl/vs_crowd_instanced.bin",
+      "payload": {
+        "bytes": 1356,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "de5b9be1fe6396b872ea9cfc3575c1c8f8342ba6327ea82190a5f4a841ad6a20"
+      },
+      "sha256": "914985b1c144ee440debdc4497bcb6a4074cc8446f7b565ee8bc5b4cb129e7cb"
+    },
+    {
+      "bytes": 1236,
+      "path": "client/runtime/shaders/graphics/opengl/vs_instanced.bin",
+      "payload": {
+        "bytes": 801,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "3396a1e4430080333e33ffc71bc83c9da58274c78259a83acc1d4391ef652f6a"
+      },
+      "sha256": "aed408591cdc7434683423d0ef6b0a3d4a872a4ec1f725f87cab87447fbbff1c"
+    },
+    {
+      "bytes": 1204,
+      "path": "client/runtime/shaders/graphics/opengl/vs_native.bin",
+      "payload": {
+        "bytes": 832,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "55cb9d741bc0269ed335b1af8e0354613006bf4ad8b2a12c915b87f51b095f11"
+      },
+      "sha256": "462dd5091d89e520b9a53f6896c4ba590119f3fe9b110eee5b820b604f8ce2c4"
+    },
+    {
+      "bytes": 885,
+      "path": "client/runtime/shaders/graphics/opengl/vs_particle_instanced.bin",
+      "payload": {
+        "bytes": 744,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "536058c5afd57c79c14cd656659facbfb1a5f3fae1dc501f7d78eb1ad3df0b98"
+      },
+      "sha256": "223be8b5f080457d6298f713d33ce0800f418c6042dbd51d7e0bbe9fb7256ef0"
+    },
+    {
+      "bytes": 298,
+      "path": "client/runtime/shaders/graphics/opengl/vs_shadow.bin",
+      "payload": {
+        "bytes": 410,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "addb2a4dac5354cc63d5416f82cf635a2f5b61a133013d3a0c9411e9d1d27a1e"
+      },
+      "sha256": "c7b0e9f53fac246822e394d26e66df25f0f4c474ee069a7b7b68b371bbd19b2b"
+    },
+    {
+      "bytes": 1474,
+      "path": "client/runtime/shaders/graphics/opengl/vs_shadow_skinned.bin",
+      "payload": {
+        "bytes": 828,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "90bfe4182f6b4e93c746113361004179006d496ed6497829f05ae63bae459901"
+      },
+      "sha256": "bb9294781dd64ab5f57e825f7946f6f7a765f85146da00fa33cf2614ef8a9039"
+    },
+    {
+      "bytes": 2389,
+      "path": "client/runtime/shaders/graphics/opengl/vs_skinned.bin",
+      "payload": {
+        "bytes": 1146,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "76855764de960b96c1a145e5bc3d124e13c3f535c5ec7e099a2442c894ba43dd"
+      },
+      "sha256": "595dadbb48f2981059cab4118b7177716e87419bfa68560020808a8d700fcd8b"
+    },
+    {
+      "bytes": 2711,
+      "path": "client/runtime/shaders/graphics/opengl/vs_skinned_instanced.bin",
+      "payload": {
+        "bytes": 1223,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "652d806c5187789630278ad24c584448c595d515c4a7babd8003cfdcbe8dc58d"
+      },
+      "sha256": "9c3e99de4b561eed10e8afb0fe5c4221139402875d9b563e18ac8ec273690df5"
+    },
+    {
+      "bytes": 881,
+      "path": "client/runtime/shaders/graphics/opengl/vs_water.bin",
+      "payload": {
+        "bytes": 689,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c5306dedc247d2bf48e72c70f5f74f1b8ccade37279df7f5bc5ca934df8b69c8"
+      },
+      "sha256": "039b7f590d5774dde8d197acc183101fb13d316f0b3a13d86049785e0fd36f45"
+    },
+    {
+      "bytes": 66,
+      "path": "client/runtime/shaders/graphics/shader-cache.key",
+      "payload": {
+        "bytes": 178,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b0b830589855ffb7601091f562f7b36612436f6265ed0f5f5ead77c015c3fb59"
+      },
+      "sha256": "d84b546072536fe2223567025e3bf7b4c8f13b6f3f0f7a7daff73cdaf55b3836"
+    },
+    {
+      "bytes": 6892,
+      "path": "client/runtime/shaders/graphics/vs_crowd_instanced.bin",
+      "payload": {
+        "bytes": 2213,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "4ed37ca2be912ac90530f928b5d874ba96437e95b3c3815a55adec936a242d7b"
+      },
+      "sha256": "c0651861a8f67b20d9e000bd9e7ae07d79bf32544af0885af366d84899275fe4"
+    },
+    {
+      "bytes": 2306,
+      "path": "client/runtime/shaders/graphics/vs_instanced.bin",
+      "payload": {
+        "bytes": 1129,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "efb1e4c22ad66e1172b7e802149638be90fff59993d9ac5567ec3a170af20cd9"
+      },
+      "sha256": "4d8324014169fe22bd02bf829dcdbcddf764088614515ba8cdde482eab49392a"
+    },
+    {
+      "bytes": 2156,
+      "path": "client/runtime/shaders/graphics/vs_native.bin",
+      "payload": {
+        "bytes": 1130,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f17041d4345976fbdfc9a940702376afc7a8ed06a3ca1d60bc3d9a349d9223cf"
+      },
+      "sha256": "612d4d1813a70f70f6b8a68fc1a6faeadc380b1430095be3b4633bb21176e9ea"
+    },
+    {
+      "bytes": 1433,
+      "path": "client/runtime/shaders/graphics/vs_particle_instanced.bin",
+      "payload": {
+        "bytes": 913,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "4fb3e4e1cc66d2061d3cfed54953cba47ad05bbffb4ae2a7ec4b450d50b0d51b"
+      },
+      "sha256": "7a37a0ccd4bebd9cdd70130be922e0b0fc72ba9ae236daff9dd433d684df0e55"
+    },
+    {
+      "bytes": 660,
+      "path": "client/runtime/shaders/graphics/vs_shadow.bin",
+      "payload": {
+        "bytes": 638,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "948ddd08d65332a66b84b67cce92d292ca7680a05fb4230ff6d9b60fdddc4a99"
+      },
+      "sha256": "b899c8c8d4a31410e25d4241684aa5de91c5d5edd705524fe812d2987f69bcd6"
+    },
+    {
+      "bytes": 2441,
+      "path": "client/runtime/shaders/graphics/vs_shadow_skinned.bin",
+      "payload": {
+        "bytes": 1155,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1baaa2d56a397922f53f4046c7e2931245b9807f8aa41f2873aa13260dda3c99"
+      },
+      "sha256": "5b65195c152368b8e8e33eff412e6cd9dc6816983fb1ffceb0ba907c2be72e5d"
+    },
+    {
+      "bytes": 4401,
+      "path": "client/runtime/shaders/graphics/vs_skinned.bin",
+      "payload": {
+        "bytes": 1764,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "72c2e26f8c7c38bdb9cf7da878bf914602da4d416140f7c5287d22a7e68e9582"
+      },
+      "sha256": "dc6087e2b15ce1d1a3d9cc58ce4a962d9a922ee10ecea87e486cac5b183e9b23"
+    },
+    {
+      "bytes": 4857,
+      "path": "client/runtime/shaders/graphics/vs_skinned_instanced.bin",
+      "payload": {
+        "bytes": 1843,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c38ce8c6d42c500bfa10e914808ddfc59974f177abd00bb68c69e0e8daaea509"
+      },
+      "sha256": "b34bd3441f4aa50190550bd35adaf45b95a688eef1a415f028a0a21558136e98"
+    },
+    {
+      "bytes": 2218,
+      "path": "client/runtime/shaders/graphics/vs_water.bin",
+      "payload": {
+        "bytes": 1042,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "cf423c953905568834217c43560041752d4b1a13f2aac11cc8291f3ebb2232fb"
+      },
+      "sha256": "133e6b4a4e6cdf891d1eb5e8e5de0d731e61928a08b887c2656444fe1424b917"
+    },
+    {
+      "bytes": 17507,
+      "path": "client/runtime/shaders/graphics/vulkan/fs_native.bin",
+      "payload": {
+        "bytes": 6876,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "7497cdfe96b7a01619ebaf2318a76195642b4050fde1d917354ec5f6c0c33658"
+      },
+      "sha256": "87c20787a2fb2aed78839a1d6398ac1b602544b41fcfe6e673cc824e903c400e"
+    },
+    {
+      "bytes": 1354,
+      "path": "client/runtime/shaders/graphics/vulkan/fs_shadow.bin",
+      "payload": {
+        "bytes": 956,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "7a3b4d23ee9a343845f87d6661c7eabaef8ca201762f9ac1ee91c309b4b7ce30"
+      },
+      "sha256": "8623acfd6510a8fa7801141d03dd6a81ea0167d078a2d3bdcef64152f8a72de2"
+    },
+    {
+      "bytes": 9707,
+      "path": "client/runtime/shaders/graphics/vulkan/fs_water.bin",
+      "payload": {
+        "bytes": 4011,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "2ea979f519669055da5ffba6375c94643ceedcf4f8d91dd57ce642f032843f18"
+      },
+      "sha256": "03a7c32e984ee37b70240c780a78958c469b926a120952105e3de059df0c496b"
+    },
+    {
+      "bytes": 66,
+      "path": "client/runtime/shaders/graphics/vulkan/shader-cache.key",
+      "payload": {
+        "bytes": 178,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b6df5d56f710c5445006586d4d6c287c85b7634c8a319746460cd15a6350ff98"
+      },
+      "sha256": "c6f77df601bfc19506131240c5e1979b859856a5a4d1a12e972157a47fc1af26"
+    },
+    {
+      "bytes": 6514,
+      "path": "client/runtime/shaders/graphics/vulkan/vs_crowd_instanced.bin",
+      "payload": {
+        "bytes": 2787,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "0e3724df2940ab5cc3734c3e0a1bed37face4c22c2c8bcaeeaa7e79f47869673"
+      },
+      "sha256": "854b93a1eeee6274b7cd0326855db3871ac2c6b2bf26a3dd7c9ff01fd0814d2e"
+    },
+    {
+      "bytes": 3086,
+      "path": "client/runtime/shaders/graphics/vulkan/vs_instanced.bin",
+      "payload": {
+        "bytes": 1512,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a8f60d0862b1411e19d2e4098e2e1426546a9df6775c1a7a69148a14e5fa7924"
+      },
+      "sha256": "5df0ea745e65107654db21bb6a0ff080b2db63d273697c168d48fd1fa4b8fdd4"
+    },
+    {
+      "bytes": 3304,
+      "path": "client/runtime/shaders/graphics/vulkan/vs_native.bin",
+      "payload": {
+        "bytes": 1636,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "8fa5df21d1c322a7376fefc7a12682bca622408e9f4706b6fc8b92a0efe471a5"
+      },
+      "sha256": "3660ce2be84b196f168569810a6ddb316a9ca48e6b86330b602929fba5bcef65"
+    },
+    {
+      "bytes": 2563,
+      "path": "client/runtime/shaders/graphics/vulkan/vs_particle_instanced.bin",
+      "payload": {
+        "bytes": 1367,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a338422abe6beaea0d7dd8f1cb38743f167e7537db355f664076398d34616de3"
+      },
+      "sha256": "7b14233cee5cde56b8e35ea921d7537ef0633d41ec836dc09736adee781e8be3"
+    },
+    {
+      "bytes": 1104,
+      "path": "client/runtime/shaders/graphics/vulkan/vs_shadow.bin",
+      "payload": {
+        "bytes": 845,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "64aa751d7df40e413869aa55384c41f719bfe0b4d2849a6ee63b43c2cede9740"
+      },
+      "sha256": "96ff997ca778b04222ea200708a47c3f8e7cc19b6c928c3d729c99f764f93c01"
+    },
+    {
+      "bytes": 3077,
+      "path": "client/runtime/shaders/graphics/vulkan/vs_shadow_skinned.bin",
+      "payload": {
+        "bytes": 1539,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "4f8a469c071fcdd6aae944427662795b92b8eebb31a8f9b4621b336d48c7cbc0"
+      },
+      "sha256": "8b01063bf9fdb5cf8a883f4eda35ab2cfdfa56b958201a666bcdde5deeaff734"
+    },
+    {
+      "bytes": 5049,
+      "path": "client/runtime/shaders/graphics/vulkan/vs_skinned.bin",
+      "payload": {
+        "bytes": 2231,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c8dc6ba336e71c2a665c608501766a72164d065fa8044453fcd32681ffb376d2"
+      },
+      "sha256": "0c0bc54504d5debbc32ec9b3e5094dde9f8208bc955a7b2496d4a5679287bbea"
+    },
+    {
+      "bytes": 5473,
+      "path": "client/runtime/shaders/graphics/vulkan/vs_skinned_instanced.bin",
+      "payload": {
+        "bytes": 2381,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "47596b3a32cb4f013cfcc3a9f456d838f109c3ae81a07e9e4961a40ff1990d6d"
+      },
+      "sha256": "3373b437b12300dc58f01772a7e17c1ea9b90a760b209945a8c82867fb638431"
+    },
+    {
+      "bytes": 2350,
+      "path": "client/runtime/shaders/graphics/vulkan/vs_water.bin",
+      "payload": {
+        "bytes": 1264,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "466224350cbcea712714c71b925e8478f0107e655e238c05af05407b9af60c4f"
+      },
+      "sha256": "e1dfe55d782814c1ce0599e9a929149b8f29b28c1e3f43226f8ea15f2c33ddf5"
+    },
+    {
+      "bytes": 2391316,
+      "path": "client/runtime/textures/water/normal-0.png",
+      "payload": {
+        "bytes": 2391556,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1e68ef0c624450e5a2ccd82bf99d706f08167be8136503f0c5d3ee8d9bc3b08f"
+      },
+      "sha256": "869d2d116b5688c574b55f479b30c1b60c072aead4d42af65b43e359911fe038"
+    },
+    {
+      "bytes": 1838459,
+      "path": "client/runtime/textures/water/normal-1.png",
+      "payload": {
+        "bytes": 1838635,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a2c2eae07b6c1d6bc017a6f024419519b34e31aaf53daa3dd8b1c75cb80f70fb"
+      },
+      "sha256": "8667c406b8a644407245e89e4cfb62b621f74879af11ae724f70a8f0a7b2d044"
+    },
+    {
+      "bytes": 36306,
+      "path": "client/serverlist.bin",
+      "payload": {
+        "bytes": 2151,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "58e19133f6a08b54c68b019346e7b8b741fd5aebe564a27de6172c381ada3dc9"
+      },
+      "sha256": "1c219255153f7d0304bf634cfbeeb035db0fccf6765b3d09b6d507685b7e3868"
+    },
+    {
+      "bytes": 39290,
+      "path": "client/system/AnakaKrumaObj.txl",
+      "payload": {
+        "bytes": 7018,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "ca77b997f8d53a78413b79cc52c452deaa7f160a7ac89fb1f3affad3c8b1d7e7"
+      },
+      "sha256": "90119f81e972f51142b125e42f5a8973d78964d9b98bf32729b099a248fa8a07"
+    },
+    {
+      "bytes": 245231,
+      "path": "client/system/ArenaDurga_NPC.txl",
+      "payload": {
+        "bytes": 8633,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "aa5230d939ebeaac6948c4a99aa6a9b94e12bd5e7667a56fcdafa4530f15e2d9"
+      },
+      "sha256": "7f788e9faf0bafc33cfb9b810cd1ef2441c3766bb21df4a2ffacba14ea681326"
+    },
+    {
+      "bytes": 12380,
+      "path": "client/system/ArenaObj.txl",
+      "payload": {
+        "bytes": 2269,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "23f78b1b9d4af2754ee0f7bfa318a33ae88cc991a3fcde69e82d96d6e876855b"
+      },
+      "sha256": "328f3320b15f9802552955ebeba887cba7a1e6b0ae8c73e9879cda8a40f96b3a"
+    },
+    {
+      "bytes": 150938,
+      "path": "client/system/Chaturanga_NPC.txl",
+      "payload": {
+        "bytes": 3968,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "91142f28529d2df14170908c98763a6de00e73591d8ac88086dd5fec058347af"
+      },
+      "sha256": "3de3079e698daa1d29ff495e848b5a5abacb4aa5c3c0eba45ea44234e631e444"
+    },
+    {
+      "bytes": 1371839,
+      "path": "client/system/ClientRes.txl",
+      "payload": {
+        "bytes": 165657,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "92485cbf02f2bd4a60959c62a35bbf3940aa3b6048f4c41485bc44f11d8a6264"
+      },
+      "sha256": "8472f8e2524150603cce55c5b679f9cd02b73817b32088f7d5417a7e99e2e5ff"
+    },
+    {
+      "bytes": 25475,
+      "path": "client/system/ForgeObj.txl",
+      "payload": {
+        "bytes": 4331,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "df7ed6b7e72a6d5c5bc990f887439a4d4363b0fa9bbe8b500f9d3e74fb521487"
+      },
+      "sha256": "1d8df7c677aebb2af1e7a35c6abcfe0a03fec6db6355044ade3db27cefefbde1"
+    },
+    {
+      "bytes": 419370,
+      "path": "client/system/Forge_NPC.txl",
+      "payload": {
+        "bytes": 11930,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "ec595d1f2f49cb18a037564258d22b7ccd5cd7409be9f9beacb1c141810ce52b"
+      },
+      "sha256": "5e4ad67e583c48a99ae1765ca32096cfd67dc6d45134bd6913d65c6b885c70be"
+    },
+    {
+      "bytes": 1448926,
+      "path": "client/system/HTMessage.txl",
+      "payload": {
+        "bytes": 78420,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "2a820d6e333039ce625daa729851e5d6af94bbaae04a249aa208cbd446895ce9"
+      },
+      "sha256": "92867e95d6bf89c247ba60cf50fa7da597a24e8dea9b8ae7a675440cdbff2e0c"
+    },
+    {
+      "bytes": 794108,
+      "path": "client/system/HTScrollQuestSystem.txl",
+      "payload": {
+        "bytes": 27070,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e534b73257ad9930965e2caaac21e70014ff384d347672cbc028b2d870cce8a3"
+      },
+      "sha256": "cb9f6f8a684be5eeacf52b3545f8a8bed1e4087756ba02188a4978585146a4e2"
+    },
+    {
+      "bytes": 1330,
+      "path": "client/system/HTSpec.cfg",
+      "payload": {
+        "bytes": 727,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "bb06543b2213df857503d46ad47783989758c1156c2e19a93a9ebf3d191426df"
+      },
+      "sha256": "1cbe39fdc0664aa5464f9ad157ba0be53841355c425c24daf93d1b589fca0e5c"
+    },
+    {
+      "bytes": 1490,
+      "path": "client/system/HTStartup.cfg",
+      "payload": {
+        "bytes": 1048,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a2af3b36154d2d5608cf912ce699377762cb7fe33d6b327227ef5c50149fc52f"
+      },
+      "sha256": "11a3c6b9f2372d66b91f0604a65fc9e879e0726931c8cb58c55dc6fe96e47727"
+    },
+    {
+      "bytes": 770,
+      "path": "client/system/IntroObj.txl",
+      "payload": {
+        "bytes": 544,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1123fccb23f06a62698c1bfb1532de5e547963b9afaf515609222f0a77e51733"
+      },
+      "sha256": "3a1b2dccb69c7a88c2cff843df0e940ef66154702bfed9eee87ce532d71db60c"
+    },
+    {
+      "bytes": 2677598,
+      "path": "client/system/Jina1st_NPC.txl",
+      "payload": {
+        "bytes": 68245,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "d801dcd6c51bc4e144aa0d999ebf94aafa505c40724f362732f674911b3ee117"
+      },
+      "sha256": "cf240c3a8102e5ee894d66705432e224759510ad9f78d3693ed5e63986de9ec7"
+    },
+    {
+      "bytes": 1776710,
+      "path": "client/system/Jina3rd_NPC.txl",
+      "payload": {
+        "bytes": 42800,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "955af73757a4604c0beb0a8ec2f9749f0a9e32ad74fc8e3811dd3dbf8cedbf40"
+      },
+      "sha256": "0510ca13e52aa37f921c4cba2628debed25c55d8570f385a6585b734a4d78ba2"
+    },
+    {
+      "bytes": 239379,
+      "path": "client/system/Jina4th2_NPC.txl",
+      "payload": {
+        "bytes": 6326,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "05892a6ba0b24902678715f5ed17e01813a71e6e84eb0668368684f58776f533"
+      },
+      "sha256": "c30da34fa8cee5eaae0c92c31b630b4dd9cddafb51a22e5f457c75ef6203a0e8"
+    },
+    {
+      "bytes": 237854,
+      "path": "client/system/Jina4th_NPC.txl",
+      "payload": {
+        "bytes": 6358,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "59354a8aab2f35dbc77f27bd015d96937fcdb401576b30bfe60740095bd43c77"
+      },
+      "sha256": "db7778f5fc0c0d3c78186bcedd729a9a8414e9b42c2527fcfa9660c365b1db7b"
+    },
+    {
+      "bytes": 1357897,
+      "path": "client/system/Jina7thCave_NPC.txl",
+      "payload": {
+        "bytes": 28304,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "d5eaadf44fadbcd1fdcfcd8701215a4fc7f9bf3635a1c8730e2787e67f87b242"
+      },
+      "sha256": "a16af2202ab4626e0abd3f079134d5483b6f16aa2fb76a65cb6050c1b5e4cf17"
+    },
+    {
+      "bytes": 37805,
+      "path": "client/system/Kathana1Obj.txl",
+      "payload": {
+        "bytes": 7346,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5e2713368c11f1cb0f0e357931463da9fcce66f189ed46ac366e5c232695dcb5"
+      },
+      "sha256": "a8a9b51f0222d6b8cc47470a05723e9c5f50edacc630c11bfc5ed99bee0e76aa"
+    },
+    {
+      "bytes": 56390,
+      "path": "client/system/Kathana2Obj.txl",
+      "payload": {
+        "bytes": 9527,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "d04295d75530eefe1d9385cf170bce302f4ed5c52ab7834fe62aa7e3541a46cd"
+      },
+      "sha256": "6e2cd951fa83c52f2de43f503a1b1296e6232313c5f3d5c2e13e43131ee77ce8"
+    },
+    {
+      "bytes": 35150,
+      "path": "client/system/Kathana3Obj.txl",
+      "payload": {
+        "bytes": 5625,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e9173a75b4b53224c8627489206b1799ada6918826f51028f2aeaed46e929a2c"
+      },
+      "sha256": "9673f6ab643c0c8bbf3e5d577a94d121fd3e7487639977673c3fe3dd19028da2"
+    },
+    {
+      "bytes": 1727364,
+      "path": "client/system/Kathana3_NPC.txl",
+      "payload": {
+        "bytes": 44113,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "be00d1a5e02c6de02bdc04c3f4c7481e2c556126d458478bc9700b376ec4014b"
+      },
+      "sha256": "f778811efbd01113504b2c88581af1d696a5010814c83a12d23dbd1f6c6e7682"
+    },
+    {
+      "bytes": 1300774,
+      "path": "client/system/Kathana3_Quest_K3.txl",
+      "payload": {
+        "bytes": 30678,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "9b53bf14a54ced30b2e4563a72a4e826d49d27d1b8c1e2b70e54669fce653670"
+      },
+      "sha256": "8ca8f912f0e910be0d1d95c709733ee52d184193fa4e4e65ff4fd7ced76e738c"
+    },
+    {
+      "bytes": 3020,
+      "path": "client/system/Kathana4CaveObj.txl",
+      "payload": {
+        "bytes": 898,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "668e89d9fd273fd074f18a74315a0cf9d15b9d4ae033e7557746fdf6c7b12ef0"
+      },
+      "sha256": "26331c5af4c4ba2af7db81f7562f54e6192420a10af07f75fd0ebc4c91f4494e"
+    },
+    {
+      "bytes": 10490,
+      "path": "client/system/Kathana4Obj.txl",
+      "payload": {
+        "bytes": 2109,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c07ee873193313e6908ec30798219afbe593995dfa0770224cfc640349d274c7"
+      },
+      "sha256": "0ff0a13b2cee02539b3aceb10629c2e48a1f1998f5878dec81329cc305b321cc"
+    },
+    {
+      "bytes": 932128,
+      "path": "client/system/Kathana4_NPC.txl",
+      "payload": {
+        "bytes": 24005,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "38e6cba77dd26e77189157dff4d4ba48d472a93d82d47d06ddeb388e2f58cb3c"
+      },
+      "sha256": "5be2d5751104a913ddea7faf1d2693834034f1a228f6c4304ca4b637d4e6cdee"
+    },
+    {
+      "bytes": 4421236,
+      "path": "client/system/Mandara_NPC.txl",
+      "payload": {
+        "bytes": 117592,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e1aec7465e01a88019f1aa996928d6b27f9d22120ff9569247e48b1ef9bb2944"
+      },
+      "sha256": "e7f77fd2728e8e1d9fddb2e0557211bb03c144dc19d860105a3a58e6c1bd2187"
+    },
+    {
+      "bytes": 4196182,
+      "path": "client/system/Mandara_Quest_K3.txl",
+      "payload": {
+        "bytes": 102147,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "eaecc71e9d9382d1b501b9d14c116daa9d0ac9eef45acb3dc458ee01e6190058"
+      },
+      "sha256": "2e0465ff4aaa93e443f14278ab5ccda0d62a65d371b54857c4d6dee35a50401a"
+    },
+    {
+      "bytes": 815,
+      "path": "client/system/MaranaObj.txl",
+      "payload": {
+        "bytes": 549,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1538dbb1a108155ef978d464b8de430c4c64d911adc38e8d9653122a0f2e7f46"
+      },
+      "sha256": "1260d5d09f19d03190aec7a947e2915789b3d492a908d5592cd2ea9067cda8da"
+    },
+    {
+      "bytes": 561330,
+      "path": "client/system/Mudha_NPC.txl",
+      "payload": {
+        "bytes": 16268,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "6057aaf68ac61d7a3f7660e559aac395693486b49f769677e267a379cd4197c1"
+      },
+      "sha256": "d332a102ac466dba7286ca7f1484277494ef473d4513961ef96187ca62d9aad2"
+    },
+    {
+      "bytes": 5945,
+      "path": "client/system/ParoksyaObj.txl",
+      "payload": {
+        "bytes": 1476,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "3480464529c0fc09e51fda72d1892dbbce02a6a6fd1b205cc9509525fded2fda"
+      },
+      "sha256": "91bb46e0ca51876c1d5ff26964a0a99d08ef74959e9f461e5155809936362eb3"
+    },
+    {
+      "bytes": 700244,
+      "path": "client/system/Paroksya_NPC.txl",
+      "payload": {
+        "bytes": 17299,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1ab9ebeb75abbb957996e74c49016bdc44c2a77db7477a9c358cf5a02eb512e6"
+      },
+      "sha256": "83907f6a3f463230831f5df1428e5213bb0022abc05d94dfd33c150867336c9e"
+    },
+    {
+      "bytes": 2894011,
+      "path": "client/system/ShambalaAnu_NPC.txl",
+      "payload": {
+        "bytes": 71290,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "64a062122d8e6abb07529820eca7dd55a64ec00f593983f5eb9f0fcc823b8c2b"
+      },
+      "sha256": "59a792be2c3422675b64ea96fb3b68da408dd1bc12c5ffc8f2cf685aa2081102"
+    },
+    {
+      "bytes": 2776852,
+      "path": "client/system/Shambala_Quest_K3.txl",
+      "payload": {
+        "bytes": 67354,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "3b8679adc1b06709eef891055ccc3b8de20f6ea200a17728b87fa2eb97d2aab6"
+      },
+      "sha256": "b6cb458f6d71359825d4eede68fbd2d6a8d9b707a8f01cfce113e987f9a2b6ee"
+    },
+    {
+      "bytes": 1279722,
+      "path": "client/system/TantraParam.tpa",
+      "payload": {
+        "bytes": 154917,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1fcc445ec5dbb0b933aaaf7c4ee3e338f519aeba0fc77aea38c7efdda4981f21"
+      },
+      "sha256": "727a6553273925724aeea82fbcb471c8e76e69829312622670d2af3b5b145811"
+    },
+    {
+      "bytes": 56390,
+      "path": "client/system/VediKrumaObj.txl",
+      "payload": {
+        "bytes": 9527,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "d04295d75530eefe1d9385cf170bce302f4ed5c52ab7834fe62aa7e3541a46cd"
+      },
+      "sha256": "6e2cd951fa83c52f2de43f503a1b1296e6232313c5f3d5c2e13e43131ee77ce8"
+    }
+  ],
+  "schema": 2,
+  "version": 1794314254
+}
