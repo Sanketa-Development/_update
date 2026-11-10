@@ -45,15 +45,15 @@
       "sha256": "2e9d5bcb36c6fc292dd51aa4136f2a53d43bce00ad58029ca26bdd799ba50f3d"
     },
     {
-      "bytes": 11425280,
+      "bytes": 11428864,
       "path": "client/ZFLauncher.exe",
       "payload": {
-        "bytes": 5946386,
+        "bytes": 5948839,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "a920f9c3d395c3da1ace0e6ac4903ea5919d643b32f5433150b329ec7507c383"
+        "sha256": "43253f0216c1f54521386ff4ee6b30c44724cf0774a166c39d59fc9d6a1616bd"
       },
-      "sha256": "8529bb036ee08451704690f481c41afa5c62a4fdf88da168f44e2ab30e4c4093"
+      "sha256": "621725014ab9a0e4b399dc1e336bc57566e17c5616231942852d9829c6ba823d"
     },
     {
       "bytes": 27846,
@@ -771,6 +771,17 @@
       "sha256": "7997426dc5862fa4380b37a58e9af4a6061d48c72c223cbd800b825f56718ff5"
     },
     {
+      "bytes": 1093,
+      "path": "client/runtime/licenses/NVJOB-water-LICENSE.txt",
+      "payload": {
+        "bytes": 1002,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "d40259ca66c13d82cb55af32292b0c6f24ccb8387af827634fbba40081816343"
+      },
+      "sha256": "01905f8ac5c893f2f8849c44d571828f47b2dd00eec1ee1bef6c6545aabf6bb8"
+    },
+    {
       "bytes": 902,
       "path": "client/runtime/licenses/SDL3-LICENSE.txt",
       "payload": {
@@ -793,15 +804,26 @@
       "sha256": "ebe295abdd6d90eba8de103cf832a0b493cc65d0ceb1a45c9a44ef23a07873c2"
     },
     {
-      "bytes": 2448,
+      "bytes": 2616,
       "path": "client/runtime/licenses/THIRD_PARTY_NOTICES.md",
       "payload": {
-        "bytes": 1587,
+        "bytes": 1654,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "4ae8d181567784ee20d369118eb73b044cca73a56e4e62e1c54009bbb5d1e15d"
+        "sha256": "7eb8819a1214e77e36ed13e319142bb1d274f397de89f5d3197890f4fe49620f"
       },
-      "sha256": "9b2930a83c90d60e4e3d46a5a6945da156d322b9092cb20327f792f10fd5d3f3"
+      "sha256": "3ba40b66078e151c7a8147cdf69cc4ad2ac066a6383640ce30494f37fa3f2e69"
+    },
+    {
+      "bytes": 1062,
+      "path": "client/runtime/licenses/Unity-water-LICENSE.txt",
+      "payload": {
+        "bytes": 974,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "7c1f24003b7513533604b8ddf479bb1ca8310bcd130a0f67ca8f736386e2c2c2"
+      },
+      "sha256": "9ce7cf0c6902bea1d3919d78c20ef28fb052b545fecace901e4d98e8c2bcf4ce"
     },
     {
       "bytes": 1321,
@@ -914,15 +936,26 @@
       "sha256": "0216926df0ad71793830edc481182695138456a233c033221cb54f403184cbe0"
     },
     {
+      "bytes": 7244,
+      "path": "client/runtime/shaders/graphics/d3d12/fs_water.bin",
+      "payload": {
+        "bytes": 5673,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "8f64d18ca416be46d1647b78f3f46b23202cc93af7207aa7b8250f628f243def"
+      },
+      "sha256": "ec9905842d32287ffc03e954079d321da353f610c8d2dac74ea5af7630b068eb"
+    },
+    {
       "bytes": 66,
       "path": "client/runtime/shaders/graphics/d3d12/shader-cache.key",
       "payload": {
         "bytes": 178,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "60bce445a2b55dfb370d005d2cb0d744c14f483acc07c02f111e45405d59e9b8"
+        "sha256": "0f5dffa4caa15307e705af8e63e67b4d2ccf262d437e77f76bb7e5b55cafdb1d"
       },
-      "sha256": "064495800a9ff1f6b8bef501ffd6d0dba7d109fcc53315546b643a801b25d9fa"
+      "sha256": "ca0c2e261c437a1846364a2c1e7f1aefb8f0f037e653400af9288ade0660a798"
     },
     {
       "bytes": 8892,
@@ -1013,6 +1046,17 @@
       "sha256": "cfec6fbf42a9b985cb98a6727a6be2fc3656024bf8bc7f648d5cb82d7fc609ee"
     },
     {
+      "bytes": 4332,
+      "path": "client/runtime/shaders/graphics/d3d12/vs_water.bin",
+      "payload": {
+        "bytes": 3366,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "94d9988a36d25a1d73aa1a09667f62228b85f92a0c93a15565cdc4f1b9102281"
+      },
+      "sha256": "69e4527a607937a1a554cd33dfd72dafd10d16c598b0f04bcae522247eaf379d"
+    },
+    {
       "bytes": 12751,
       "path": "client/runtime/shaders/graphics/fs_native.bin",
       "payload": {
@@ -1033,6 +1077,17 @@
         "sha256": "bb5492b03226ee0d85b0b0362d63796f057fb25ce2836c5c4c7915b9b4f97046"
       },
       "sha256": "76e662de2d27c2c0343e7ca09604318a0b80539b42a36e782299c86aa40b2b6d"
+    },
+    {
+      "bytes": 6472,
+      "path": "client/runtime/shaders/graphics/fs_water.bin",
+      "payload": {
+        "bytes": 2302,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "bdfef4d45fb3267d13949833639aedca8a8ffe39ec3799f2bac201be3504af71"
+      },
+      "sha256": "91766ffead47184f4853d7547403f5f3167750ff610aec74ad63dd5838cffacc"
     },
     {
       "bytes": 12690,
@@ -1057,15 +1112,26 @@
       "sha256": "b35f195e502951626d9bd902369dc5301531242265169e464b71cd3ed7555f35"
     },
     {
+      "bytes": 4179,
+      "path": "client/runtime/shaders/graphics/opengl/fs_water.bin",
+      "payload": {
+        "bytes": 1876,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "9250b821a8b4b7ce625ca409d705c7fb2c98b1c2aa4d8923fac5dab01b870a3d"
+      },
+      "sha256": "03315f7555fff53329156c1b32601a4e7a980187cf1607c0d48b3f4eaee7499f"
+    },
+    {
       "bytes": 66,
       "path": "client/runtime/shaders/graphics/opengl/shader-cache.key",
       "payload": {
         "bytes": 178,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "2f8c6aaaaf548b64384127ba11cc66f127ff5fa99f4c05b7278dd47d082de289"
+        "sha256": "f57fb770eeca911514617b1bfb61a023196602f1e5bd40e57bd8f9b3f3f11f89"
       },
-      "sha256": "6314f3c6bf31635e670583a7d4f43a4061ef68fd365a7a4d350c5a3a188ea2b2"
+      "sha256": "f99e3a5fb41739c53e3c79a43862d78632bccc244011c5e8f5fdb01ae78172c2"
     },
     {
       "bytes": 3294,
@@ -1156,15 +1222,26 @@
       "sha256": "9c3e99de4b561eed10e8afb0fe5c4221139402875d9b563e18ac8ec273690df5"
     },
     {
+      "bytes": 792,
+      "path": "client/runtime/shaders/graphics/opengl/vs_water.bin",
+      "payload": {
+        "bytes": 665,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5d6c9ef3bcc5b2ca3002d420a3942d5302ba6a663b9fb90d70e592011f51a13a"
+      },
+      "sha256": "2c8db1b0cef578c0748d1c9fa440e2c0c6cae1c24546c59bb8ffdff599cb2309"
+    },
+    {
       "bytes": 66,
       "path": "client/runtime/shaders/graphics/shader-cache.key",
       "payload": {
         "bytes": 178,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "a7a5db039c286c0925d516789f2af861d945ef964da0b804b4cb5cdd5b850632"
+        "sha256": "f7f5b6810702594d29a92ba214e66ed4264d59675b4ce7efb6690a9ddb7c30b0"
       },
-      "sha256": "81d213f9d91cde968f19441153c4b94ffc7d915af24660fd36d2d98b1846f197"
+      "sha256": "b340453f8354e037c1fc2c7cab619be7e3a7695337c700411be1c911ffcdd957"
     },
     {
       "bytes": 6892,
@@ -1255,6 +1332,17 @@
       "sha256": "b34bd3441f4aa50190550bd35adaf45b95a688eef1a415f028a0a21558136e98"
     },
     {
+      "bytes": 2104,
+      "path": "client/runtime/shaders/graphics/vs_water.bin",
+      "payload": {
+        "bytes": 1001,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "3bbe5544ea36b1ab563e3d104839901cf26d608435bf1ede77307fc158bf1769"
+      },
+      "sha256": "f8cf204b9d6eab1f36d51b3c7f6570e45baccfbe0f96b64a2b68421e1e4eb41b"
+    },
+    {
       "bytes": 17507,
       "path": "client/runtime/shaders/graphics/vulkan/fs_native.bin",
       "payload": {
@@ -1277,15 +1365,26 @@
       "sha256": "8623acfd6510a8fa7801141d03dd6a81ea0167d078a2d3bdcef64152f8a72de2"
     },
     {
+      "bytes": 8472,
+      "path": "client/runtime/shaders/graphics/vulkan/fs_water.bin",
+      "payload": {
+        "bytes": 3578,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a43fa47a957767df7bded21d7d0d8100441166380dc7b0ca72e048df12f8c6a1"
+      },
+      "sha256": "c2bea336bfed11cbea32a010e88013f6799cede194fc77feb26be09049bededb"
+    },
+    {
       "bytes": 66,
       "path": "client/runtime/shaders/graphics/vulkan/shader-cache.key",
       "payload": {
         "bytes": 178,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "9c4df7379eea28686e4c5da0774b01453c083665d7fd775b2b3e608a7581089e"
+        "sha256": "53ffd6cc9659835d6403d1f7ae3a8553696b7d3caf558a602c477b9a123274af"
       },
-      "sha256": "66fb99bae09de6092019c32c094e92779fa9370ed8bd5eb1994c1dc7d3ccb92a"
+      "sha256": "5c031b2269e92d36cfc559da7204ed439276fb5b01efee156da212c9cff80a99"
     },
     {
       "bytes": 6514,
@@ -1374,6 +1473,39 @@
         "sha256": "47596b3a32cb4f013cfcc3a9f456d838f109c3ae81a07e9e4961a40ff1990d6d"
       },
       "sha256": "3373b437b12300dc58f01772a7e17c1ea9b90a760b209945a8c82867fb638431"
+    },
+    {
+      "bytes": 2192,
+      "path": "client/runtime/shaders/graphics/vulkan/vs_water.bin",
+      "payload": {
+        "bytes": 1217,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1eb166c99164b763c9739671c48fba1b1734065fb712f0039cbadd2eeaec38a7"
+      },
+      "sha256": "b553a96a04ab4781092138018beaae9d84bc806b6647d72f6656598d44131aba"
+    },
+    {
+      "bytes": 2391316,
+      "path": "client/runtime/textures/water/normal-0.png",
+      "payload": {
+        "bytes": 2391556,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1e68ef0c624450e5a2ccd82bf99d706f08167be8136503f0c5d3ee8d9bc3b08f"
+      },
+      "sha256": "869d2d116b5688c574b55f479b30c1b60c072aead4d42af65b43e359911fe038"
+    },
+    {
+      "bytes": 1838459,
+      "path": "client/runtime/textures/water/normal-1.png",
+      "payload": {
+        "bytes": 1838635,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a2c2eae07b6c1d6bc017a6f024419519b34e31aaf53daa3dd8b1c75cb80f70fb"
+      },
+      "sha256": "8667c406b8a644407245e89e4cfb62b621f74879af11ae724f70a8f0a7b2d044"
     },
     {
       "bytes": 36306,
@@ -1773,5 +1905,5 @@
     }
   ],
   "schema": 2,
-  "version": 1794310672
+  "version": 1794312501
 }
