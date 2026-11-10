@@ -1,15 +1,54 @@
-# Sanketa development patch feed
+# Sanketa encrypted updates
 
-Private development repository holding signed client update artifacts. The active player patch channel remains the **LAN HTTPS/HTTP host**, as requested; clients cannot download raw contents of this private GitHub repository without authentication. No GitHub token is embedded in the client.
+This repository holds the signed update feed. Game/runtime objects use **Sanketa
+Seal v2** encryption and ciphertext SHA-256 filenames, so a hosted object cannot
+be opened directly as `ZFLauncher.exe`. The current `Tantra.exe` verifies the
+release, downloads changed objects, authenticates/decrypts/extracts them and
+verifies installed file hashes before installation. Compiled clients contain the
+decryption material needed to recover their game files.
 
-From the parent workspace, run `publish-lan-updates.bat` after building/staging. Add changed native resources with `-Include resource/path/file.hpk`. The script generates this repository's signed feed and mirrors its approved payloads to the LAN web root; commit/push this repository afterward to archive the checkpoint. The default migrated feed is `http://172.16.90.12/sanketa-patch`, served from `C:/xampp/htdocs/sanketa-patch`. The previous workspace's `/patch` feed is left intact.
+## Publish from the main workspace
 
-- Root `Patcher.dat`: signed release descriptor, not client configuration.
-- `UpdateList.dat` and `NotifyMsg.dat`: release manifest and notices.
-- `releases/`: immutable versioned manifests/notices.
-- `objects/`: content-addressed file payloads.
-- `bootstrap/Patcher.dat`: signed client configuration for the selected LAN feed. Copy this file into an existing compatible client root once to select that feed.
+Normal Release client build/stage wrappers publish automatically after success:
 
-Keep signing keys, source code, saves, preferences, server state and credentials outside this repository. Binary/signed payloads must remain byte-exact. Bootstrap Tantra.exe replacement still needs an updated base client.
+```powershell
+.\build-sanketa.bat -Component Client
+```
 
-GitHub-based player patching can be enabled later only after selecting a publicly reachable feed. See the parent HANDOFF.md for current publication status.
+For a staged executable or resource-only update:
+
+```powershell
+.\publish-lan-updates.bat -Include resource/path/changed-file.hpk
+```
+
+The publisher packages through `TantraPatchTool.exe`, mirrors the LAN feed, then
+validates/commits/pushes only this encrypted repository. An unchanged payload and
+notice keep the current release/version. Existing release notes are preserved
+unless `-Notice` supplies new text. `-NoPush` leaves a locally published draft;
+build wrappers also accept `-NoPublishPatch` for explicitly local work.
+
+The GUI `tools/SanketaPatchBuilder/SanketaPatchBuilder.exe` in the main workspace
+can also create the package and LAN mirror. Run the publication command afterward
+to archive/push that prepared feed without repackaging unchanged payloads.
+
+## Feed files
+
+- `objects/<ciphertext SHA-256>`: encrypted/compressed objects; no raw EXEs.
+- `Patcher.dat`: signed release descriptor committed last during packaging.
+- `UpdateList.dat`: paths, installed-file hashes and encrypted-object descriptors.
+- `NotifyMsg.dat`: release notices bound by the signed descriptor.
+- `version.dat`, `Tantra.dat`: signed descriptor aliases.
+- `releases/<version>/`: immutable signed-release metadata inputs.
+- `bootstrap/Patcher.dat`: signed client host configuration; copy this into a
+  compatible client root once when selecting the feed. It differs from the feed's
+  root `Patcher.dat` descriptor. Older clients also need the current `Tantra.exe`.
+
+The active player URL remains `http://172.16.90.12/sanketa-patch`, served by XAMPP
+at `C:/xampp/htdocs/sanketa-patch`. GitHub archival does not switch clients away
+from this LAN host. Public GitHub downloads require a publicly accessible repo
+and an explicit client host-configuration change; no GitHub token is embedded.
+
+Private keys, source, databases, preferences and player state stay outside this
+repository. The publisher rejects unexpected files and unencrypted objects.
+**Older Git history contains plaintext payloads from before encryption.** Current
+encrypted commits do not erase those historical files; history was not rewritten.

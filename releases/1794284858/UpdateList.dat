@@ -1,0 +1,1843 @@
+{
+  "files": [
+    {
+      "bytes": 564712,
+      "path": "client/MSVCP140.dll",
+      "payload": {
+        "bytes": 209889,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "fda7d6bd9f19c336fa946ffcd17536d15e227c4cc94efc6991d2f87b4b9a050c"
+      },
+      "sha256": "3951e6bda389b85585ccac8d36ddcb6658270cf674e8e55aa0d77302e59d803c"
+    },
+    {
+      "bytes": 39408,
+      "path": "client/MSVCP140_ATOMIC_WAIT.dll",
+      "payload": {
+        "bytes": 22523,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "caa88cfbd4654a408df589f50b42d1dd50c6a0352616a884e544e305687d78bb"
+      },
+      "sha256": "abd3418a7a94d96e43a03f26644cff63da698634a6d429bcfddd782d12d1fb4f"
+    },
+    {
+      "bytes": 109552,
+      "path": "client/VCRUNTIME140.dll",
+      "payload": {
+        "bytes": 59821,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5211b0165b0f3eeb37b3e2c1f257104dbd123315d2823a532c2ba0e73748d3a5"
+      },
+      "sha256": "cfd58d2573a2f3c7b7ff256aacca833f9da863fa86d058ba458d4c16b3cc9342"
+    },
+    {
+      "bytes": 38384,
+      "path": "client/VCRUNTIME140_1.dll",
+      "payload": {
+        "bytes": 22731,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "ae5dafae9604daf1879905f457c311c19c68d52ca20fc6a2c64bb1e9d527196f"
+      },
+      "sha256": "2e9d5bcb36c6fc292dd51aa4136f2a53d43bce00ad58029ca26bdd799ba50f3d"
+    },
+    {
+      "bytes": 11424768,
+      "path": "client/ZFLauncher.exe",
+      "payload": {
+        "bytes": 5945310,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "9aaee8465b147227d0d45e916950ef9d01cf4790305ca7d56cbf4c729527cef9"
+      },
+      "sha256": "01c678e78f7b775a71fae80940e90a8a17edb9b6e415eda842de93e0686f85fe"
+    },
+    {
+      "bytes": 27846,
+      "path": "client/resource/UI/IntroUIInfo.sys",
+      "payload": {
+        "bytes": 6337,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "04a0cc2033d305d83cf26fec63f4446b90144832f3e1f9296084a711faf6fe77"
+      },
+      "sha256": "4570aa9102d4092f441262d51f15acde52ad5cc145d3345fd9e07aa5194b8392"
+    },
+    {
+      "bytes": 27846,
+      "path": "client/resource/UI/K2/IntroUIInfo.K2.sys",
+      "payload": {
+        "bytes": 6347,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c4bc6c8c5ed58a38643cbf346a5dfc4ea48719908e92c1ab136797dcb0572877"
+      },
+      "sha256": "7f4eeedc71ac37c602d881fcf9148151da7ca91599d1757ba046a064383c7f15"
+    },
+    {
+      "bytes": 191009,
+      "path": "client/resource/UI/K2/Layout.tsv",
+      "payload": {
+        "bytes": 42654,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e90b4746225b98b79b1d295abb82b881ce0cd00a4e97a5160caf3f7a7173f820"
+      },
+      "sha256": "3faf2309129c1e4d8473e60413c76370ae71fa8439fd47729bdae94680b764df"
+    },
+    {
+      "bytes": 2126,
+      "path": "client/resource/UI/K2/LoadingUI.K2.sys",
+      "payload": {
+        "bytes": 842,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "67515eb9200f01266934c2a39e9f368d64424bcad8ca122191e25c8fdfd515ee"
+      },
+      "sha256": "c9ed86760090fdc98d9f488df6c878b39e21e76b8a5d2c94b5b3586b61d03855"
+    },
+    {
+      "bytes": 281567,
+      "path": "client/resource/UI/K2/MainUIInfo.K2.sys",
+      "payload": {
+        "bytes": 59928,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "dd2943062518cd8c567a0033143cc1987a9cc7532773697dc4a3697132e0b150"
+      },
+      "sha256": "5b6c7969e3c521d0a5bd0c00e4ec7befb06a43913062373a469823e217acacf2"
+    },
+    {
+      "bytes": 770,
+      "path": "client/resource/UI/K2/Scene/system/IntroObj.txl",
+      "payload": {
+        "bytes": 512,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "6f9d07fca3d6b2678fe371e5f2ef23099749982b0de28e52457b02e30ab3ec43"
+      },
+      "sha256": "3a1b2dccb69c7a88c2cff843df0e940ef66154702bfed9eee87ce532d71db60c"
+    },
+    {
+      "bytes": 2126,
+      "path": "client/resource/UI/LoadingUI.sys",
+      "payload": {
+        "bytes": 842,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "67515eb9200f01266934c2a39e9f368d64424bcad8ca122191e25c8fdfd515ee"
+      },
+      "sha256": "c9ed86760090fdc98d9f488df6c878b39e21e76b8a5d2c94b5b3586b61d03855"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_Harman1.bmp",
+      "payload": {
+        "bytes": 3058,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1dce2aea8d26c6e6dbae989a34679065cecec382d9e9ec8f0f3df120685435de"
+      },
+      "sha256": "79f7ce4fbad3e452f07579d1f870bcbd6c501945d94835566c1f5d00558696f4"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_Harman2.bmp",
+      "payload": {
+        "bytes": 3202,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "8487d6c52569536963efca0a8c18633b20fe682b1e1c20c0fc90eb7ad5f6fdd5"
+      },
+      "sha256": "2b24ff16379fdc8b723f60da00418fdc8627d70d18a72e85de3fd8ab82ca6bee"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_Kruma1.bmp",
+      "payload": {
+        "bytes": 3206,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "9317911eb2525ef0137aeb3c109872746b97a4beb8fe32fa6dd6c4c2f933e646"
+      },
+      "sha256": "5f49ebc73a5796915c4ebd1cd1908826b4afb09357fb59f8416ead39e4be9e5f"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_Kruma2.bmp",
+      "payload": {
+        "bytes": 3072,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "35a94bcc8e365b4f3fbdcc0ce7ec4096c2b73e94d60c1bf51b939d63e2b42790"
+      },
+      "sha256": "6a42bcf2b7a0734e33bcc3ffeb8abafc8038885856a24fc2d1697bffb21e0a7f"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_Pink01.bmp",
+      "payload": {
+        "bytes": 3206,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "4aecd9c5f4c15fa3b9df1662faf138090199ed1aeb89cc08ddaa24e87a29f525"
+      },
+      "sha256": "016525e55e662bb8505fd056490cc80b0e6a0e8144e5484ce1af3c969c7c6302"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_Pink02.bmp",
+      "payload": {
+        "bytes": 3198,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a5eafa18d5439a330d3d984f59797d1d47467703257518f169d9380a9faffa4e"
+      },
+      "sha256": "0080218e9fbfe40db846766323e7f5b2a1ed1afc3cc53a5db76f42d29f9e2efc"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_chatu01_32.bmp",
+      "payload": {
+        "bytes": 3196,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1428e399d812553506ce4c0e3a67e9dfe971528ff28412fa3af145da0e5e09ed"
+      },
+      "sha256": "8c5dc38f1314070b91478d516724cff0b1a9a83d2e36c91200a0a5366747f81e"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_chatu02_32.bmp",
+      "payload": {
+        "bytes": 3104,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "7f255f53d7374c923817a00bede50724df0e4522e4c4d095f83a2bbaea751e85"
+      },
+      "sha256": "98bd26e95a556c430764cd705c7dcc24b0c95de0628ca537878be3fba1f510cc"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_laughutava_32.bmp",
+      "payload": {
+        "bytes": 3087,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "ae229a89e3a4fdb17a46270cfe61ef8e61d26259aa481fabe0e8bc8d79fb76da"
+      },
+      "sha256": "663315e6e9dfc4eaf94de44151ff7d8ca893f59d7d8c6472c56d9588dd18fd73"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_matra_32.bmp",
+      "payload": {
+        "bytes": 2607,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b3b0e8c6713d20032cbe2c213c4611c03c09df3d320365dadedec2b82daaa8e7"
+      },
+      "sha256": "875b3922865351d23eaabe367f34b60d919edb9d978349db64e1e0e1a8b8171e"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_parcint_32.bmp",
+      "payload": {
+        "bytes": 3200,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "095d8ab931e98e9af2ad9a78977ae5533dfc60247c7188f909b5339d4b03224a"
+      },
+      "sha256": "a9f80b71f3b00d71da8edd22871f059db2a1af0558810ea28935052624286e65"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_partrvha_32.bmp",
+      "payload": {
+        "bytes": 2974,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "4ddf9d11fdf281e96606bfe3dc3ca7e89f233675fcfd2f88ee82cacc8207ada8"
+      },
+      "sha256": "928c833008cbc1c8798079abd296ae186e765d0e3bfec16c445d67796f57864e"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_PetSkill_parvha_32.bmp",
+      "payload": {
+        "bytes": 3080,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "fad87bd256e9822aae45702a041c3f5d878a233d62655babf2e27bcf6277a109"
+      },
+      "sha256": "fab07ed1a3a84e814ee01f50091c1d11d4fa62b24dd1c5a38497bf389a36de42"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_EliphantPink.bmp",
+      "payload": {
+        "bytes": 3206,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "698a324a88ae9ede0ecda1096c139f24327f297475c79966f7d38e497ce2ae4f"
+      },
+      "sha256": "7ef0b77c9d5ffed1495de868b8d0a26d4f5649876dc6fff9cda244399eb9a7a7"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_Harman.bmp",
+      "payload": {
+        "bytes": 2746,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "3340ffa245523a66c6539c06cb8995cd1cdfd9f25530c3c87d7e2cbec96dee43"
+      },
+      "sha256": "98c8d898f86e185540628b90abc56419bbf48db38368f338e3242d791a35af72"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_Kruma.bmp",
+      "payload": {
+        "bytes": 2911,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "4c2af63e824c1669bc33d7081c1bad220602281346fbb0bc5cdb487cc9a9f098"
+      },
+      "sha256": "8de35f2d6c87d8d664b7a32d42b0b78573e8015f792040a0d964fcfc27c93950"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_bhasat_32.bmp",
+      "payload": {
+        "bytes": 3206,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "ef9856212c4cac9491c53d5dcc845944be389e566d2fd4f89a01483c3c4c0e07"
+      },
+      "sha256": "6951d94c1df72750fcd9160b68e98cb77fbedab98430de10802a02687c0b4762"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_chaturangaarmy_32.bmp",
+      "payload": {
+        "bytes": 3138,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "ecc0b7ddfbed6366bebf66f761a4052d0b93d198979d12f2aadd24fd690cbd79"
+      },
+      "sha256": "0718470501aa33f71a33c38cc9996a3524d934d6920b065dfe13a7b34a0abbf6"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_food01_32.bmp",
+      "payload": {
+        "bytes": 3168,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "4d7580dbfdd8033d21559aa1307465d3f923287b190c2bfb5825af2948e88896"
+      },
+      "sha256": "6ea22e382b6c0df938091104f508e3417901b57694b0c1d5a5e4f8138046c5d8"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_food02_32.bmp",
+      "payload": {
+        "bytes": 2976,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "07cef4a8899ca7a3d27354b0c1c40217afa4d0cdee69c98f90773195be294c65"
+      },
+      "sha256": "f1f3a1170abb63e305990daa930d73d6954dd7cbf4efcc4b1b0d0dec100ec56b"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_food03_32.bmp",
+      "payload": {
+        "bytes": 3006,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "21a3ff2f0d948c50d4c9bc3ba815f9ef74ff4062e38fc806ae81ed2d5bed0a33"
+      },
+      "sha256": "26aae404c98bb1716808bcb91d8d5b55db93dc3932f3be06e842af005284942c"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_ganesha_32.bmp",
+      "payload": {
+        "bytes": 3206,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1dd481dc0cd63ead6fdd3f919545aa0e6132d2a6e4217cb488bd96b60bf9bc19"
+      },
+      "sha256": "65ba493fd71786f6b5dba3e3d1503d29f56dc40f4dd2e0e2c4d10804a1d3b896"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_matsya_32.bmp",
+      "payload": {
+        "bytes": 3206,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "7e2908361256c1a16fc5005ebf0a4dfa8b91ecae0bf131d5bc3c7dee16f59296"
+      },
+      "sha256": "f0758f63b9f9c4b2df2fd124c4078f253d8a4293177d4c5e98b10ed9d00ae262"
+    },
+    {
+      "bytes": 3128,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_resurrect2_01.bmp",
+      "payload": {
+        "bytes": 3208,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a98b4587e88bf0eee3d7bf39ada6820d1f3d74895da29309db6c1c08529d97f1"
+      },
+      "sha256": "34558894dea6ff3eea2935ed08a2fc33aa0d4c6a93d429238effa3430ffe3d6b"
+    },
+    {
+      "bytes": 3126,
+      "path": "client/resource/UI/MAIN_RESOURCE/UI_Pet_resurrection_32.bmp",
+      "payload": {
+        "bytes": 2839,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "293465586d7cfa5e0e93cb52d7d3e0f74a09879a513f270f3c60b51542d64550"
+      },
+      "sha256": "89c7f828238c3592ced7bce79af2b2efc0bdab55939f21dadf9f8543a5c49a3f"
+    },
+    {
+      "bytes": 323675,
+      "path": "client/resource/UI/MainUIInfo.sys",
+      "payload": {
+        "bytes": 67882,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a3fe58641b0788bd0bdb248cbc76caa182136699790d17f2968d240c60e76f8e"
+      },
+      "sha256": "493515412e665ecfffcddcb77f7d906a5baab8fc4b774b7e2038811aa3ed4889"
+    },
+    {
+      "bytes": 34062,
+      "path": "client/resource/fx/fxMAPArenaDurga.txl",
+      "payload": {
+        "bytes": 2072,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c9108a7d10cb06a5bd395470438b3bf6d4331554ff2ee6a8d670691011b06b9e"
+      },
+      "sha256": "127298063a47195fca8750cfadacf6e25fcf411ee372c03f38fc591231c170c1"
+    },
+    {
+      "bytes": 7773,
+      "path": "client/resource/fx/fxMAPIntro.txl",
+      "payload": {
+        "bytes": 801,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "4be2a670b025272863bbe52e4023e77bef8921f7fe89ae3af294ac49ca34220b"
+      },
+      "sha256": "8d65dfdb69ec8e4a6b1d28505ec37557ad6deec0730e198a4d74738ae77655d9"
+    },
+    {
+      "bytes": 38822,
+      "path": "client/resource/fx/fxMAPJina1st.txl",
+      "payload": {
+        "bytes": 2182,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c82746767b856a3f9131978aa2622e5b47f23e559291bb8cea95d2b6f7021195"
+      },
+      "sha256": "20875e6e638c8330c662cea9d86e4a7b6ff25c78706a8997d0d1389b93a097c2"
+    },
+    {
+      "bytes": 49970,
+      "path": "client/resource/fx/fxMAPJina2nd.txl",
+      "payload": {
+        "bytes": 2918,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5d086b3250c239882efdf4436c90deb12a26d84ce9ba973751f2bf5af701812f"
+      },
+      "sha256": "c234d9959c897f5ec11dcfff07aaca527b808a5a3cc221a3e826e7ad0c05d71f"
+    },
+    {
+      "bytes": 35514,
+      "path": "client/resource/fx/fxMAPJina3rd.txl",
+      "payload": {
+        "bytes": 1954,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "dac667748bf7ae6767fc1a117e88a361bf097dd565c01c3db7981514b6fdf2cb"
+      },
+      "sha256": "5450659bda904ec1cb77faee3fde36899425d680951015921600b94d96e85dc0"
+    },
+    {
+      "bytes": 38666,
+      "path": "client/resource/fx/fxMAPJina4th.txl",
+      "payload": {
+        "bytes": 2219,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "6ad04f7068a568ddc368e27df5233d9b7533075e595d6cb5e0906e60008fc0c0"
+      },
+      "sha256": "d66605646606f576abfe70a262f4c959dc02e83d0e9e281c8f902303c4e976d0"
+    },
+    {
+      "bytes": 35078,
+      "path": "client/resource/fx/fxMAPJina5th.txl",
+      "payload": {
+        "bytes": 1993,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "0722329ec0b48fc458c3cb231f4611b06e8f2ff6f0da4540c57022bea8124361"
+      },
+      "sha256": "f6585c7919ee929df01d81d125fb504468b84d481861aae5d713e1c9797c1faf"
+    },
+    {
+      "bytes": 45182,
+      "path": "client/resource/fx/fxMAPJina7thCave.txl",
+      "payload": {
+        "bytes": 2654,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "240d5d6e818351028fc6dcbd0065055270728f9960d914c175b066db7af7cb72"
+      },
+      "sha256": "23cbf5081418aec2a3b32e54989e2cea6385f3fc276c8d67ec522a902cb4f547"
+    },
+    {
+      "bytes": 24822,
+      "path": "client/resource/fx/fxMAPJina8thCave.txl",
+      "payload": {
+        "bytes": 1342,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b50ae906edfdb7745100eed03ed6a1240a15141c23aac03d7df4a59d48f3b4cf"
+      },
+      "sha256": "78ba64941942921a5ec508f35cfc7be657c52e8d0a4b3e80a0f78a806c48313f"
+    },
+    {
+      "bytes": 45442,
+      "path": "client/resource/fx/fxMAPMandara1st.txl",
+      "payload": {
+        "bytes": 2465,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "ea1d6eb7fd58450e7faba2e5fe834b687e596ea1c2a095c4223a80c64f15729b"
+      },
+      "sha256": "f09ab1ccfbbe69ac65a813d1cc9de29dd30e3341c2af4880f91f30339f83ce28"
+    },
+    {
+      "bytes": 36806,
+      "path": "client/resource/fx/fxMAPMandara2nd.txl",
+      "payload": {
+        "bytes": 2062,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1170e3e7e70684a0f75ddddaac5fd69527ec7645fed1ff36603138ffd857fac6"
+      },
+      "sha256": "6da5365f3d8e5f14707f4f3af82ec8cc936c350820210ded64e8b21760745080"
+    },
+    {
+      "bytes": 26550,
+      "path": "client/resource/fx/fxMAPMandaraCave1st.txl",
+      "payload": {
+        "bytes": 1472,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5dfdf6f4a40b091360761ae0c8106dbb637824a8be56f66ec7e0d3d553f767e0"
+      },
+      "sha256": "8efd66f06197e2989b22856f091a07819c320217109347bd3494adfbbecc9922"
+    },
+    {
+      "bytes": 28970,
+      "path": "client/resource/fx/fxMAPMandaraCave2nd.txl",
+      "payload": {
+        "bytes": 1561,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "60678479b7faad8e1c9080ec178927e5d4287fed0f64583c541e81acdc7a09d3"
+      },
+      "sha256": "04ccbdc268213fe7c98be449beeeebcb1d21a6ef19848cfba2aad54c6ae3fde6"
+    },
+    {
+      "bytes": 31166,
+      "path": "client/resource/fx/fxMAPMandaraCave3rd.txl",
+      "payload": {
+        "bytes": 1662,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "223a1ab1ddd2f5ca643454cc3a043b8e5df253ee46f2f0038e25bf5d7b8f5ad3"
+      },
+      "sha256": "e3dd10c754ff16ff3593721504a145eea6e119c6624d44da3da8ca4dd627c17f"
+    },
+    {
+      "bytes": 27934,
+      "path": "client/resource/fx/fxMAPMandaraCave4th.txl",
+      "payload": {
+        "bytes": 1525,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "eee7b5a1818163d65bda5c35968b1d0d0ceead95064df99261340a34db51711c"
+      },
+      "sha256": "4a99974e50a0ef4124c7f01209aa1a7a2ba1aaf85c10cfdb3de77d201e7acaef"
+    },
+    {
+      "bytes": 41458,
+      "path": "client/resource/fx/fxMapBiryuCastle.txl",
+      "payload": {
+        "bytes": 2426,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "18d6381a6372a3758925348cd6084088c02ca25b4490f47492a0dbd91e9cf196"
+      },
+      "sha256": "e67ce41ac915f35c270533f10795b8578f246c086fae7144fe0924a790ebe0c8"
+    },
+    {
+      "bytes": 523390,
+      "path": "client/resource/fx/fxPC.txl",
+      "payload": {
+        "bytes": 22611,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a27509ec6c5f97ed8d044332d79dbf9c13f17b95d44d04d81a9f6108e1fc7632"
+      },
+      "sha256": "e1992e5a8690efa00247e02abe11b0aa79c5388f03c619f76f5ba7c3daeb9216"
+    },
+    {
+      "bytes": 465,
+      "path": "client/runtime/data/english.json",
+      "payload": {
+        "bytes": 545,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "05fa5e6018fd7e07bc91b842b52bd3b10604e3c9d0001a40386b95451d72a5c7"
+      },
+      "sha256": "f1a6b45a0c432fc6824745414fc0162dbebe30010470b48dfb324890de4bfe04"
+    },
+    {
+      "bytes": 746527,
+      "path": "client/runtime/data/english.tsv",
+      "payload": {
+        "bytes": 154192,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "4d714f984e8e45d815fcefb3ed116a3d1d8aeb30c8f73d9a6f46df9f44113acf"
+      },
+      "sha256": "e0261ae96f200b432fdb6c5046439dd2b8d2ebb3e64d37d221c10f25d21ed911"
+    },
+    {
+      "bytes": 421,
+      "path": "client/runtime/data/offline-zones/Zone17/Data/Settings.ini",
+      "payload": {
+        "bytes": 501,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "6ca065eb955c58de626c4f7dbf555d4745a7c39c2a18bce7946802e7d2cf9014"
+      },
+      "sha256": "a71ae1d5d35c493dc06cbb0863c6393c68ac14a800a3c0ad21437ef2fc91ab33"
+    },
+    {
+      "bytes": 1069,
+      "path": "client/runtime/data/offline-zones/Zone17/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 853,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "cabcc9a38793a5fdc817e64a3ac98d271094cf0a329c0471cccd2edb3862b269"
+      },
+      "sha256": "360d8bd0eaa45bbd71d30b8426cf6c2d481760c461836c7aef50f265569f1231"
+    },
+    {
+      "bytes": 41,
+      "path": "client/runtime/data/offline-zones/Zone17/GenerationArea.idx",
+      "payload": {
+        "bytes": 121,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c73d7a6b3659263f1457476dc7db656bba2110a3397b101ff486309440e66154"
+      },
+      "sha256": "842274fd52e328ed30db04f674ce5d9456c8f569a823670b303c59d68b4b00a8"
+    },
+    {
+      "bytes": 22020172,
+      "path": "client/runtime/data/offline-zones/Zone17/MapData.tcm",
+      "payload": {
+        "bytes": 4529249,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "d211a4b9cf11c1ec5c11a228c2b2e5dcbf2141777cf6d9f4a3dc572df0474af2"
+      },
+      "sha256": "fb9ff50aff63b282fa1ffad54ed078522053741d70c3911dfb4a08d23775716e"
+    },
+    {
+      "bytes": 341229,
+      "path": "client/runtime/data/offline-zones/Zone17/NPCGener.txt",
+      "payload": {
+        "bytes": 43135,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b0b7a1ac0eebaae5fe69109f8e8bf7dc5678bd776bbb099b4d8a00f0289ecbd9"
+      },
+      "sha256": "5340395e6723db613bca346f8287d9645df266bb004b26817ea0380888553801"
+    },
+    {
+      "bytes": 646,
+      "path": "client/runtime/data/offline-zones/Zone17/PROVENANCE.json",
+      "payload": {
+        "bytes": 714,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "cc58a86a9779a3061ad1f61b12a14b3c815fb4da8403baab3f50deebdc205f98"
+      },
+      "sha256": "afcd8f3251416f621df4b50a31cd41841ce3240fdcc44d2e336eea64b433561f"
+    },
+    {
+      "bytes": 1281,
+      "path": "client/runtime/data/rules/character-stats/Coefficient.tsv",
+      "payload": {
+        "bytes": 786,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "42fee756f01a90dcf490abd65c29ffc7a695a5432a54ff94b622154c4cd59cd2"
+      },
+      "sha256": "e3266aedea147191c343d543010da69c4606325a31df7b14a896a6d1ad0c428b"
+    },
+    {
+      "bytes": 481,
+      "path": "client/runtime/data/rules/character-stats/EffectTolerance.tsv",
+      "payload": {
+        "bytes": 517,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "eba154fedcaed4ba58f756ad2af04fedca42e6b14f7633d17bb33bb82a4394a5"
+      },
+      "sha256": "c4428feee97b62655d780ab1f9e26e7051ac55788f282b9d3f51eb0f3a21607b"
+    },
+    {
+      "bytes": 2600,
+      "path": "client/runtime/data/rules/character-stats/LevelUp.tsv",
+      "payload": {
+        "bytes": 1160,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1a7bf9c60b0b1284a2b2f1d062fd45b35875890d81b71dba2b604936fd40b4a9"
+      },
+      "sha256": "58aad9cb49143138ea11a2a99f83f9628f5527e37ca68c3e15381ca288771dbc"
+    },
+    {
+      "bytes": 1904,
+      "path": "client/runtime/data/rules/character-stats/PROVENANCE.json",
+      "payload": {
+        "bytes": 1117,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c94a9dd02eb760ab05683d2a5360b403bfad791e86176d30408c5ae8fba3c06c"
+      },
+      "sha256": "96637a49f19e39d0ed1aa69fcded94be56c98cab68cf576f2ecf9887b744b501"
+    },
+    {
+      "bytes": 347008,
+      "path": "client/runtime/data/rules/gameplay-parameters/Item.tsv",
+      "payload": {
+        "bytes": 50490,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "44685228463e19f7ee4260c2bd856e768bbd14ca1e2b9079e7b6202638ab5df7"
+      },
+      "sha256": "00db8a9c7789c52889e0a9ecfdd5c30854ec348a3d1eb4f2c1ce31c006e45576"
+    },
+    {
+      "bytes": 75056,
+      "path": "client/runtime/data/rules/gameplay-parameters/MonsterSkill.tsv",
+      "payload": {
+        "bytes": 14292,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "61891e870a04249719ed0ab706f3e91ba17b1d7a83bb4fed5a7e20df4cbd2e76"
+      },
+      "sha256": "87a5c61546e742e4a66cbc4c4d5972bad638cb59d66c86eecfaf34208cdc02f8"
+    },
+    {
+      "bytes": 173879,
+      "path": "client/runtime/data/rules/gameplay-parameters/PCSkill.tsv",
+      "payload": {
+        "bytes": 30466,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "87daeffcc9319f39fa2ac320462c22c3a4f8c010546dccf01cb2a15db0cb5778"
+      },
+      "sha256": "fca465ed024eb9ed560b9b01b2977ccad52d5f4b7b0970a0eb1f267f5c4a36f3"
+    },
+    {
+      "bytes": 13213,
+      "path": "client/runtime/data/rules/gameplay-parameters/PROVENANCE.json",
+      "payload": {
+        "bytes": 3405,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "dff4edda4581cd909e05c85b862a389b9eaf78f8ac66ac42364186a5af4f5661"
+      },
+      "sha256": "ef3462c66210c0f697105b80dd6a7289824d44655b796fb71443e0863ad41508"
+    },
+    {
+      "bytes": 73820,
+      "path": "client/runtime/data/rules/npc-services/Item.tsv",
+      "payload": {
+        "bytes": 15088,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b15344ff1704a5e047b18596b88c086dd37244ea7511faad25fdbdfbcdb78032"
+      },
+      "sha256": "c65d63681914d808d22b4ca5a88ed47a8d37207a44bb855f75bc694751ab4d9c"
+    },
+    {
+      "bytes": 3208,
+      "path": "client/runtime/data/rules/npc-services/PROVENANCE.json",
+      "payload": {
+        "bytes": 1475,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "18fe0f5331f6c42fa80334cc396ce1ea3d1fad3ed7de83d978fc183390d2adbf"
+      },
+      "sha256": "7be05240d8d0c18ec49b70fc4ee75c2b46c2e509cbf9f75ce4515af6409b937d"
+    },
+    {
+      "bytes": 2784,
+      "path": "client/runtime/dependencies.lock.json",
+      "payload": {
+        "bytes": 1562,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c51303581e0cc9ff19ef5a83d643a3b6c4096ed50be8680f91cc757115827b35"
+      },
+      "sha256": "4b3aa1849af66195c7668d8665424277f88360c97736a2998d11147f1bf5d05e"
+    },
+    {
+      "bytes": 963,
+      "path": "client/runtime/licenses/DirectX-REDIST-NOTICE.txt",
+      "payload": {
+        "bytes": 849,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "ab14ce2315ec11c578664f96bdada6790d484ee7e31caec71eb4a7146e13ffef"
+      },
+      "sha256": "da81deeef253102dbc826c57b4e01a039695a350b19066bf941077728129844a"
+    },
+    {
+      "bytes": 534,
+      "path": "client/runtime/licenses/MSVC-REDIST-NOTICE.txt",
+      "payload": {
+        "bytes": 611,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "88b807930db388ec32c85097458541e86b2c36d60ba328c60c2c639930b78390"
+      },
+      "sha256": "7997426dc5862fa4380b37a58e9af4a6061d48c72c223cbd800b825f56718ff5"
+    },
+    {
+      "bytes": 902,
+      "path": "client/runtime/licenses/SDL3-LICENSE.txt",
+      "payload": {
+        "bytes": 801,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1529c62ac1db81e8d91e7eb158b70f88bcdf0223047b253b692644bd81e76851"
+      },
+      "sha256": "6b8da877f518bae3e261b2613754cc97e916f20001c5499b4cea6680ac6d1e1b"
+    },
+    {
+      "bytes": 419,
+      "path": "client/runtime/licenses/SQLite-NOTICE.txt",
+      "payload": {
+        "bytes": 499,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "0c77a56a75e6d61b25f9686ed8d29f9d62b968cbdc0c634ffbf8c5f338d5312b"
+      },
+      "sha256": "ebe295abdd6d90eba8de103cf832a0b493cc65d0ceb1a45c9a44ef23a07873c2"
+    },
+    {
+      "bytes": 2448,
+      "path": "client/runtime/licenses/THIRD_PARTY_NOTICES.md",
+      "payload": {
+        "bytes": 1555,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "08ac5fb93e669be2d1e916bc54b22167a594c6ac1f15341c9b96a9da20c79680"
+      },
+      "sha256": "9b2930a83c90d60e4e3d46a5a6945da156d322b9092cb20327f792f10fd5d3f3"
+    },
+    {
+      "bytes": 1321,
+      "path": "client/runtime/licenses/bgfx-LICENSE.txt",
+      "payload": {
+        "bytes": 1020,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "bc55a27ef347a6b674c807210fd8379df5bf5e657ef8089872b10b816579f257"
+      },
+      "sha256": "2791a69b0fc5337cd704ecffeba80d7ee080aa95cfde5255704365f26887f0f0"
+    },
+    {
+      "bytes": 7169,
+      "path": "client/runtime/licenses/bgfx.cmake-LICENSE.txt",
+      "payload": {
+        "bytes": 3676,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1efef40ec4531013629ad69139b5583b5c5df88bdf75964268c321f45082bb12"
+      },
+      "sha256": "f4e7f373b9b996950337e8d41a4a2939c2d90b7725e9baf3d5084a22717ad328"
+    },
+    {
+      "bytes": 1321,
+      "path": "client/runtime/licenses/bimg-LICENSE.txt",
+      "payload": {
+        "bytes": 1020,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "bc55a27ef347a6b674c807210fd8379df5bf5e657ef8089872b10b816579f257"
+      },
+      "sha256": "2791a69b0fc5337cd704ecffeba80d7ee080aa95cfde5255704365f26887f0f0"
+    },
+    {
+      "bytes": 1338,
+      "path": "client/runtime/licenses/boost-LICENSE_1_0.txt",
+      "payload": {
+        "bytes": 1080,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "20fd418d7803d438872c28e6d2369308ee7e0adeffd2e4f7807877eb2569c8e6"
+      },
+      "sha256": "c9bff75738922193e67fa726fa225535870d2aa1059f91452c411736284ad566"
+    },
+    {
+      "bytes": 1321,
+      "path": "client/runtime/licenses/bx-LICENSE.txt",
+      "payload": {
+        "bytes": 1020,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "bc55a27ef347a6b674c807210fd8379df5bf5e657ef8089872b10b816579f257"
+      },
+      "sha256": "2791a69b0fc5337cd704ecffeba80d7ee080aa95cfde5255704365f26887f0f0"
+    },
+    {
+      "bytes": 1076,
+      "path": "client/runtime/licenses/json-LICENSE.MIT",
+      "payload": {
+        "bytes": 958,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e1763bcb0c2ba56a65664530e94d435e425a172f66f82cf22d7f68c8d371d559"
+      },
+      "sha256": "46a65cffd1ea955132d95a8dd921640714a8d6b537d2e4e482d31145ae95b603"
+    },
+    {
+      "bytes": 2643,
+      "path": "client/runtime/licenses/miniaudio-LICENSE.txt",
+      "payload": {
+        "bytes": 1431,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "584fb9c78134a32169d4af38bedc39518635edd8857b6ebb4b733ff9f82d18e4"
+      },
+      "sha256": "cf00884e3bae1ec7b49e96bc014079f5b4c803987586b894ac431779927c67b3"
+    },
+    {
+      "bytes": 295320,
+      "path": "client/runtime/redist/dxwebsetup.exe",
+      "payload": {
+        "bytes": 261883,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "3b0d73ec9e45f9658ecb9f3961650f9c196fdd2a692dac7434455d0b9fdc0de6"
+      },
+      "sha256": "2cf71d098c608c56e07f4655855a886c3102553f648df88458df616b26fd612f"
+    },
+    {
+      "bytes": 11147,
+      "path": "client/runtime/shaders/graphics/d3d12/fs_native.bin",
+      "payload": {
+        "bytes": 8589,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "463389adaf19f667a38299999c540baf4a98759e084f8ab1bca8baa10ed9f309"
+      },
+      "sha256": "0006d8af9401f497293ecf171062f928fe34077fd45f8f006c9b2cf0062e52f5"
+    },
+    {
+      "bytes": 2710,
+      "path": "client/runtime/shaders/graphics/d3d12/fs_shadow.bin",
+      "payload": {
+        "bytes": 2386,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "22fb477b1ebf3f0d6e33a498851a765fceecf3d7664ba23540528801558fec42"
+      },
+      "sha256": "0216926df0ad71793830edc481182695138456a233c033221cb54f403184cbe0"
+    },
+    {
+      "bytes": 66,
+      "path": "client/runtime/shaders/graphics/d3d12/shader-cache.key",
+      "payload": {
+        "bytes": 146,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "8349933502243fe07d005514da0a0694eaf0eab135071355ac8b3bd7f089a434"
+      },
+      "sha256": "064495800a9ff1f6b8bef501ffd6d0dba7d109fcc53315546b643a801b25d9fa"
+    },
+    {
+      "bytes": 8892,
+      "path": "client/runtime/shaders/graphics/d3d12/vs_crowd_instanced.bin",
+      "payload": {
+        "bytes": 6423,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c1ea7137f572366d1417b921f18a704fc73896cfda690f3bb2a57b2c894fd1ed"
+      },
+      "sha256": "262bb194d5bad19139272e532b0c485bafb01e3e4b7f0e5458153aa3ef2aa259"
+    },
+    {
+      "bytes": 5142,
+      "path": "client/runtime/shaders/graphics/d3d12/vs_instanced.bin",
+      "payload": {
+        "bytes": 3794,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "ee9a675b4b71b2c61bea7eed8258b63999faeae0bf66c3f990095c39923a0031"
+      },
+      "sha256": "75890c037901a4c0308499bdf7dc47fc29ee188c38f09706eb077a0db4db72f5"
+    },
+    {
+      "bytes": 4888,
+      "path": "client/runtime/shaders/graphics/d3d12/vs_native.bin",
+      "payload": {
+        "bytes": 3669,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a89380edbfdfbb69f849c3c08452f01f167d255eff255aa8c4fd5984a272a2f8"
+      },
+      "sha256": "f7d8db8de86b06f0480a98b292467696e8bb1571a688a22149275297a60fdc60"
+    },
+    {
+      "bytes": 3937,
+      "path": "client/runtime/shaders/graphics/d3d12/vs_particle_instanced.bin",
+      "payload": {
+        "bytes": 3052,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "40ca280d712127cbe1fd084e8c503e2b4d7f22cd9d9eee17dc43c06e9eea1822"
+      },
+      "sha256": "585c6f311f27231cc0a9ed153be221b907004fce2d9f89920da1c70f4a584689"
+    },
+    {
+      "bytes": 2644,
+      "path": "client/runtime/shaders/graphics/d3d12/vs_shadow.bin",
+      "payload": {
+        "bytes": 2279,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c369899006d251c3373e894273f4ec64f80364fb581f42f06a1b54acf296e017"
+      },
+      "sha256": "31bd42940c5912999b92456aac3bb38ba69f300cc12607532f14c5410bacf551"
+    },
+    {
+      "bytes": 5025,
+      "path": "client/runtime/shaders/graphics/d3d12/vs_shadow_skinned.bin",
+      "payload": {
+        "bytes": 3965,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "fa595ae0bb84ee8dd11dd437230ae71027c1f36619935d8c000dd77ea7006f56"
+      },
+      "sha256": "cfa7c76fcd6f0147ed681fd79857ea6191c30380c80d8b9d33055df4296acf8d"
+    },
+    {
+      "bytes": 7317,
+      "path": "client/runtime/shaders/graphics/d3d12/vs_skinned.bin",
+      "payload": {
+        "bytes": 5375,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "734e8bc6afd232d10e6140697c2369b8f010e8247ccdf9d92519ae2d97a9bd85"
+      },
+      "sha256": "410d13f53922c091a67bc8b1364a152ef2d104331370596a847b4565df5dba9b"
+    },
+    {
+      "bytes": 7841,
+      "path": "client/runtime/shaders/graphics/d3d12/vs_skinned_instanced.bin",
+      "payload": {
+        "bytes": 5713,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "22d9585f73e5090a48df9dc276b1000ce02b9373b19f403ad1adc564b7bee776"
+      },
+      "sha256": "cfec6fbf42a9b985cb98a6727a6be2fc3656024bf8bc7f648d5cb82d7fc609ee"
+    },
+    {
+      "bytes": 12751,
+      "path": "client/runtime/shaders/graphics/fs_native.bin",
+      "payload": {
+        "bytes": 3836,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5dab1168738752af1d21892fad05d8c025a750ddb4847e1b2e8d85e83d75e0fb"
+      },
+      "sha256": "6aad617bc3d816896c5a774460f9ce0bf43492d2e903599b4f419d446146deca"
+    },
+    {
+      "bytes": 618,
+      "path": "client/runtime/shaders/graphics/fs_shadow.bin",
+      "payload": {
+        "bytes": 621,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a7b684b76a148335f17c52e63a3254d12a6e04a2b24dd0cf022730844b476989"
+      },
+      "sha256": "76e662de2d27c2c0343e7ca09604318a0b80539b42a36e782299c86aa40b2b6d"
+    },
+    {
+      "bytes": 12690,
+      "path": "client/runtime/shaders/graphics/opengl/fs_native.bin",
+      "payload": {
+        "bytes": 4142,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "290c513520b4fa624945cc6a36c22342ef9497e2c301ce17dd1e108bd3f8cd6c"
+      },
+      "sha256": "cd2fb8a1a8163d06298ce598f3fab0aac43ce6d8e2b9598423e801f9c9bd9819"
+    },
+    {
+      "bytes": 373,
+      "path": "client/runtime/shaders/graphics/opengl/fs_shadow.bin",
+      "payload": {
+        "bytes": 453,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "15d74aaf52040b58441bdd9ce7bf3fe2878f64b5b172d5059788c570529a7b45"
+      },
+      "sha256": "b35f195e502951626d9bd902369dc5301531242265169e464b71cd3ed7555f35"
+    },
+    {
+      "bytes": 66,
+      "path": "client/runtime/shaders/graphics/opengl/shader-cache.key",
+      "payload": {
+        "bytes": 146,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "960fc9688f957cef52c956ed622b5fecb73eb5139b91835278f045844591dce7"
+      },
+      "sha256": "6314f3c6bf31635e670583a7d4f43a4061ef68fd365a7a4d350c5a3a188ea2b2"
+    },
+    {
+      "bytes": 3294,
+      "path": "client/runtime/shaders/graphics/opengl/vs_crowd_instanced.bin",
+      "payload": {
+        "bytes": 1324,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "15ea3dfab12fd276961b1a48e05edc8b77b6d75f41ac5e7194aa07ce23132ab3"
+      },
+      "sha256": "914985b1c144ee440debdc4497bcb6a4074cc8446f7b565ee8bc5b4cb129e7cb"
+    },
+    {
+      "bytes": 1236,
+      "path": "client/runtime/shaders/graphics/opengl/vs_instanced.bin",
+      "payload": {
+        "bytes": 769,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f528e7be54c88295832e65043fa0f7b4ff82b7fc2c0290fc763666e2a7d03234"
+      },
+      "sha256": "aed408591cdc7434683423d0ef6b0a3d4a872a4ec1f725f87cab87447fbbff1c"
+    },
+    {
+      "bytes": 1204,
+      "path": "client/runtime/shaders/graphics/opengl/vs_native.bin",
+      "payload": {
+        "bytes": 800,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "d8da8ce116db97d13bd68c2e704cdb62fa4bce00bb4c00f72a298b3ba376ba21"
+      },
+      "sha256": "462dd5091d89e520b9a53f6896c4ba590119f3fe9b110eee5b820b604f8ce2c4"
+    },
+    {
+      "bytes": 885,
+      "path": "client/runtime/shaders/graphics/opengl/vs_particle_instanced.bin",
+      "payload": {
+        "bytes": 712,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f4f110c927a434363f80fd8048bda9afa8f803843ba1932907880453bf06771c"
+      },
+      "sha256": "223be8b5f080457d6298f713d33ce0800f418c6042dbd51d7e0bbe9fb7256ef0"
+    },
+    {
+      "bytes": 298,
+      "path": "client/runtime/shaders/graphics/opengl/vs_shadow.bin",
+      "payload": {
+        "bytes": 378,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e6bb7e33a03f0f975e43651c4dd4df01df2d0fb1e57c8b775d312bc342270fe0"
+      },
+      "sha256": "c7b0e9f53fac246822e394d26e66df25f0f4c474ee069a7b7b68b371bbd19b2b"
+    },
+    {
+      "bytes": 1474,
+      "path": "client/runtime/shaders/graphics/opengl/vs_shadow_skinned.bin",
+      "payload": {
+        "bytes": 796,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "74531d1bb15c7f5218353d9b5eca34be896c5462cf540a9dc0f8775e0f459db7"
+      },
+      "sha256": "bb9294781dd64ab5f57e825f7946f6f7a765f85146da00fa33cf2614ef8a9039"
+    },
+    {
+      "bytes": 2389,
+      "path": "client/runtime/shaders/graphics/opengl/vs_skinned.bin",
+      "payload": {
+        "bytes": 1114,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "17f776b6e2ff583636dbb4b14f3672d9bd0ca08ca0c12e2719c74929a0c8fc8a"
+      },
+      "sha256": "595dadbb48f2981059cab4118b7177716e87419bfa68560020808a8d700fcd8b"
+    },
+    {
+      "bytes": 2711,
+      "path": "client/runtime/shaders/graphics/opengl/vs_skinned_instanced.bin",
+      "payload": {
+        "bytes": 1191,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "40ba09ab0109406d1bc38efda6468f3008a5d5b24fc4b7340ef22edb76c014f8"
+      },
+      "sha256": "9c3e99de4b561eed10e8afb0fe5c4221139402875d9b563e18ac8ec273690df5"
+    },
+    {
+      "bytes": 66,
+      "path": "client/runtime/shaders/graphics/shader-cache.key",
+      "payload": {
+        "bytes": 146,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "0583261fa882c855b043a0ff5b71449f7e776500411074d0783fc84a5d9e5803"
+      },
+      "sha256": "81d213f9d91cde968f19441153c4b94ffc7d915af24660fd36d2d98b1846f197"
+    },
+    {
+      "bytes": 6892,
+      "path": "client/runtime/shaders/graphics/vs_crowd_instanced.bin",
+      "payload": {
+        "bytes": 2181,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "207617df60483baf52e47aa20b5039f0e0be811b8d5e6d73953c1a02dbc48d6c"
+      },
+      "sha256": "c0651861a8f67b20d9e000bd9e7ae07d79bf32544af0885af366d84899275fe4"
+    },
+    {
+      "bytes": 2306,
+      "path": "client/runtime/shaders/graphics/vs_instanced.bin",
+      "payload": {
+        "bytes": 1097,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "ab5271eed03509bc84318d197f0b6e5d91735095863c57ecd32dfc7a832e1a54"
+      },
+      "sha256": "4d8324014169fe22bd02bf829dcdbcddf764088614515ba8cdde482eab49392a"
+    },
+    {
+      "bytes": 2156,
+      "path": "client/runtime/shaders/graphics/vs_native.bin",
+      "payload": {
+        "bytes": 1098,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "d39d1f1614b0c359d3ab44e23179d20634f4d7c111f6f589a5be2d18d0565557"
+      },
+      "sha256": "612d4d1813a70f70f6b8a68fc1a6faeadc380b1430095be3b4633bb21176e9ea"
+    },
+    {
+      "bytes": 1433,
+      "path": "client/runtime/shaders/graphics/vs_particle_instanced.bin",
+      "payload": {
+        "bytes": 881,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a8186bbd89d87a9925ef0aef5bcc604d79300fcb7d3f99aab5609ebf753e7737"
+      },
+      "sha256": "7a37a0ccd4bebd9cdd70130be922e0b0fc72ba9ae236daff9dd433d684df0e55"
+    },
+    {
+      "bytes": 660,
+      "path": "client/runtime/shaders/graphics/vs_shadow.bin",
+      "payload": {
+        "bytes": 606,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5c3d444cef607092b6fccfa2f40de225b21c27062817e1fb3789198d1b2c23bc"
+      },
+      "sha256": "b899c8c8d4a31410e25d4241684aa5de91c5d5edd705524fe812d2987f69bcd6"
+    },
+    {
+      "bytes": 2441,
+      "path": "client/runtime/shaders/graphics/vs_shadow_skinned.bin",
+      "payload": {
+        "bytes": 1123,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "dc9b4e5dea341d4c6d4cf43f78fdbf5754f0e51769b31efbbb160863ee13c624"
+      },
+      "sha256": "5b65195c152368b8e8e33eff412e6cd9dc6816983fb1ffceb0ba907c2be72e5d"
+    },
+    {
+      "bytes": 4401,
+      "path": "client/runtime/shaders/graphics/vs_skinned.bin",
+      "payload": {
+        "bytes": 1732,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "d7825da180a48969c3505d72710067fa38d6d1dd7753f5669c634846340a621a"
+      },
+      "sha256": "dc6087e2b15ce1d1a3d9cc58ce4a962d9a922ee10ecea87e486cac5b183e9b23"
+    },
+    {
+      "bytes": 4857,
+      "path": "client/runtime/shaders/graphics/vs_skinned_instanced.bin",
+      "payload": {
+        "bytes": 1811,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "6de08bfa5b16dc14f741e0cf193fb823311378dc155329a413186c07cf682782"
+      },
+      "sha256": "b34bd3441f4aa50190550bd35adaf45b95a688eef1a415f028a0a21558136e98"
+    },
+    {
+      "bytes": 17507,
+      "path": "client/runtime/shaders/graphics/vulkan/fs_native.bin",
+      "payload": {
+        "bytes": 6844,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "d429fdad7866c3fb2794f8d6a5c25f7384dff8087ae84d544cd5474b2c42860a"
+      },
+      "sha256": "87c20787a2fb2aed78839a1d6398ac1b602544b41fcfe6e673cc824e903c400e"
+    },
+    {
+      "bytes": 1354,
+      "path": "client/runtime/shaders/graphics/vulkan/fs_shadow.bin",
+      "payload": {
+        "bytes": 924,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "8c891499dc06f439943a0ffa7667418495fb03675af27f8bcc35141bc4a59cfd"
+      },
+      "sha256": "8623acfd6510a8fa7801141d03dd6a81ea0167d078a2d3bdcef64152f8a72de2"
+    },
+    {
+      "bytes": 66,
+      "path": "client/runtime/shaders/graphics/vulkan/shader-cache.key",
+      "payload": {
+        "bytes": 146,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "488c8a27015ff876774db1e2712f4f625c32f0d09b177ec92fd61cbaf0019d87"
+      },
+      "sha256": "66fb99bae09de6092019c32c094e92779fa9370ed8bd5eb1994c1dc7d3ccb92a"
+    },
+    {
+      "bytes": 6514,
+      "path": "client/runtime/shaders/graphics/vulkan/vs_crowd_instanced.bin",
+      "payload": {
+        "bytes": 2755,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "2676a330d2941bb3dfffebb7ddf440bed10fcb990e9fcbd7ea52252295d26338"
+      },
+      "sha256": "854b93a1eeee6274b7cd0326855db3871ac2c6b2bf26a3dd7c9ff01fd0814d2e"
+    },
+    {
+      "bytes": 3086,
+      "path": "client/runtime/shaders/graphics/vulkan/vs_instanced.bin",
+      "payload": {
+        "bytes": 1480,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "100d83b79e3318559ad1afe36f6d8e22e7d626bcc9216ef83d1de53e7d85e5e0"
+      },
+      "sha256": "5df0ea745e65107654db21bb6a0ff080b2db63d273697c168d48fd1fa4b8fdd4"
+    },
+    {
+      "bytes": 3304,
+      "path": "client/runtime/shaders/graphics/vulkan/vs_native.bin",
+      "payload": {
+        "bytes": 1604,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "86522b715df4539352a64b942d70281dd77c0f82bdedb77550e7ed6b577529e3"
+      },
+      "sha256": "3660ce2be84b196f168569810a6ddb316a9ca48e6b86330b602929fba5bcef65"
+    },
+    {
+      "bytes": 2563,
+      "path": "client/runtime/shaders/graphics/vulkan/vs_particle_instanced.bin",
+      "payload": {
+        "bytes": 1335,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "072206f431bd93f3c12976558cd3e34c91d671a298fe4018c3fc818dc3a954db"
+      },
+      "sha256": "7b14233cee5cde56b8e35ea921d7537ef0633d41ec836dc09736adee781e8be3"
+    },
+    {
+      "bytes": 1104,
+      "path": "client/runtime/shaders/graphics/vulkan/vs_shadow.bin",
+      "payload": {
+        "bytes": 813,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a5f04c84d58e3630cecb80d72cc363c7a88a502e057d2488c50654afb1879c35"
+      },
+      "sha256": "96ff997ca778b04222ea200708a47c3f8e7cc19b6c928c3d729c99f764f93c01"
+    },
+    {
+      "bytes": 3077,
+      "path": "client/runtime/shaders/graphics/vulkan/vs_shadow_skinned.bin",
+      "payload": {
+        "bytes": 1507,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1bddc71a17b9fb3cf426b4314e68f155d3daf2339d5b82713a4f3770e6be99f3"
+      },
+      "sha256": "8b01063bf9fdb5cf8a883f4eda35ab2cfdfa56b958201a666bcdde5deeaff734"
+    },
+    {
+      "bytes": 5049,
+      "path": "client/runtime/shaders/graphics/vulkan/vs_skinned.bin",
+      "payload": {
+        "bytes": 2199,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "bedfd85ab6d4561ae27cf5edf76c704a2b2efafd2305d27cd72db67777f86e3c"
+      },
+      "sha256": "0c0bc54504d5debbc32ec9b3e5094dde9f8208bc955a7b2496d4a5679287bbea"
+    },
+    {
+      "bytes": 5473,
+      "path": "client/runtime/shaders/graphics/vulkan/vs_skinned_instanced.bin",
+      "payload": {
+        "bytes": 2349,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "d9e291890660698722981710269cc7e73daf3c4fefd1ae3ccacfd42b659e4564"
+      },
+      "sha256": "3373b437b12300dc58f01772a7e17c1ea9b90a760b209945a8c82867fb638431"
+    },
+    {
+      "bytes": 36306,
+      "path": "client/serverlist.bin",
+      "payload": {
+        "bytes": 2119,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "abdca1e0c58dcc785408071fed98456b4cb63525f54cf357662859de388d2d98"
+      },
+      "sha256": "1c219255153f7d0304bf634cfbeeb035db0fccf6765b3d09b6d507685b7e3868"
+    },
+    {
+      "bytes": 39290,
+      "path": "client/system/AnakaKrumaObj.txl",
+      "payload": {
+        "bytes": 6986,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e0a97c819f30c7755b195925fce7205f4bf4d12b1ffcc5c20e5310f9b96da7dc"
+      },
+      "sha256": "90119f81e972f51142b125e42f5a8973d78964d9b98bf32729b099a248fa8a07"
+    },
+    {
+      "bytes": 245231,
+      "path": "client/system/ArenaDurga_NPC.txl",
+      "payload": {
+        "bytes": 8601,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "15739a931c28b7ebe1a1f8e2705ed2a5f4c9b78364caa52c35c2a7ffc97cda28"
+      },
+      "sha256": "7f788e9faf0bafc33cfb9b810cd1ef2441c3766bb21df4a2ffacba14ea681326"
+    },
+    {
+      "bytes": 12380,
+      "path": "client/system/ArenaObj.txl",
+      "payload": {
+        "bytes": 2237,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "2b62abfa2cf99dc79cf186e37348a8a8650361fbef01f38de68704b4bfbe12d1"
+      },
+      "sha256": "328f3320b15f9802552955ebeba887cba7a1e6b0ae8c73e9879cda8a40f96b3a"
+    },
+    {
+      "bytes": 150938,
+      "path": "client/system/Chaturanga_NPC.txl",
+      "payload": {
+        "bytes": 3936,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "01936b4e18c6e54f1dc6d0be9f068ea436a430db1b3ffec2bc4ecfffa2226c69"
+      },
+      "sha256": "3de3079e698daa1d29ff495e848b5a5abacb4aa5c3c0eba45ea44234e631e444"
+    },
+    {
+      "bytes": 1371839,
+      "path": "client/system/ClientRes.txl",
+      "payload": {
+        "bytes": 165625,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b88ec2cf08c04b9e70451f5afe7064378e08a7b8efd01e8eda1b647f5fe7de30"
+      },
+      "sha256": "8472f8e2524150603cce55c5b679f9cd02b73817b32088f7d5417a7e99e2e5ff"
+    },
+    {
+      "bytes": 25475,
+      "path": "client/system/ForgeObj.txl",
+      "payload": {
+        "bytes": 4299,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "cfafec7c93594eed71098eac7ca54712effe2b48d198771e94ab5ee369468569"
+      },
+      "sha256": "1d8df7c677aebb2af1e7a35c6abcfe0a03fec6db6355044ade3db27cefefbde1"
+    },
+    {
+      "bytes": 419370,
+      "path": "client/system/Forge_NPC.txl",
+      "payload": {
+        "bytes": 11898,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b2158b9db93cf74ea1a7e7ee824e6c69e0f03dbbe99ad7992f492bedec316540"
+      },
+      "sha256": "5e4ad67e583c48a99ae1765ca32096cfd67dc6d45134bd6913d65c6b885c70be"
+    },
+    {
+      "bytes": 1448926,
+      "path": "client/system/HTMessage.txl",
+      "payload": {
+        "bytes": 78388,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b2ca7899065ddcc1be60225dbc6ec4d2330abb43503e48ba6d5e730c076d0fe5"
+      },
+      "sha256": "92867e95d6bf89c247ba60cf50fa7da597a24e8dea9b8ae7a675440cdbff2e0c"
+    },
+    {
+      "bytes": 794108,
+      "path": "client/system/HTScrollQuestSystem.txl",
+      "payload": {
+        "bytes": 27038,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "3fac93612af02497f9a765244b35e1b4b5cd8fbc54992d40d0efae638fe38335"
+      },
+      "sha256": "cb9f6f8a684be5eeacf52b3545f8a8bed1e4087756ba02188a4978585146a4e2"
+    },
+    {
+      "bytes": 1330,
+      "path": "client/system/HTSpec.cfg",
+      "payload": {
+        "bytes": 695,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "812a1d6fe62e87623091763bc5812f6dedfb80b86df3a60e2b2ac7e8c50bcef3"
+      },
+      "sha256": "1cbe39fdc0664aa5464f9ad157ba0be53841355c425c24daf93d1b589fca0e5c"
+    },
+    {
+      "bytes": 1490,
+      "path": "client/system/HTStartup.cfg",
+      "payload": {
+        "bytes": 1016,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "ff36321b6e2fb9cc6aedbe23be53717a16ebf1c1f222c6a0c3212e02eee158d2"
+      },
+      "sha256": "11a3c6b9f2372d66b91f0604a65fc9e879e0726931c8cb58c55dc6fe96e47727"
+    },
+    {
+      "bytes": 770,
+      "path": "client/system/IntroObj.txl",
+      "payload": {
+        "bytes": 512,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "6f9d07fca3d6b2678fe371e5f2ef23099749982b0de28e52457b02e30ab3ec43"
+      },
+      "sha256": "3a1b2dccb69c7a88c2cff843df0e940ef66154702bfed9eee87ce532d71db60c"
+    },
+    {
+      "bytes": 2677598,
+      "path": "client/system/Jina1st_NPC.txl",
+      "payload": {
+        "bytes": 68213,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1616cca490cddb82a0dbe5c339c2bad43f57eb2bb803ac6e7c3d06cbde38f7ff"
+      },
+      "sha256": "cf240c3a8102e5ee894d66705432e224759510ad9f78d3693ed5e63986de9ec7"
+    },
+    {
+      "bytes": 1776710,
+      "path": "client/system/Jina3rd_NPC.txl",
+      "payload": {
+        "bytes": 42768,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "37a4814453785850271fa2c856592fadc7c638e86cbc960cbbc7d4248254f422"
+      },
+      "sha256": "0510ca13e52aa37f921c4cba2628debed25c55d8570f385a6585b734a4d78ba2"
+    },
+    {
+      "bytes": 239379,
+      "path": "client/system/Jina4th2_NPC.txl",
+      "payload": {
+        "bytes": 6294,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1914feb1a46960d73bb5f4d88ff8f857c9ef39806239a9394b89fa5846005688"
+      },
+      "sha256": "c30da34fa8cee5eaae0c92c31b630b4dd9cddafb51a22e5f457c75ef6203a0e8"
+    },
+    {
+      "bytes": 237854,
+      "path": "client/system/Jina4th_NPC.txl",
+      "payload": {
+        "bytes": 6326,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "520370734e2aef25b10c103851849fc3f90224631e7b56d3efe4541458f52922"
+      },
+      "sha256": "db7778f5fc0c0d3c78186bcedd729a9a8414e9b42c2527fcfa9660c365b1db7b"
+    },
+    {
+      "bytes": 1357897,
+      "path": "client/system/Jina7thCave_NPC.txl",
+      "payload": {
+        "bytes": 28272,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "0601f3f1a99adcb0c5b1fcdeb11b861274301f40b0921cb8682c9f168f0afad2"
+      },
+      "sha256": "a16af2202ab4626e0abd3f079134d5483b6f16aa2fb76a65cb6050c1b5e4cf17"
+    },
+    {
+      "bytes": 37805,
+      "path": "client/system/Kathana1Obj.txl",
+      "payload": {
+        "bytes": 7314,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "2e150980d1be26d0e61cb681fa30a0a1260cae909f030e87bf238d7e9c232660"
+      },
+      "sha256": "a8a9b51f0222d6b8cc47470a05723e9c5f50edacc630c11bfc5ed99bee0e76aa"
+    },
+    {
+      "bytes": 56390,
+      "path": "client/system/Kathana2Obj.txl",
+      "payload": {
+        "bytes": 9495,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "8f00843e00d04bfb67be87677a1b7e476256a000a3d2013dfe3b2af72981db52"
+      },
+      "sha256": "6e2cd951fa83c52f2de43f503a1b1296e6232313c5f3d5c2e13e43131ee77ce8"
+    },
+    {
+      "bytes": 35150,
+      "path": "client/system/Kathana3Obj.txl",
+      "payload": {
+        "bytes": 5593,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1a0dfc3b15be9c8d1bab0bf132f5656c3016ea2191696aedc808297ae6b0a08c"
+      },
+      "sha256": "9673f6ab643c0c8bbf3e5d577a94d121fd3e7487639977673c3fe3dd19028da2"
+    },
+    {
+      "bytes": 1727364,
+      "path": "client/system/Kathana3_NPC.txl",
+      "payload": {
+        "bytes": 44081,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "8fe407dd8001d1453dace80c3f46afd46664b27eeb9c2922db6d598f90707b35"
+      },
+      "sha256": "f778811efbd01113504b2c88581af1d696a5010814c83a12d23dbd1f6c6e7682"
+    },
+    {
+      "bytes": 1300774,
+      "path": "client/system/Kathana3_Quest_K3.txl",
+      "payload": {
+        "bytes": 30646,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "993a6db2eb0d36d82de1db475d36537e76073ce55afd7cabc9e5e54f4a0dacb7"
+      },
+      "sha256": "8ca8f912f0e910be0d1d95c709733ee52d184193fa4e4e65ff4fd7ced76e738c"
+    },
+    {
+      "bytes": 3020,
+      "path": "client/system/Kathana4CaveObj.txl",
+      "payload": {
+        "bytes": 866,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "28bbe46fc4d3ffdfb842bd37251d3d5682d303ed5457043e5359053e71de4651"
+      },
+      "sha256": "26331c5af4c4ba2af7db81f7562f54e6192420a10af07f75fd0ebc4c91f4494e"
+    },
+    {
+      "bytes": 10490,
+      "path": "client/system/Kathana4Obj.txl",
+      "payload": {
+        "bytes": 2077,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "211e4e2a3886ead5c02ab8f2c522a02f3427b916ee41faff5c2009a2fb36c768"
+      },
+      "sha256": "0ff0a13b2cee02539b3aceb10629c2e48a1f1998f5878dec81329cc305b321cc"
+    },
+    {
+      "bytes": 932128,
+      "path": "client/system/Kathana4_NPC.txl",
+      "payload": {
+        "bytes": 23973,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e594192dd650aa982a2337d1484c839106a7b000537ab7ee1fa448ce674ace20"
+      },
+      "sha256": "5be2d5751104a913ddea7faf1d2693834034f1a228f6c4304ca4b637d4e6cdee"
+    },
+    {
+      "bytes": 4421236,
+      "path": "client/system/Mandara_NPC.txl",
+      "payload": {
+        "bytes": 117560,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "2d723201a7d3e7f3de2f26a143ed8df9e9d4f4b6c7c1f4dd63591e98a452128a"
+      },
+      "sha256": "e7f77fd2728e8e1d9fddb2e0557211bb03c144dc19d860105a3a58e6c1bd2187"
+    },
+    {
+      "bytes": 4196182,
+      "path": "client/system/Mandara_Quest_K3.txl",
+      "payload": {
+        "bytes": 102115,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "00a93f4f6f3dce8f812c97e60d63d4170b733dab32b0c0ef4bda4f28b13fb98b"
+      },
+      "sha256": "2e0465ff4aaa93e443f14278ab5ccda0d62a65d371b54857c4d6dee35a50401a"
+    },
+    {
+      "bytes": 815,
+      "path": "client/system/MaranaObj.txl",
+      "payload": {
+        "bytes": 517,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "211ed4b850a527e473d951a2db62dd9a6986585d45628354aefc607a6938feb5"
+      },
+      "sha256": "1260d5d09f19d03190aec7a947e2915789b3d492a908d5592cd2ea9067cda8da"
+    },
+    {
+      "bytes": 561330,
+      "path": "client/system/Mudha_NPC.txl",
+      "payload": {
+        "bytes": 16236,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "cd356a4450c712994892dd8f71ac07a9ef57c4b62ea3da54297ac31d5de1d8ef"
+      },
+      "sha256": "d332a102ac466dba7286ca7f1484277494ef473d4513961ef96187ca62d9aad2"
+    },
+    {
+      "bytes": 5945,
+      "path": "client/system/ParoksyaObj.txl",
+      "payload": {
+        "bytes": 1444,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "6d04b22d6f4e5d43633713b918863806a6e20666a00a0247ca482903a3304335"
+      },
+      "sha256": "91bb46e0ca51876c1d5ff26964a0a99d08ef74959e9f461e5155809936362eb3"
+    },
+    {
+      "bytes": 700244,
+      "path": "client/system/Paroksya_NPC.txl",
+      "payload": {
+        "bytes": 17267,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5533ad832440981c7ac05843fd60cdf27a8f4756e6f10bb524a812af2157ab4b"
+      },
+      "sha256": "83907f6a3f463230831f5df1428e5213bb0022abc05d94dfd33c150867336c9e"
+    },
+    {
+      "bytes": 2894011,
+      "path": "client/system/ShambalaAnu_NPC.txl",
+      "payload": {
+        "bytes": 71258,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "7bb6adaeabf79452da72600ad51715fca60ab903db953f09de364e386c498ca5"
+      },
+      "sha256": "59a792be2c3422675b64ea96fb3b68da408dd1bc12c5ffc8f2cf685aa2081102"
+    },
+    {
+      "bytes": 2776852,
+      "path": "client/system/Shambala_Quest_K3.txl",
+      "payload": {
+        "bytes": 67322,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "d500d4d0015faadf40651ede1f40f7a639adcf5bdd99f2abdc54a24099ac18fd"
+      },
+      "sha256": "b6cb458f6d71359825d4eede68fbd2d6a8d9b707a8f01cfce113e987f9a2b6ee"
+    },
+    {
+      "bytes": 1279722,
+      "path": "client/system/TantraParam.tpa",
+      "payload": {
+        "bytes": 154885,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "67234521c9feedc48ca1bcf74216ed412d157def3cba507b43d00af36f7f9cde"
+      },
+      "sha256": "727a6553273925724aeea82fbcb471c8e76e69829312622670d2af3b5b145811"
+    },
+    {
+      "bytes": 56390,
+      "path": "client/system/VediKrumaObj.txl",
+      "payload": {
+        "bytes": 9495,
+        "format": "sanketa-aes256gcm-xpress-v1",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "8f00843e00d04bfb67be87677a1b7e476256a000a3d2013dfe3b2af72981db52"
+      },
+      "sha256": "6e2cd951fa83c52f2de43f503a1b1296e6232313c5f3d5c2e13e43131ee77ce8"
+    }
+  ],
+  "schema": 2,
+  "version": 1794284858
+}
