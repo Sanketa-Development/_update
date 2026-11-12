@@ -26,6 +26,8 @@ validates/commits/pushes only this encrypted repository. An unchanged payload an
 notice keep the current release/version. Existing release notes are preserved
 unless `-Notice` supplies new text. `-NoPush` leaves a locally published draft;
 build wrappers also accept `-NoPublishPatch` for explicitly local work.
+Repository publication keeps only the latest release folder and the encrypted
+objects referenced by its file list; obsolete release folders/objects are removed.
 
 The GUI `tools/SanketaPatchBuilder/SanketaPatchBuilder.exe` in the main workspace
 can also create the package and an optional LAN mirror. Run the publication command afterward
@@ -38,7 +40,7 @@ to archive/push that prepared feed without repackaging unchanged payloads.
 - `UpdateList.dat`: paths, installed-file hashes and encrypted-object descriptors.
 - `NotifyMsg.dat`: release notices bound by the signed descriptor.
 - `version.dat`, `Tantra.dat`: signed descriptor aliases.
-- `releases/<version>/`: immutable signed-release metadata inputs.
+- `releases/<version>/`: the latest release's signed metadata (one version only).
 - `bootstrap/Patcher.dat`: signed client host configuration; copy this into a
   compatible client root once when selecting the feed. It differs from the feed's
   root `Patcher.dat` descriptor. Older clients also need the current `Tantra.exe`.
