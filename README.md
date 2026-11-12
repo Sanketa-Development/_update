@@ -18,17 +18,17 @@ Normal Release client build/stage wrappers publish automatically after success:
 For a staged executable or resource-only update:
 
 ```powershell
-.\publish-lan-updates.bat -Include resource/path/changed-file.hpk
+.\publish-updates.bat -Include resource/path/changed-file.hpk
 ```
 
-The publisher packages through `TantraPatchTool.exe`, mirrors the LAN feed, then
+The publisher packages through `TantraPatchTool.exe`, then
 validates/commits/pushes only this encrypted repository. An unchanged payload and
 notice keep the current release/version. Existing release notes are preserved
 unless `-Notice` supplies new text. `-NoPush` leaves a locally published draft;
 build wrappers also accept `-NoPublishPatch` for explicitly local work.
 
 The GUI `tools/SanketaPatchBuilder/SanketaPatchBuilder.exe` in the main workspace
-can also create the package and LAN mirror. Run the publication command afterward
+can also create the package and an optional LAN mirror. Run the publication command afterward
 to archive/push that prepared feed without repackaging unchanged payloads.
 
 ## Feed files
@@ -43,10 +43,12 @@ to archive/push that prepared feed without repackaging unchanged payloads.
   compatible client root once when selecting the feed. It differs from the feed's
   root `Patcher.dat` descriptor. Older clients also need the current `Tantra.exe`.
 
-The active player URL remains `http://172.16.90.12/sanketa-patch`, served by XAMPP
-at `C:/xampp/htdocs/sanketa-patch`. GitHub archival does not switch clients away
-from this LAN host. Public GitHub downloads require a publicly accessible repo
-and an explicit client host-configuration change; no GitHub token is embedded.
+The default player source is `https://raw.githubusercontent.com/Sanketa-Development/_update/main`.
+Existing clients can download the signed [bootstrap/Patcher.dat](https://raw.githubusercontent.com/Sanketa-Development/_update/main/bootstrap/Patcher.dat)
+and replace the client-root `Patcher.dat` once. The feed-root file is a release
+descriptor, not client configuration. No GitHub token is needed or embedded.
+LAN publishing remains available through `publish-lan-updates.bat` in the main
+workspace; normal publication needs no XAMPP server.
 
 Private keys, source, databases, preferences and player state stay outside this
 repository. The publisher rejects unexpected files and unencrypted objects.
