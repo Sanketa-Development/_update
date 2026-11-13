@@ -3290,6 +3290,380 @@
       "sha256": "b3776cf1d6461f185770b7adc6d218959ffc83204a08c6f65ccf59d259c2ae7c"
     },
     {
+      "bytes": 2066,
+      "path": "client/runtime/data/offline/ai/PROVENANCE.json",
+      "payload": {
+        "bytes": 1175,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c1fcf12d32102731396cc48349444f71c12210015ab2a94ee7ae4a31a907e217"
+      },
+      "sha256": "9a28ea6b5fa737f555c6062ac56a1fabaca7e5930fa23bef3ce9433f3c12f116"
+    },
+    {
+      "bytes": 152295,
+      "path": "client/runtime/data/offline/ai/ai.json",
+      "payload": {
+        "bytes": 10281,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "69396db813175de83e86378e16a88aba5ef20790bda6dbabc185ecb49cf6947a"
+      },
+      "sha256": "5e9b2db40548cd66b6d0a5f4f0135cfbd711f0e1939e76dfe8469261947c24bd"
+    },
+    {
+      "bytes": 3076,
+      "path": "client/runtime/data/offline/combat/PROVENANCE.json",
+      "payload": {
+        "bytes": 1469,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "eb5020a3928ad0b2eb82d6a575648dc0749451821a5f4d459b889eab3f16f6b0"
+      },
+      "sha256": "046bd881675c939778780fc8d4954e1a8a0d53ccb7b3ef224793d8606c187f0e"
+    },
+    {
+      "bytes": 3828,
+      "path": "client/runtime/data/offline/combat/animation-timings.json",
+      "payload": {
+        "bytes": 1554,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "94bc6658ab07d15d49cf53284cc39251f8ff55d676e4a62dea4aeaa72e5920dd"
+      },
+      "sha256": "1eb6799baa4e56a4a4656485db37ce9926c9aee6948024225939fdc6fc56956b"
+    },
+    {
+      "bytes": 234642,
+      "path": "client/runtime/data/offline/combat/animation-timings.tsv",
+      "payload": {
+        "bytes": 48713,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "570d6d6d26974b554c46f14c64fc382deb823a6d536d867f28df1aeefa4ab884"
+      },
+      "sha256": "8bc3fc50f0038e1a7e71eb786c7ef7601039f27c993f46d9b5760cc8aa1456d9"
+    },
+    {
+      "bytes": 5520,
+      "path": "client/runtime/data/offline/combat/animation-timings.tsv.missing.txt",
+      "payload": {
+        "bytes": 914,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "3619c9469da1c2cbc8448b28d16aa98b63a490772bf5dc973e458f1aff3d7648"
+      },
+      "sha256": "264544749cec04cfba31262cb7680936a1c9681ed85db9724f0180452a36c766"
+    },
+    {
+      "bytes": 92727,
+      "path": "client/runtime/data/offline/combat/combat.json",
+      "payload": {
+        "bytes": 8152,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "0255a6559c1bc17df6090b0b9030be3b19e539109689ce06c0eee8a2e47c1e32"
+      },
+      "sha256": "6ca66b67eae7513c75eae9f513935147820e62373b1bdc63f606088d6fee3c45"
+    },
+    {
+      "bytes": 2,
+      "path": "client/runtime/data/offline/combat/missing-skill-bindings.json",
+      "payload": {
+        "bytes": 114,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "cdc397cc67e63447cbc96b8afe3e412757f2032ad8cf5a94b47d09105330a8fd"
+      },
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "bytes": 73490,
+      "path": "client/runtime/data/offline/npc-services/Item.tsv",
+      "payload": {
+        "bytes": 14845,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a04870bda3273d4557a1a896e7ad9c3e8a3425ab3e2c8394142f60b5c60339ef"
+      },
+      "sha256": "3fe0f05bdf87a7590a33299964f6a4a6fe0dc57b5fd81e39ef0faa16db00fd19"
+    },
+    {
+      "bytes": 48950,
+      "path": "client/runtime/data/offline/npc-services/NPC.tsv",
+      "payload": {
+        "bytes": 5490,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1d1402fdcf594f9efd0f46f13218ae7dd96d7bc8ce16bb342c1e4e3d96e11f74"
+      },
+      "sha256": "658a913b77d67f121f0d32f78186a5ba3e9dc8630979ecc66395275f7edfcbf3"
+    },
+    {
+      "bytes": 3219,
+      "path": "client/runtime/data/offline/npc-services/PROVENANCE.json",
+      "payload": {
+        "bytes": 1519,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "73f344d29c099c4f9b05e5abb75aa80ca5ae9fc4ac007bed46eb87ca01087b1e"
+      },
+      "sha256": "65c6f63f35aebeb96ce93b3562414e94b8816fcecba06fdb35305741babefe75"
+    },
+    {
+      "bytes": 10377,
+      "path": "client/runtime/data/offline/npc-services/Portal.tsv",
+      "payload": {
+        "bytes": 3470,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "2f3a32930d78ae55c25ca5eb552aea197dfc3bb5acf66ffe4d4f62097e487ac5"
+      },
+      "sha256": "bb30e9a4b491415e5e7426031b7dffe434aa3b37be45f48e8441b99a98c2c158"
+    },
+    {
+      "bytes": 289,
+      "path": "client/runtime/data/offline/quests/CLIENT_EVENTS.json",
+      "payload": {
+        "bytes": 401,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5da85f61115ccf051238f8a66cb1245fdc6438ef30bd5f5153bb40e54c09c294"
+      },
+      "sha256": "32e7e86d29cd5f2bbccdbe2f2aab5ff0a75fb4f37456fc9d1fae5dec81599f9e"
+    },
+    {
+      "bytes": 41010,
+      "path": "client/runtime/data/offline/quests/EventList.tsv",
+      "payload": {
+        "bytes": 14084,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "524a45c2741ddeb03ec5140357eb85b9a20037f89ea521c39f4a86a2d72d647d"
+      },
+      "sha256": "dbdfc5a81b416c33985308c71a16b30c6f0431d032ae56e20c6f17e1adcddd96"
+    },
+    {
+      "bytes": 816,
+      "path": "client/runtime/data/offline/quests/ITEM_GROUP_PROVENANCE.json",
+      "payload": {
+        "bytes": 839,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1c280cf89a0b8d80979d544753376ab78dd78f85828346295052a7ed30c54569"
+      },
+      "sha256": "77e7a1bc6450397962748799c92b1bcd357d1dc1e46c3761a27866db525a2d0e"
+    },
+    {
+      "bytes": 9338,
+      "path": "client/runtime/data/offline/quests/ItemGroup.tsv",
+      "payload": {
+        "bytes": 4134,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "8ba483156ee731284494bbf34c44eb4fee506479aadc27cdcd3322c4d9ddad66"
+      },
+      "sha256": "97e7a43416744e98d1015fc0bb0f9c17d822da9046a8b4ab886a88cac68c54d9"
+    },
+    {
+      "bytes": 1993,
+      "path": "client/runtime/data/offline/quests/PROVENANCE.json",
+      "payload": {
+        "bytes": 1141,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "d8f7e0760b8a9cfa04062f20751406273a7e4ce32ecaf8a77dedd98e49d2ea69"
+      },
+      "sha256": "ef2a1e604adb7179a3ce5e010ae3e5a16f27cd36d18df39fc1066871272ba6b5"
+    },
+    {
+      "bytes": 94007,
+      "path": "client/runtime/data/offline/quests/TaskList.tsv",
+      "payload": {
+        "bytes": 31386,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e5a356e4bc4289510bd664bd72bcff3a349b34895cf12185e8e8527ac49e4470"
+      },
+      "sha256": "3a354333ee9dabb00437061073bdc891aeb852038c20f0af942ba956d7b38fb3"
+    },
+    {
+      "bytes": 84804,
+      "path": "client/runtime/data/offline/quests/TaskQuest.tsv",
+      "payload": {
+        "bytes": 12011,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a0469f5d3501cd962186a8bbec9ce96ed92ef2844972d584a334827bf26d064d"
+      },
+      "sha256": "217a0308036fdeff35d06217031492ca59326edbd5bb74b61da7df8bc8ac6be6"
+    },
+    {
+      "bytes": 1393,
+      "path": "client/runtime/data/offline/quests/WORLD_EVENT_PROVENANCE.json",
+      "payload": {
+        "bytes": 1025,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "af3f49d31e92c59abc75a9ba5f2d0c7c672a10df63d9b6a50f498a5c0606bfe2"
+      },
+      "sha256": "d8dfade446f9b1580c2aa385534dd7857353670761c8437536bfc63a311e9b39"
+    },
+    {
+      "bytes": 19566,
+      "path": "client/runtime/data/offline/refinement/Item.tsv",
+      "payload": {
+        "bytes": 6646,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "ae9853a43e513b04457f9f60d28c79471c09c864926ba21facb7c6e5353128a4"
+      },
+      "sha256": "ec432a1dc72694dac4aa11e3a70160bd6114afeb94f1a51c1ff0654255143e7c"
+    },
+    {
+      "bytes": 657,
+      "path": "client/runtime/data/offline/refinement/PROVENANCE.json",
+      "payload": {
+        "bytes": 741,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "390beb64cb1ffb3d4e8ee68f3050a3440ce05f00234899dbff7740e85cd2b443"
+      },
+      "sha256": "e4fe346915e350c55e6c4a730bc9e5d88f38eec2a58ae22bba022f4d366953eb"
+    },
+    {
+      "bytes": 1303,
+      "path": "client/runtime/data/offline/world-gameplay/AttackTypeVSArmorType.tsv",
+      "payload": {
+        "bytes": 666,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "641125807fdff652d25fb103cc5861d3794ad517ee00d18adbad2546e100301a"
+      },
+      "sha256": "40c48b1d84afc90a9d45f4bd9d9ba6bc6545288d17ae7f04087f1001a1d1f8b1"
+    },
+    {
+      "bytes": 6043,
+      "path": "client/runtime/data/offline/world-gameplay/Consider.tsv",
+      "payload": {
+        "bytes": 1446,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "bbd5a83775e2a5f10d40fa8e6cd167ad655e8502e82b7f69909866b4a9ec446b"
+      },
+      "sha256": "4880ef525ae06c2b1a3627d760699cd195a60f4424302437620a4fb68c724e17"
+    },
+    {
+      "bytes": 109459,
+      "path": "client/runtime/data/offline/world-gameplay/Item.tsv",
+      "payload": {
+        "bytes": 21002,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f6061c772181d3f5bd50e8e10626920893b85824ebc903fb4740540dc4eb3621"
+      },
+      "sha256": "14f90c445a25488b71cadaeebf59d29b0b83b8d54f88af84441f042719ff45b2"
+    },
+    {
+      "bytes": 521,
+      "path": "client/runtime/data/offline/world-gameplay/JudgeCombat.tsv",
+      "payload": {
+        "bytes": 564,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "ff41a72075b96275de3bd672268bfcaf8e5a16452546af2bf4336340ac717087"
+      },
+      "sha256": "5a025d844e62833fba8abfcc90c21d681f641c80d58e453c0aff2c0eb2a40410"
+    },
+    {
+      "bytes": 279566,
+      "path": "client/runtime/data/offline/world-gameplay/Monster.tsv",
+      "payload": {
+        "bytes": 48449,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "983f17447a081ddaec5bb2b1094581f5f1ab754fffb75b86f05c6d9eb98eb4f2"
+      },
+      "sha256": "b416f484f2a114bfee2ea31eab833589b0c587dff6b45b29725f98b26b1b3a09"
+    },
+    {
+      "bytes": 52329,
+      "path": "client/runtime/data/offline/world-gameplay/NPC.tsv",
+      "payload": {
+        "bytes": 5572,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "741306d0b8ce5cf43cf5bb125f0e4ef882c49b2758fdc2d22912752b930e6648"
+      },
+      "sha256": "df09f261e11685a413ce58e78f8f1ca76a3945c8699f95780f64a98edc04804a"
+    },
+    {
+      "bytes": 23724,
+      "path": "client/runtime/data/offline/world-gameplay/NPCPlacement-PROVENANCE.json",
+      "payload": {
+        "bytes": 3063,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e07956845a54021f04d88842f4fd1a9832bec82dbd8d542ff48c209963350aab"
+      },
+      "sha256": "5b0253b1b2fa595f34a4c26a72d84393383faebe4e912301d4a6cedc92a943d0"
+    },
+    {
+      "bytes": 4954,
+      "path": "client/runtime/data/offline/world-gameplay/NPCPlacement.tsv",
+      "payload": {
+        "bytes": 2120,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "ba80a5ff24fdbaa78f6737bf3826dec162a42a6233f8a0a51c17aa5703c94c32"
+      },
+      "sha256": "f6b58f2f5939b45fd014c7723a9ac729e43a10010da7eeefeee3a04816fcd429"
+    },
+    {
+      "bytes": 5249,
+      "path": "client/runtime/data/offline/world-gameplay/PROVENANCE.json",
+      "payload": {
+        "bytes": 2050,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "72353f0ef322c25c2c4ef8fe36f2a5a881655514e890f896a1107fe1ba5456c7"
+      },
+      "sha256": "be158ebfa4bba8f5ba0329e448050fa6435a6f9e32ab054aa746e55ac7db109f"
+    },
+    {
+      "bytes": 1561,
+      "path": "client/runtime/data/offline/world-gameplay/Portal-K3-PROVENANCE.json",
+      "payload": {
+        "bytes": 1092,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "9e1d3649f953d1fdaf694effb3de561134a34f0642ab1e3bb1ccd0c9b63ecdc7"
+      },
+      "sha256": "9aec5b5e12388cf2d3d82a837a8ef19a0247ba8ff77d88f126645b4bb694c1c8"
+    },
+    {
+      "bytes": 9047,
+      "path": "client/runtime/data/offline/world-gameplay/Portal-K3.tsv",
+      "payload": {
+        "bytes": 3058,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "865cfc61164d894cff5496fc1a577c904b3237905905b009abf2e148bf722c96"
+      },
+      "sha256": "6027f2c84de28ae38c09aceb630be6ef3e1e1008beec18ac8c078079595bb67c"
+    },
+    {
+      "bytes": 10377,
+      "path": "client/runtime/data/offline/world-gameplay/Portal.tsv",
+      "payload": {
+        "bytes": 3470,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "2f3a32930d78ae55c25ca5eb552aea197dfc3bb5acf66ffe4d4f62097e487ac5"
+      },
+      "sha256": "bb30e9a4b491415e5e7426031b7dffe434aa3b37be45f48e8441b99a98c2c158"
+    },
+    {
       "bytes": 1281,
       "path": "client/runtime/data/rules/character-stats/Coefficient.tsv",
       "payload": {
@@ -4589,5 +4963,5 @@
     }
   ],
   "schema": 2,
-  "version": 1794587893
+  "version": 1794588361
 }
