@@ -606,6 +606,83 @@
       "sha256": "4a99974e50a0ef4124c7f01209aa1a7a2ba1aaf85c10cfdb3de77d201e7acaef"
     },
     {
+      "bytes": 50006,
+      "path": "client/resource/fx/fxMAPParoksya2.txl",
+      "payload": {
+        "bytes": 3023,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5546a06f78e551a8b498b660e2395bd79477f954cd4536ecc0c196fcae4aef18"
+      },
+      "sha256": "3f065c91b86e41ebbc3418f9c964c232a203a57d86ea37c6a4ce354d688f0150"
+    },
+    {
+      "bytes": 311884,
+      "path": "client/resource/fx/fxMAPParoksya2Animation.hpk",
+      "payload": {
+        "bytes": 35534,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1a35b61689c8edfa896f4418486e48c4e5f853a63436ac4e9f2e6e934f6c61b1"
+      },
+      "sha256": "292331aa44131783cd6b25bf142b5fd4eafff6747d74e05c1055d8f70cd2f7e1"
+    },
+    {
+      "bytes": 26168,
+      "path": "client/resource/fx/fxMAPParoksya2Field.tfx",
+      "payload": {
+        "bytes": 3590,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f71ed306e96b1370db915f7e16d365eb67002457ea9843f463a6112b24929962"
+      },
+      "sha256": "51058a1bd6f15392cc99162829e4e17a3c6567dacbe522ba726aa446416a895e"
+    },
+    {
+      "bytes": 3347120,
+      "path": "client/resource/fx/fxMAPParoksya2Model.hpk",
+      "payload": {
+        "bytes": 585468,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "7a65b8ed6545719ddb855ca57f69fdbe0b80de5fa675738ecb53637710319333"
+      },
+      "sha256": "3705127a514a28699917888a33051b3234cee99cafe42e052fda1998072017d3"
+    },
+    {
+      "bytes": 30640,
+      "path": "client/resource/fx/fxMAPParoksya2MonsterEtc.tfx",
+      "payload": {
+        "bytes": 4436,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "340ebc38ac700c38d09880a5fc599e5828aa6268f0bd510f0c8d1b12c558702d"
+      },
+      "sha256": "9fcd44ffabb85b462d12b0ce45c0fdf0edd3f82b70dbb059cd6307aaad98fd5e"
+    },
+    {
+      "bytes": 69772,
+      "path": "client/resource/fx/fxMAPParoksya2MonsterSkill.tfx",
+      "payload": {
+        "bytes": 11076,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "178fe5a90da859e460d3ecda58d20ea41772649cc890748da26bf9f7d6fba7c1"
+      },
+      "sha256": "71b36ceb94f82ae03f0b4d59142e204e4296992a17dbf185b97f650e95064c6b"
+    },
+    {
+      "bytes": 1542034,
+      "path": "client/resource/fx/fxMAPParoksya2Sound.hpk",
+      "payload": {
+        "bytes": 1291942,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "249e063569b9d080e27f4e70a4121b9002ce98410d23529e0097bd466f033a36"
+      },
+      "sha256": "6841593acf23ccc9b5eb396c09959323a28238e08f2144b09e1f7369dda5fa5d"
+    },
+    {
       "bytes": 41458,
       "path": "client/resource/fx/fxMapBiryuCastle.txl",
       "payload": {
@@ -1134,6 +1211,105 @@
       "sha256": "dddbd90207f10399afd66e36051b75bf4800f26ed3a91107b3ab572ad208a8d4"
     },
     {
+      "bytes": 6662,
+      "path": "client/resource/map/MAP_Paroksya2.cfg",
+      "payload": {
+        "bytes": 2093,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5a8c1cfe80e44ca1e3ed1f2f5d9c82b657aaaeb23e33b99952e372b1bddbc1af"
+      },
+      "sha256": "5b9527c86d6ae1ec2cbd26aec4897dbcd9cdd2069aa97112208f6155f715383b"
+    },
+    {
+      "bytes": 8388674,
+      "path": "client/resource/map/Paroksya2/Map_Paroksya2.tcc",
+      "payload": {
+        "bytes": 1922268,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "ab4adcc8a8929cdae5d5af0bde05ebc74a46381297c1efb3f7dbdf1c836d0b0c"
+      },
+      "sha256": "057f486f465c68f264c95a0639935976bb8185a2ae0c46d7470004e00609ec9a"
+    },
+    {
+      "bytes": 4215140,
+      "path": "client/resource/map/Paroksya2/Map_Paroksya2.thm",
+      "payload": {
+        "bytes": 1186363,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "01a8e1701799e3fcc53a89352c3446ee881c0fb71cfb2b11a8c34cb804d5f2c3"
+      },
+      "sha256": "8fadf2b1e3d92086ab6b6419b8595511580ba865e86d2fafd8a0d3869545b99f"
+    },
+    {
+      "bytes": 719,
+      "path": "client/resource/map/Paroksya2/Map_Paroksya2.tme",
+      "payload": {
+        "bytes": 534,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "2999e23a9b30434a16c4b26c05f4f87ff4ef176fa4b085773f23828219744d5d"
+      },
+      "sha256": "adf5837161b42064001423c06e170386f2b76dd47331609519657cba0867b4fb"
+    },
+    {
+      "bytes": 378052,
+      "path": "client/resource/map/Paroksya2/Map_Paroksya2.tml",
+      "payload": {
+        "bytes": 92642,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "ca8ddaa7051af0584f051f21fcc9a834aa0ca0e4cb3248ee490b48c843b62962"
+      },
+      "sha256": "718dda453c0a98133b873965b3fa21f03fbec916e6b7a793dfc9c86961fc5608"
+    },
+    {
+      "bytes": 33706,
+      "path": "client/resource/map/Paroksya2/Sky.tmd",
+      "payload": {
+        "bytes": 8816,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "96a0f03b107afd4a45a03a612ee20db75ac104c21969379d72ae21d70267c5ce"
+      },
+      "sha256": "90b8fc5bbc4a51af0b9a8cbd19667a78f969d5471e0a730d25ac6d077534abd4"
+    },
+    {
+      "bytes": 5249,
+      "path": "client/resource/map/Paroksya2/SkyTerrain.tmd",
+      "payload": {
+        "bytes": 2013,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1d5035b4f02125829c0031f230d262a44b405868ca028b54a03e86f533fcff57"
+      },
+      "sha256": "344316fe00cd17f08c52b972e98036ada9032d5f85819be293a97294cf9e2e58"
+    },
+    {
+      "bytes": 15721894,
+      "path": "client/resource/map/Paroksya2/TerrainTex.hpk",
+      "payload": {
+        "bytes": 3632174,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e46293505248a7a1052ddca8c118789098c399381242ebed393c8d627885529a"
+      },
+      "sha256": "fc34996da0818e8c409291ca7712d46b8d7d21210112991909ae7a5f92b28e6e"
+    },
+    {
+      "bytes": 41822,
+      "path": "client/resource/map/Paroksya2/fxMAPParoksya2.txl",
+      "payload": {
+        "bytes": 2299,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "709a9c186b48f8c8fa10f64fe9859abd740437b677b46ed8c7972bee6e081d8d"
+      },
+      "sha256": "15735f44abeb08f5cf03aeb104491ed03548b6fa9100a6b10a5395a0749a0c94"
+    },
+    {
       "bytes": 21572842,
       "path": "client/resource/object/PC/PCTex2.hpk",
       "payload": {
@@ -1143,6 +1319,28 @@
         "sha256": "bf63861c37fe9fa9daa63be39833886547ca21ecec432f442b7ad8cbbd3cd3b9"
       },
       "sha256": "2eb052cf1186a0d2007b146fadb439e70c2cd0d6dba6664b2a7473a402df1055"
+    },
+    {
+      "bytes": 30328826,
+      "path": "client/resource/object/Paroksya2ObjTex.hpk",
+      "payload": {
+        "bytes": 22506498,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "cdaccb99fe1c3269875e9bc486a035ee9484eb8644f787c570700ecd653ad13e"
+      },
+      "sha256": "95e330b9721961f7d1969e6f47a3beeb52b4384aff9006025bf5cae2d422880d"
+    },
+    {
+      "bytes": 44822828,
+      "path": "client/resource/object/Paroksya2ObjTmb.hpk",
+      "payload": {
+        "bytes": 16166453,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "25d6b5b3154af443dadc7778882a75f7982c5f5a33a501dd57712339cf8f2552"
+      },
+      "sha256": "6a9158615caf80550bcb9266708fe43e12b5aa926621a6cb4933320a2433a0ca"
     },
     {
       "bytes": 465,
@@ -1165,6 +1363,1931 @@
         "sha256": "87f9f4aa0702ffe8ef03b98b5b99b8a4ecb0f9947fe6c4a52c38842d296bfc24"
       },
       "sha256": "81419b26a7e7a67996fa0c8df5648f205f205e0b9151a046f7ab610032105d3d"
+    },
+    {
+      "bytes": 1116,
+      "path": "client/runtime/data/offline-zones/Zone01/Data/Schedule.txt",
+      "payload": {
+        "bytes": 649,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "0ae71054284096a7677abceabfc7e0cbb80fd3424b6195203220d5e618bd4d0e"
+      },
+      "sha256": "659ff3c0aa589b32a3c6a9cf796f3ac3b577ee4864d1829ebe0bc34d8d4ee87d"
+    },
+    {
+      "bytes": 523,
+      "path": "client/runtime/data/offline-zones/Zone01/Data/Settings.ini",
+      "payload": {
+        "bytes": 631,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "323a040c15e56a52706dbf274864ff2c5ec0828f970c71488b9c64467d169dbb"
+      },
+      "sha256": "f59216b863829baa355a9f66727b0df35af93a4beca1137a2e1d6ca2c43110a6"
+    },
+    {
+      "bytes": 1069,
+      "path": "client/runtime/data/offline-zones/Zone01/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 885,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "6c9c7d2071202212cf37900aa7c92e09566ecc5d46b15ce65257f80f0ef8a2e0"
+      },
+      "sha256": "a8479867b50a89d896a8044708236363d7e08c96820c7e4a554780fa4b0db6b5"
+    },
+    {
+      "bytes": 41,
+      "path": "client/runtime/data/offline-zones/Zone01/GenerationArea.idx",
+      "payload": {
+        "bytes": 153,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5d18b8ffe447f31b6c14e7cc3c1ffd1d6c90e119c76653a129acadc4e2968d43"
+      },
+      "sha256": "67494f868d7b96a335c7cf49a53f6d19a4873da2f941268ab2a1370f8c32f13d"
+    },
+    {
+      "bytes": 24747,
+      "path": "client/runtime/data/offline-zones/Zone01/Language.txt",
+      "payload": {
+        "bytes": 9222,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f1b657e8e42601f5b544704babaaca451bdabf3ed6493bd2616628eef09e1949"
+      },
+      "sha256": "8330b4f960746bbfcc9581ab7979765b4fa53c181f8a17d3151451d6cba0b980"
+    },
+    {
+      "bytes": 22020172,
+      "path": "client/runtime/data/offline-zones/Zone01/MapData.tcm",
+      "payload": {
+        "bytes": 4554900,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f42c24dbdbe55d3e8f0ee39c67c8d221f6cef1ba446621c35de65fc1784b63b8"
+      },
+      "sha256": "b82dbade3898f6576014832c607bd628c68d7976704394bf95c021211787b61e"
+    },
+    {
+      "bytes": 286320,
+      "path": "client/runtime/data/offline-zones/Zone01/NPCGener.txt",
+      "payload": {
+        "bytes": 34134,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "0a142bd8282e77ccbf3584d267bcd7f99a02b44a91d543fa0d4f7ea298089453"
+      },
+      "sha256": "0ce999a87789cafd74a0ce3995f1a63f52fd0151599a1cfe79189c38ae7b6da5"
+    },
+    {
+      "bytes": 692,
+      "path": "client/runtime/data/offline-zones/Zone02/Data/Schedule.txt",
+      "payload": {
+        "bytes": 569,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "8788d80773d537022012f3f44dedc9aa00980b2025dab35bcab25f01ef7e2625"
+      },
+      "sha256": "d5f430b7fa4d1b05e022edd0bfaa6bef8224f043eef16ec247ffc9693ef6dc8d"
+    },
+    {
+      "bytes": 476,
+      "path": "client/runtime/data/offline-zones/Zone02/Data/Settings.ini",
+      "payload": {
+        "bytes": 588,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e2b69b43d7653eabba04c1a440f0ef9dfc931b32691088f6619b5b58f4abcb73"
+      },
+      "sha256": "d9dc23359b5636b41d6bed09379cd3803c948c95965d1de0d5034b98825e3aee"
+    },
+    {
+      "bytes": 1069,
+      "path": "client/runtime/data/offline-zones/Zone02/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 885,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "6c9c7d2071202212cf37900aa7c92e09566ecc5d46b15ce65257f80f0ef8a2e0"
+      },
+      "sha256": "a8479867b50a89d896a8044708236363d7e08c96820c7e4a554780fa4b0db6b5"
+    },
+    {
+      "bytes": 41,
+      "path": "client/runtime/data/offline-zones/Zone02/GenerationArea.idx",
+      "payload": {
+        "bytes": 153,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "ba735a0bd6e1152caab4c250c1b484e79a87b4e469d5feeb2a7375201dceb174"
+      },
+      "sha256": "007d1da7572d7a2363e9ee9dfac02d6ea0bf8936d4d43cfdea71083c707e5b83"
+    },
+    {
+      "bytes": 24747,
+      "path": "client/runtime/data/offline-zones/Zone02/Language.txt",
+      "payload": {
+        "bytes": 9222,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f1b657e8e42601f5b544704babaaca451bdabf3ed6493bd2616628eef09e1949"
+      },
+      "sha256": "8330b4f960746bbfcc9581ab7979765b4fa53c181f8a17d3151451d6cba0b980"
+    },
+    {
+      "bytes": 22020172,
+      "path": "client/runtime/data/offline-zones/Zone02/MapData.tcm",
+      "payload": {
+        "bytes": 4542924,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5da4eb4d1dc49e7a4bb74f9a702ac978cfc8cb344ed8502bffa80d8842315d1a"
+      },
+      "sha256": "023da638a0942b95ba23049984d366c927acd60a67718cee9e6bfa2e2fe87af6"
+    },
+    {
+      "bytes": 397906,
+      "path": "client/runtime/data/offline-zones/Zone02/NPCGener.txt",
+      "payload": {
+        "bytes": 47268,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "8bffba05531715a1e1200ee3f00f59c3726617e28ea6675a6744a60a645a435d"
+      },
+      "sha256": "f22355d0a10b11ba315556ad7eba5c5c7a4d9c30d25a61922fd18e5500c1084f"
+    },
+    {
+      "bytes": 392,
+      "path": "client/runtime/data/offline-zones/Zone03/Data/Schedule.txt",
+      "payload": {
+        "bytes": 504,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1347b95a7a10bd38e979d3a7b80566d159e6a0ac9614304bd28ae45689f95662"
+      },
+      "sha256": "a5f717e704bd3bb8522fc37e0080bf984cae782311e39eb8f138617d3e4e477a"
+    },
+    {
+      "bytes": 448,
+      "path": "client/runtime/data/offline-zones/Zone03/Data/Settings.ini",
+      "payload": {
+        "bytes": 560,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f32cc36f51b9c9918fcf93009eab1a2bd48f988a27b934c86e3bc9b51fdb19ce"
+      },
+      "sha256": "bd81e82c55de4df98385632b4aefa771affc52599398467d343ac3a4eaabab13"
+    },
+    {
+      "bytes": 1069,
+      "path": "client/runtime/data/offline-zones/Zone03/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 885,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "6c9c7d2071202212cf37900aa7c92e09566ecc5d46b15ce65257f80f0ef8a2e0"
+      },
+      "sha256": "a8479867b50a89d896a8044708236363d7e08c96820c7e4a554780fa4b0db6b5"
+    },
+    {
+      "bytes": 41,
+      "path": "client/runtime/data/offline-zones/Zone03/GenerationArea.idx",
+      "payload": {
+        "bytes": 153,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b1e7c3025459fe6de041bd141a1344ab0a11577ab2d10422b43190ed9df0b159"
+      },
+      "sha256": "153fb5fe593459f70fffb4b09d28108ce2b078fdaa7a738ea91a15da1c67b792"
+    },
+    {
+      "bytes": 24747,
+      "path": "client/runtime/data/offline-zones/Zone03/Language.txt",
+      "payload": {
+        "bytes": 9222,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f1b657e8e42601f5b544704babaaca451bdabf3ed6493bd2616628eef09e1949"
+      },
+      "sha256": "8330b4f960746bbfcc9581ab7979765b4fa53c181f8a17d3151451d6cba0b980"
+    },
+    {
+      "bytes": 5505100,
+      "path": "client/runtime/data/offline-zones/Zone03/MapData.tcm",
+      "payload": {
+        "bytes": 765367,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "8f74a6571e3c6df793c8b8b251d75721181ae64b3546d056f3a9f5c289db8455"
+      },
+      "sha256": "38d847b072298b85c66333b17d46d3121209cc6c77746cb42c6255be8fb348b7"
+    },
+    {
+      "bytes": 114235,
+      "path": "client/runtime/data/offline-zones/Zone03/NPCGener.txt",
+      "payload": {
+        "bytes": 14132,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "27131f0cd02d80763238f7c5c36a2f82713a419f1046ba23b8f32f8ab0bb6bce"
+      },
+      "sha256": "e69ca152a8a8768df224ea986e1e84e7614d2c8d4a1a46d621ef2f0343b12de0"
+    },
+    {
+      "bytes": 450,
+      "path": "client/runtime/data/offline-zones/Zone04/Data/Settings.ini",
+      "payload": {
+        "bytes": 562,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "17f65ca710c1aeba65dfeb74a1fba4131d92db969b1d9761c0c5f90dd2099110"
+      },
+      "sha256": "5036c7c65ed12641afdf210feadd0df5d0baff20b14fbc148dcc915c20e85a1d"
+    },
+    {
+      "bytes": 1071,
+      "path": "client/runtime/data/offline-zones/Zone04/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 887,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f5215cb05208b74902043f2833848d908b4bca1544d203f25916d81e16f5a14c"
+      },
+      "sha256": "0e66607d0c3ff1fcfd2428b7c4f033932c66c23f7afd17052fa4d9b1cca2f4ba"
+    },
+    {
+      "bytes": 41,
+      "path": "client/runtime/data/offline-zones/Zone04/GenerationArea.idx",
+      "payload": {
+        "bytes": 153,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1140d8b3467dad753aed001f5bebcc3d7c3951d39e3ac201b379101fb9a27344"
+      },
+      "sha256": "237e8bb3140ac1061bae9bed3b3372049a560c346e0092805334bcad327c7a7b"
+    },
+    {
+      "bytes": 24747,
+      "path": "client/runtime/data/offline-zones/Zone04/Language.txt",
+      "payload": {
+        "bytes": 9222,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f1b657e8e42601f5b544704babaaca451bdabf3ed6493bd2616628eef09e1949"
+      },
+      "sha256": "8330b4f960746bbfcc9581ab7979765b4fa53c181f8a17d3151451d6cba0b980"
+    },
+    {
+      "bytes": 5505100,
+      "path": "client/runtime/data/offline-zones/Zone04/MapData.tcm",
+      "payload": {
+        "bytes": 775196,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e04d434c812ff92eae4c8cd0d4be1e9d6171a97ed8f1f7bb3e1f7a73df1cd197"
+      },
+      "sha256": "bda9a348046b38d78f27005ee10c00c9366e0c42d7dc40d269a495e7e109bcd0"
+    },
+    {
+      "bytes": 138953,
+      "path": "client/runtime/data/offline-zones/Zone04/NPCGener.txt",
+      "payload": {
+        "bytes": 16473,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "19024ce6d629088aade535f92d54594428160e429376309a8316890dab69673b"
+      },
+      "sha256": "3e5b5d28e7beea959ff93aee7759b3639211a12bc174d6c6d52c7030c4cc8a97"
+    },
+    {
+      "bytes": 3042,
+      "path": "client/runtime/data/offline-zones/Zone05/Data/Schedule.txt",
+      "payload": {
+        "bytes": 817,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "25e678864dac1bb2cec39d16d212bef867ab4a33f8915db4aebdf195719ce7d1"
+      },
+      "sha256": "bb31607ec34123b759bcb477ca7c64e5b17771886509113fd4b67e6957a7bae1"
+    },
+    {
+      "bytes": 460,
+      "path": "client/runtime/data/offline-zones/Zone05/Data/Settings.ini",
+      "payload": {
+        "bytes": 572,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "0327dbc05f4650dddc9e230134aea60c6fe73d104f1f7319f36b123ee29fc32d"
+      },
+      "sha256": "28c978629580df57a4acf7af8e238db229075a80b5ba309dc739872cf8593c60"
+    },
+    {
+      "bytes": 1071,
+      "path": "client/runtime/data/offline-zones/Zone05/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 887,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "593997f5659e59c8803592c7cb18b4a514b4da72079e1a3083291836f66f50ef"
+      },
+      "sha256": "8c9c2a6542b95a0a78c518922a01cbe6c83e1c8b3a605df864818629d87c3e28"
+    },
+    {
+      "bytes": 77,
+      "path": "client/runtime/data/offline-zones/Zone05/GenerationArea.idx",
+      "payload": {
+        "bytes": 189,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "8ed3a6d710d1ed60d60fa639c5912ac4fe9f3fba888c04bb3a639178df14a2f2"
+      },
+      "sha256": "703237fae8db44aefbbf1c8ca9268f38b5be2246cb0f87b0f3e667042899da98"
+    },
+    {
+      "bytes": 24747,
+      "path": "client/runtime/data/offline-zones/Zone05/Language.txt",
+      "payload": {
+        "bytes": 9222,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f1b657e8e42601f5b544704babaaca451bdabf3ed6493bd2616628eef09e1949"
+      },
+      "sha256": "8330b4f960746bbfcc9581ab7979765b4fa53c181f8a17d3151451d6cba0b980"
+    },
+    {
+      "bytes": 5505100,
+      "path": "client/runtime/data/offline-zones/Zone05/MapData.tcm",
+      "payload": {
+        "bytes": 787366,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "8550df115286fcb82e68c14929047639aa008eb853de9132d405514397d5c108"
+      },
+      "sha256": "6624e91dbf8926508eb707acd1cac32796760b2e0d08121c91a34b9f22267378"
+    },
+    {
+      "bytes": 230514,
+      "path": "client/runtime/data/offline-zones/Zone05/NPCGener.txt",
+      "payload": {
+        "bytes": 26984,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "7d2862f7b6451292b09d8b2820c166eb91a2da4e28c263c175c2c96bd41c162d"
+      },
+      "sha256": "d9eb0e67f3e3d3c4cadfbcf55ff7ceb1c14ba9ee2f0d95bef653d57c762fe611"
+    },
+    {
+      "bytes": 169,
+      "path": "client/runtime/data/offline-zones/Zone06/Data/Schedule.txt",
+      "payload": {
+        "bytes": 281,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "ae9ec8c260fd5fef5a8c3e1e3c9c3574f8262c5f904541e0d87a311a78c126b4"
+      },
+      "sha256": "aa511d8b9da9ca34b4f1908f2bec8747d3655c351754c5b52c559de23ab9a24d"
+    },
+    {
+      "bytes": 496,
+      "path": "client/runtime/data/offline-zones/Zone06/Data/Settings.ini",
+      "payload": {
+        "bytes": 608,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e860f21431a25f5636555754f0087082db0c8a041588e89dac501258c1762813"
+      },
+      "sha256": "ba90b31e88f19b86f963c3e1e6bee78f8a158df33e34228096207fdff675a881"
+    },
+    {
+      "bytes": 1069,
+      "path": "client/runtime/data/offline-zones/Zone06/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 885,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "7e866e36ac502fe530cb81a7ced17c5af926248d69175b90d19fd612e1e30221"
+      },
+      "sha256": "a748b120196cc5150c277577df74fb2adaa91db3cd581a91eba9133f9d5291f3"
+    },
+    {
+      "bytes": 41,
+      "path": "client/runtime/data/offline-zones/Zone06/GenerationArea.idx",
+      "payload": {
+        "bytes": 153,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "8cecb965cf8e4e83d7a4bfe1a06ca9883f23740ad0cfe14bac2e6ce9b4dffd17"
+      },
+      "sha256": "453fc7b0527b5236439a252766c165cf391f873b3d8da6eb7344fe6ed3bef802"
+    },
+    {
+      "bytes": 24747,
+      "path": "client/runtime/data/offline-zones/Zone06/Language.txt",
+      "payload": {
+        "bytes": 9222,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f1b657e8e42601f5b544704babaaca451bdabf3ed6493bd2616628eef09e1949"
+      },
+      "sha256": "8330b4f960746bbfcc9581ab7979765b4fa53c181f8a17d3151451d6cba0b980"
+    },
+    {
+      "bytes": 1376332,
+      "path": "client/runtime/data/offline-zones/Zone06/MapData.tcm",
+      "payload": {
+        "bytes": 199313,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "51ddebe5a684e8d28dfc78d869365bc54a1ece0c4f1b3e6c51a1d3c928a1b60f"
+      },
+      "sha256": "6efc02d2f8fb6b7a42b87cb3e3d29113b46136fb3b4304ed7964a6712689425b"
+    },
+    {
+      "bytes": 578,
+      "path": "client/runtime/data/offline-zones/Zone06/NPCGener.txt",
+      "payload": {
+        "bytes": 557,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "81d408d07c2176d30a62c970a051b6acacd7b59d0edebb672622bd861ff1f86b"
+      },
+      "sha256": "ef48eee51c304337fecfb7c760a9f4d48792d586092ddcadc4fc9fc1c250a159"
+    },
+    {
+      "bytes": 450,
+      "path": "client/runtime/data/offline-zones/Zone07/Data/Settings.ini",
+      "payload": {
+        "bytes": 562,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "9c68d1ce8717fce936faa2a4639008c665814dfa0bc0f60791b1a7c4246fa556"
+      },
+      "sha256": "66445dd389bcbd5f72025445155d8eba44c3ec29913e86a98d9e37cad5334bd4"
+    },
+    {
+      "bytes": 1069,
+      "path": "client/runtime/data/offline-zones/Zone07/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 885,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "7e866e36ac502fe530cb81a7ced17c5af926248d69175b90d19fd612e1e30221"
+      },
+      "sha256": "a748b120196cc5150c277577df74fb2adaa91db3cd581a91eba9133f9d5291f3"
+    },
+    {
+      "bytes": 41,
+      "path": "client/runtime/data/offline-zones/Zone07/GenerationArea.idx",
+      "payload": {
+        "bytes": 153,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a1ccfd81e020d426fdc883e203c17b6fd940ad591bfeccb0a065ba385af91949"
+      },
+      "sha256": "6191f971e9e673e3b116982b0e7268f6a1328e1acb6ddc5a66eb1a7fbdeeb329"
+    },
+    {
+      "bytes": 24747,
+      "path": "client/runtime/data/offline-zones/Zone07/Language.txt",
+      "payload": {
+        "bytes": 9222,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f1b657e8e42601f5b544704babaaca451bdabf3ed6493bd2616628eef09e1949"
+      },
+      "sha256": "8330b4f960746bbfcc9581ab7979765b4fa53c181f8a17d3151451d6cba0b980"
+    },
+    {
+      "bytes": 22020172,
+      "path": "client/runtime/data/offline-zones/Zone07/MapData.tcm",
+      "payload": {
+        "bytes": 3066888,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "4ab7b63ffc3ed1612d6c5af0c23d2da33700983db0e0fa3083f29cdf79f52363"
+      },
+      "sha256": "254affbc242253355e33883ccf954239a2025682ef41a6be5ad5858c0b04c3ed"
+    },
+    {
+      "bytes": 346620,
+      "path": "client/runtime/data/offline-zones/Zone07/NPCGener.txt",
+      "payload": {
+        "bytes": 42135,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "9628b2975b295bd9bf7541a5a93654d36f231c4fc07da73d120a0ed8c596f018"
+      },
+      "sha256": "a02044bf87e51c9636a8a9a4d3897a57fe237a8ae4e3c2d7ad9862aa01538c4a"
+    },
+    {
+      "bytes": 498,
+      "path": "client/runtime/data/offline-zones/Zone08/Data/Settings.ini",
+      "payload": {
+        "bytes": 610,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f86df7d8af4f13a99e4efdf8a7beb98c7f226fd20d1453c8f23423c0d2744c64"
+      },
+      "sha256": "65718e1e95574d7405ec0aa59237fdd28d2c19c4cabafd60dfb0bbc92c2e22d7"
+    },
+    {
+      "bytes": 1078,
+      "path": "client/runtime/data/offline-zones/Zone08/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 885,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c4aab3a68baf8579bfaea2e0361bb4d5724428a319dd311c92d440a2dcbe6c38"
+      },
+      "sha256": "c7a11dc44ecefc8c2729167db57dc22bc8a7abf2a821ad3cfd4cb7c4852b95b2"
+    },
+    {
+      "bytes": 41,
+      "path": "client/runtime/data/offline-zones/Zone08/GenerationArea.idx",
+      "payload": {
+        "bytes": 153,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5d18b8ffe447f31b6c14e7cc3c1ffd1d6c90e119c76653a129acadc4e2968d43"
+      },
+      "sha256": "67494f868d7b96a335c7cf49a53f6d19a4873da2f941268ab2a1370f8c32f13d"
+    },
+    {
+      "bytes": 24747,
+      "path": "client/runtime/data/offline-zones/Zone08/Language.txt",
+      "payload": {
+        "bytes": 9222,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f1b657e8e42601f5b544704babaaca451bdabf3ed6493bd2616628eef09e1949"
+      },
+      "sha256": "8330b4f960746bbfcc9581ab7979765b4fa53c181f8a17d3151451d6cba0b980"
+    },
+    {
+      "bytes": 22020172,
+      "path": "client/runtime/data/offline-zones/Zone08/MapData.tcm",
+      "payload": {
+        "bytes": 4470816,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "93857075c719eb63880df53a54f14117b2359678c11a26bce33976c15859d73f"
+      },
+      "sha256": "137cc37dcc044c9855607d768438c527f00e76618a9a03e436c9c4f24a5d3da6"
+    },
+    {
+      "bytes": 508262,
+      "path": "client/runtime/data/offline-zones/Zone08/NPCGener.txt",
+      "payload": {
+        "bytes": 60974,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b30b0e8b08f2a4fca1b230aade7df146602a8632afcef1ea022ff97ca8f94ca9"
+      },
+      "sha256": "a942c7e0a737847880e68455bf618b6df33a79e4ecbcc25b7e30d988cf8ba705"
+    },
+    {
+      "bytes": 448,
+      "path": "client/runtime/data/offline-zones/Zone09/Data/Settings.ini",
+      "payload": {
+        "bytes": 560,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "7ed1d6de98c9242150fada7466940e368f8ee520b0370b0f367fcb5de115f706"
+      },
+      "sha256": "172222843f0f48fbe92a847eacb26248485e1cb5ed350cef30db55d01338b584"
+    },
+    {
+      "bytes": 1069,
+      "path": "client/runtime/data/offline-zones/Zone09/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 885,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "7e866e36ac502fe530cb81a7ced17c5af926248d69175b90d19fd612e1e30221"
+      },
+      "sha256": "a748b120196cc5150c277577df74fb2adaa91db3cd581a91eba9133f9d5291f3"
+    },
+    {
+      "bytes": 41,
+      "path": "client/runtime/data/offline-zones/Zone09/GenerationArea.idx",
+      "payload": {
+        "bytes": 153,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f6fcab8aa98c718a5e42d19fb9b41be4ecf86a5d2cebd540b71b0a53d79e112d"
+      },
+      "sha256": "17472dad4d97b929c9c18639897018d9b951c8b33dc2d88118d77ab8793ce2d8"
+    },
+    {
+      "bytes": 24747,
+      "path": "client/runtime/data/offline-zones/Zone09/Language.txt",
+      "payload": {
+        "bytes": 9222,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f1b657e8e42601f5b544704babaaca451bdabf3ed6493bd2616628eef09e1949"
+      },
+      "sha256": "8330b4f960746bbfcc9581ab7979765b4fa53c181f8a17d3151451d6cba0b980"
+    },
+    {
+      "bytes": 22020172,
+      "path": "client/runtime/data/offline-zones/Zone09/MapData.tcm",
+      "payload": {
+        "bytes": 4287793,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b43f4163983afdd48b7b2fa03ac685f91490f0342e956c9c18a635f1d90b9722"
+      },
+      "sha256": "6abe9558aecf458805a0968981ee7c03c57a4f12d8ac393e40fcb9b5780b5ff3"
+    },
+    {
+      "bytes": 291779,
+      "path": "client/runtime/data/offline-zones/Zone09/NPCGener.txt",
+      "payload": {
+        "bytes": 34404,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1ce95633f92d04abb326821fb47aca30a5f73c0bb80bb47ebb05f34ea8d2d890"
+      },
+      "sha256": "9fa6daa293e63329e21c7ca6cba917cd4deb6492b4524153ceb9a072ebb16f31"
+    },
+    {
+      "bytes": 1309,
+      "path": "client/runtime/data/offline-zones/Zone10/Data/Schedule.txt",
+      "payload": {
+        "bytes": 667,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "bdde2167e8c185f9d6e9539ae8b1667c340f6452b544828e5df11d2d19bae8ac"
+      },
+      "sha256": "d48f5ac8065a963104e54608a8afb9fb8d1432d5bccb8c47c0aac385d39070db"
+    },
+    {
+      "bytes": 508,
+      "path": "client/runtime/data/offline-zones/Zone10/Data/Settings.ini",
+      "payload": {
+        "bytes": 620,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b65aea7c19af61f582fcb9e47df04a3b2b5a4cf92e366688c7df807a353c7d91"
+      },
+      "sha256": "0da7f3bf033f2d4999526ee4a4054fd23ceffd3fd6db140312fc0d2aed9dba07"
+    },
+    {
+      "bytes": 1072,
+      "path": "client/runtime/data/offline-zones/Zone10/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 887,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "406d239c7afc3f573fecb8b36d65c45c419d4e8f84c5db3a2088124469580cdc"
+      },
+      "sha256": "2dad1f977c50442f4dc6c40e8666fbadf86c242ed18fc723c74cb21be32c8706"
+    },
+    {
+      "bytes": 65,
+      "path": "client/runtime/data/offline-zones/Zone10/GenerationArea.idx",
+      "payload": {
+        "bytes": 177,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b42863b1aac95af77b3546298bdf2c2802b2898eab5c0ebab205e2bf1e7a2fba"
+      },
+      "sha256": "9b5cc91862c75b681a0c16e272f7e3c4949e30526ecc582d979659347bd0a15e"
+    },
+    {
+      "bytes": 24747,
+      "path": "client/runtime/data/offline-zones/Zone10/Language.txt",
+      "payload": {
+        "bytes": 9222,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f1b657e8e42601f5b544704babaaca451bdabf3ed6493bd2616628eef09e1949"
+      },
+      "sha256": "8330b4f960746bbfcc9581ab7979765b4fa53c181f8a17d3151451d6cba0b980"
+    },
+    {
+      "bytes": 22020172,
+      "path": "client/runtime/data/offline-zones/Zone10/MapData.tcm",
+      "payload": {
+        "bytes": 3963440,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "186eb811932043da00e2fd5ed30ffac2e46327942ce27c3953c2af84b80b3294"
+      },
+      "sha256": "a98a86996dc83df01fef57f80006187a664bf504d904ccc0d02cec4ca88c905a"
+    },
+    {
+      "bytes": 117812,
+      "path": "client/runtime/data/offline-zones/Zone10/NPCGener.txt",
+      "payload": {
+        "bytes": 14203,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b4c4598a3e17e7b05ca3ddfb3a28132f319adb484c426e1e335fca3e0e447d51"
+      },
+      "sha256": "3c1131810d17f3ecf39613cba0ad16362af3605b92fc8766b885808b0a70ae54"
+    },
+    {
+      "bytes": 3042,
+      "path": "client/runtime/data/offline-zones/Zone11/Data/Schedule.txt",
+      "payload": {
+        "bytes": 817,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "25e678864dac1bb2cec39d16d212bef867ab4a33f8915db4aebdf195719ce7d1"
+      },
+      "sha256": "bb31607ec34123b759bcb477ca7c64e5b17771886509113fd4b67e6957a7bae1"
+    },
+    {
+      "bytes": 458,
+      "path": "client/runtime/data/offline-zones/Zone11/Data/Settings.ini",
+      "payload": {
+        "bytes": 570,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "33afe37a812440ac190c53824506e96ee3943d1509d64469a8bc29d8ac18a8c8"
+      },
+      "sha256": "17cd88eb79c700ac69624443ef84f97aff19f02f11b2521c5abadd0bd44bdb47"
+    },
+    {
+      "bytes": 1069,
+      "path": "client/runtime/data/offline-zones/Zone11/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 885,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "24bf2639b771ce9225688f5e628bf6d98468a191ed5706eded4e219e70d92249"
+      },
+      "sha256": "360d8bd0eaa45bbd71d30b8426cf6c2d481760c461836c7aef50f265569f1231"
+    },
+    {
+      "bytes": 65,
+      "path": "client/runtime/data/offline-zones/Zone11/GenerationArea.idx",
+      "payload": {
+        "bytes": 177,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "83a572cb287b96e11bd6c6dc2b8c6c8dbde05cfacb3351020aba8bda8aa702da"
+      },
+      "sha256": "066eff85f1f4ec641bb3f6f788a5b3e4cd742f2de6291093e32d2ead01e57c28"
+    },
+    {
+      "bytes": 24747,
+      "path": "client/runtime/data/offline-zones/Zone11/Language.txt",
+      "payload": {
+        "bytes": 9222,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f1b657e8e42601f5b544704babaaca451bdabf3ed6493bd2616628eef09e1949"
+      },
+      "sha256": "8330b4f960746bbfcc9581ab7979765b4fa53c181f8a17d3151451d6cba0b980"
+    },
+    {
+      "bytes": 22020172,
+      "path": "client/runtime/data/offline-zones/Zone11/MapData.tcm",
+      "payload": {
+        "bytes": 3145938,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "4cd4c7c4e0e6848696c65cc85b4d545baa4627b28a8dbe67635f0253b84d571c"
+      },
+      "sha256": "940de423aef251e29e0ddb864b4cbc87c517682cb253271dbb9522f752efa1f4"
+    },
+    {
+      "bytes": 169519,
+      "path": "client/runtime/data/offline-zones/Zone11/NPCGener.txt",
+      "payload": {
+        "bytes": 19230,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "125f6cbec555bda001d82a84a171c5b4f8d0117a7663776f0a5b5482a2127002"
+      },
+      "sha256": "1aeac142385afcab490216442ccdba04d36ea2524954194cde7bd1d3c5d9e9d0"
+    },
+    {
+      "bytes": 454,
+      "path": "client/runtime/data/offline-zones/Zone12/Data/Settings.ini",
+      "payload": {
+        "bytes": 566,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1bea5650c5117f86842baf34f8fe669e4fd44961b1da33ed777e323e05ba57b7"
+      },
+      "sha256": "6f9ab6cced24d2a80ea9742a2b32b5439cbcc02d11837b5362de0028fbde434d"
+    },
+    {
+      "bytes": 1070,
+      "path": "client/runtime/data/offline-zones/Zone12/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 882,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "450198002f98a8952fdddd844a06c698fdcf4b6acb4d6fc6c89dd42274c5637e"
+      },
+      "sha256": "cacd8f67173a8979424a72ce80693c58153a2793b0f0c3b066b4409d3dd7f34f"
+    },
+    {
+      "bytes": 41,
+      "path": "client/runtime/data/offline-zones/Zone12/GenerationArea.idx",
+      "payload": {
+        "bytes": 153,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "166c80e65495417fcaf14d7c5735665bb17df56f161bdce22e102777b40084de"
+      },
+      "sha256": "b37522841af95af4ce177a8a6fafb9af90b2d246ee4e482745c1bdc2af4c6a52"
+    },
+    {
+      "bytes": 24747,
+      "path": "client/runtime/data/offline-zones/Zone12/Language.txt",
+      "payload": {
+        "bytes": 9222,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f1b657e8e42601f5b544704babaaca451bdabf3ed6493bd2616628eef09e1949"
+      },
+      "sha256": "8330b4f960746bbfcc9581ab7979765b4fa53c181f8a17d3151451d6cba0b980"
+    },
+    {
+      "bytes": 22020172,
+      "path": "client/runtime/data/offline-zones/Zone12/MapData.tcm",
+      "payload": {
+        "bytes": 3731971,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "53310278fb3b8fe926181c646b9a093693a1233b531cddf3256c8c7d9cb502ef"
+      },
+      "sha256": "4a1b3c99085292047f0802a794d6a25b085e08979208fc3c044f0f0d1e9eee8c"
+    },
+    {
+      "bytes": 471370,
+      "path": "client/runtime/data/offline-zones/Zone12/NPCGener.txt",
+      "payload": {
+        "bytes": 54592,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5bde75b2ca951e46fa2bd525c845d2e691e9e7782e4d6b0a9f4a8412877a152c"
+      },
+      "sha256": "f145e707b3de19ae6e45fe4d5d583cdac446cc51ff664b275b8e11b7b05538b5"
+    },
+    {
+      "bytes": 1291,
+      "path": "client/runtime/data/offline-zones/Zone13/Data/Schedule.txt",
+      "payload": {
+        "bytes": 627,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e25ec4eb3a3ba93838f3a4f73b7aea3e2f35b20460c4bb43a3df6fbcfa4ff492"
+      },
+      "sha256": "6f8e6326fbbef6c206620ba35ca0f3b46ffb26114cd66a5f6ae327b455c4cbe9"
+    },
+    {
+      "bytes": 437,
+      "path": "client/runtime/data/offline-zones/Zone13/Data/Settings.ini",
+      "payload": {
+        "bytes": 549,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "69298a4e2a5071f841bf9a1718fb3ab8aaa09fd9bd0ec095e5d0f2f27454859b"
+      },
+      "sha256": "5dfb296d03ba81eef67f009ae665eaa21de4cd106f0b3ed9ec767d3ac7ccd056"
+    },
+    {
+      "bytes": 1069,
+      "path": "client/runtime/data/offline-zones/Zone13/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 885,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "24bf2639b771ce9225688f5e628bf6d98468a191ed5706eded4e219e70d92249"
+      },
+      "sha256": "360d8bd0eaa45bbd71d30b8426cf6c2d481760c461836c7aef50f265569f1231"
+    },
+    {
+      "bytes": 65,
+      "path": "client/runtime/data/offline-zones/Zone13/GenerationArea.idx",
+      "payload": {
+        "bytes": 177,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "81dba64354f96a2cfd49708e835bf7ae9a1b304cb9ec0ab497379fa34cd19ec6"
+      },
+      "sha256": "f7a78817462b9388cc38ad00348a41e096e1f6c5042547b68ccf91a994cb4004"
+    },
+    {
+      "bytes": 24747,
+      "path": "client/runtime/data/offline-zones/Zone13/Language.txt",
+      "payload": {
+        "bytes": 9222,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f1b657e8e42601f5b544704babaaca451bdabf3ed6493bd2616628eef09e1949"
+      },
+      "sha256": "8330b4f960746bbfcc9581ab7979765b4fa53c181f8a17d3151451d6cba0b980"
+    },
+    {
+      "bytes": 22020172,
+      "path": "client/runtime/data/offline-zones/Zone13/MapData.tcm",
+      "payload": {
+        "bytes": 3105850,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "fa0dbb798f2237009319d9dc36736a766d5da25bf93b1856ae943d79302b6fc3"
+      },
+      "sha256": "a03f7b54cb895fd2f29067b9ac45eb2aab231cfae4322d80b2196d4628f4301a"
+    },
+    {
+      "bytes": 304971,
+      "path": "client/runtime/data/offline-zones/Zone13/NPCGener.txt",
+      "payload": {
+        "bytes": 30187,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "cb7ef3a10a37bfc3f5e96bf1309e2de7bde95852d8714cbe5b8acdd8a2bee40c"
+      },
+      "sha256": "071237ecaace0c33e545bd6832db5412e85384c0d3a484b43ba7336f90194037"
+    },
+    {
+      "bytes": 1291,
+      "path": "client/runtime/data/offline-zones/Zone14/Data/Schedule.txt",
+      "payload": {
+        "bytes": 627,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e25ec4eb3a3ba93838f3a4f73b7aea3e2f35b20460c4bb43a3df6fbcfa4ff492"
+      },
+      "sha256": "6f8e6326fbbef6c206620ba35ca0f3b46ffb26114cd66a5f6ae327b455c4cbe9"
+    },
+    {
+      "bytes": 446,
+      "path": "client/runtime/data/offline-zones/Zone14/Data/Settings.ini",
+      "payload": {
+        "bytes": 558,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "660515f59589134bda45c4858d341205cfa2577043fbef6672ba2e8a92275fc4"
+      },
+      "sha256": "b8ae790250e32ebb77b949757959a560832afde6e350dd12f8363e80537c2e9b"
+    },
+    {
+      "bytes": 1069,
+      "path": "client/runtime/data/offline-zones/Zone14/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 885,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "24bf2639b771ce9225688f5e628bf6d98468a191ed5706eded4e219e70d92249"
+      },
+      "sha256": "360d8bd0eaa45bbd71d30b8426cf6c2d481760c461836c7aef50f265569f1231"
+    },
+    {
+      "bytes": 65,
+      "path": "client/runtime/data/offline-zones/Zone14/GenerationArea.idx",
+      "payload": {
+        "bytes": 177,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "81dba64354f96a2cfd49708e835bf7ae9a1b304cb9ec0ab497379fa34cd19ec6"
+      },
+      "sha256": "f7a78817462b9388cc38ad00348a41e096e1f6c5042547b68ccf91a994cb4004"
+    },
+    {
+      "bytes": 24747,
+      "path": "client/runtime/data/offline-zones/Zone14/Language.txt",
+      "payload": {
+        "bytes": 9222,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f1b657e8e42601f5b544704babaaca451bdabf3ed6493bd2616628eef09e1949"
+      },
+      "sha256": "8330b4f960746bbfcc9581ab7979765b4fa53c181f8a17d3151451d6cba0b980"
+    },
+    {
+      "bytes": 22020172,
+      "path": "client/runtime/data/offline-zones/Zone14/MapData.tcm",
+      "payload": {
+        "bytes": 3105850,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "fa0dbb798f2237009319d9dc36736a766d5da25bf93b1856ae943d79302b6fc3"
+      },
+      "sha256": "a03f7b54cb895fd2f29067b9ac45eb2aab231cfae4322d80b2196d4628f4301a"
+    },
+    {
+      "bytes": 304971,
+      "path": "client/runtime/data/offline-zones/Zone14/NPCGener.txt",
+      "payload": {
+        "bytes": 30216,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "bc58825c13df93105c0b4899001886745d5b5d213b166305dda94160181bfd25"
+      },
+      "sha256": "527582f61c1432a9b126cace554c54a0ae5bd5a947f43321c4db19b8bc3436a2"
+    },
+    {
+      "bytes": 1291,
+      "path": "client/runtime/data/offline-zones/Zone15/Data/Schedule.txt",
+      "payload": {
+        "bytes": 627,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e25ec4eb3a3ba93838f3a4f73b7aea3e2f35b20460c4bb43a3df6fbcfa4ff492"
+      },
+      "sha256": "6f8e6326fbbef6c206620ba35ca0f3b46ffb26114cd66a5f6ae327b455c4cbe9"
+    },
+    {
+      "bytes": 446,
+      "path": "client/runtime/data/offline-zones/Zone15/Data/Settings.ini",
+      "payload": {
+        "bytes": 558,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e66dbf14556672e5c472950423d120a582ac12eec1afa5b81311b641acc71cf3"
+      },
+      "sha256": "c933ff7fd390e9658aed8b5182af748c4e889f5996250eba6aab3445974a1406"
+    },
+    {
+      "bytes": 1069,
+      "path": "client/runtime/data/offline-zones/Zone15/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 885,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "24bf2639b771ce9225688f5e628bf6d98468a191ed5706eded4e219e70d92249"
+      },
+      "sha256": "360d8bd0eaa45bbd71d30b8426cf6c2d481760c461836c7aef50f265569f1231"
+    },
+    {
+      "bytes": 65,
+      "path": "client/runtime/data/offline-zones/Zone15/GenerationArea.idx",
+      "payload": {
+        "bytes": 177,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "81dba64354f96a2cfd49708e835bf7ae9a1b304cb9ec0ab497379fa34cd19ec6"
+      },
+      "sha256": "f7a78817462b9388cc38ad00348a41e096e1f6c5042547b68ccf91a994cb4004"
+    },
+    {
+      "bytes": 24747,
+      "path": "client/runtime/data/offline-zones/Zone15/Language.txt",
+      "payload": {
+        "bytes": 9222,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f1b657e8e42601f5b544704babaaca451bdabf3ed6493bd2616628eef09e1949"
+      },
+      "sha256": "8330b4f960746bbfcc9581ab7979765b4fa53c181f8a17d3151451d6cba0b980"
+    },
+    {
+      "bytes": 22020172,
+      "path": "client/runtime/data/offline-zones/Zone15/MapData.tcm",
+      "payload": {
+        "bytes": 3105850,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "fa0dbb798f2237009319d9dc36736a766d5da25bf93b1856ae943d79302b6fc3"
+      },
+      "sha256": "a03f7b54cb895fd2f29067b9ac45eb2aab231cfae4322d80b2196d4628f4301a"
+    },
+    {
+      "bytes": 304971,
+      "path": "client/runtime/data/offline-zones/Zone15/NPCGener.txt",
+      "payload": {
+        "bytes": 30197,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "22c253b73eb0cac071f6bb7190aeff50723931aa8b4a74399032f176c15d6f77"
+      },
+      "sha256": "9c7632a6881c1f7ba3e3fb22e7b78e3101e7f5673d112196560a9eab5cc28d11"
+    },
+    {
+      "bytes": 10171,
+      "path": "client/runtime/data/offline-zones/Zone17/Data/Schedule.txt",
+      "payload": {
+        "bytes": 1611,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "9c4da85b6ca81cdee791653384b85b7503f9f935166febcb09ef40a0bb68f281"
+      },
+      "sha256": "efcd1a814a68b33f9edee6996b1860fe8eff112cbc71f432db0c23183f7c1575"
+    },
+    {
+      "bytes": 24747,
+      "path": "client/runtime/data/offline-zones/Zone17/Language.txt",
+      "payload": {
+        "bytes": 9222,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f1b657e8e42601f5b544704babaaca451bdabf3ed6493bd2616628eef09e1949"
+      },
+      "sha256": "8330b4f960746bbfcc9581ab7979765b4fa53c181f8a17d3151451d6cba0b980"
+    },
+    {
+      "bytes": 1116,
+      "path": "client/runtime/data/offline-zones/Zone18/Data/Schedule.txt",
+      "payload": {
+        "bytes": 649,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "0ae71054284096a7677abceabfc7e0cbb80fd3424b6195203220d5e618bd4d0e"
+      },
+      "sha256": "659ff3c0aa589b32a3c6a9cf796f3ac3b577ee4864d1829ebe0bc34d8d4ee87d"
+    },
+    {
+      "bytes": 524,
+      "path": "client/runtime/data/offline-zones/Zone18/Data/Settings.ini",
+      "payload": {
+        "bytes": 636,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "20d269244e7260042ffc9fcc142bfc09e287bf0889e5e94cf92ca2f33bfdaec1"
+      },
+      "sha256": "05195e62ccf27392a929fdd22e1fba89ac199c2f85d5d1224a7bf7919210d27d"
+    },
+    {
+      "bytes": 1069,
+      "path": "client/runtime/data/offline-zones/Zone18/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 885,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "6c9c7d2071202212cf37900aa7c92e09566ecc5d46b15ce65257f80f0ef8a2e0"
+      },
+      "sha256": "a8479867b50a89d896a8044708236363d7e08c96820c7e4a554780fa4b0db6b5"
+    },
+    {
+      "bytes": 41,
+      "path": "client/runtime/data/offline-zones/Zone18/GenerationArea.idx",
+      "payload": {
+        "bytes": 153,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5d18b8ffe447f31b6c14e7cc3c1ffd1d6c90e119c76653a129acadc4e2968d43"
+      },
+      "sha256": "67494f868d7b96a335c7cf49a53f6d19a4873da2f941268ab2a1370f8c32f13d"
+    },
+    {
+      "bytes": 24747,
+      "path": "client/runtime/data/offline-zones/Zone18/Language.txt",
+      "payload": {
+        "bytes": 9222,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f1b657e8e42601f5b544704babaaca451bdabf3ed6493bd2616628eef09e1949"
+      },
+      "sha256": "8330b4f960746bbfcc9581ab7979765b4fa53c181f8a17d3151451d6cba0b980"
+    },
+    {
+      "bytes": 22020172,
+      "path": "client/runtime/data/offline-zones/Zone18/MapData.tcm",
+      "payload": {
+        "bytes": 4554900,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f42c24dbdbe55d3e8f0ee39c67c8d221f6cef1ba446621c35de65fc1784b63b8"
+      },
+      "sha256": "b82dbade3898f6576014832c607bd628c68d7976704394bf95c021211787b61e"
+    },
+    {
+      "bytes": 286122,
+      "path": "client/runtime/data/offline-zones/Zone18/NPCGener.txt",
+      "payload": {
+        "bytes": 34045,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a06f317a6a1e0bcf0dd64fd13fe9160b59c840c36400b1820e588ea5b56a88e2"
+      },
+      "sha256": "3ab8bc8f78aa5774f3c3634ebfbb7c0bbb60c8585f5329f599916edeff6386b4"
+    },
+    {
+      "bytes": 524,
+      "path": "client/runtime/data/offline-zones/Zone19/Data/Settings.ini",
+      "payload": {
+        "bytes": 636,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "20d269244e7260042ffc9fcc142bfc09e287bf0889e5e94cf92ca2f33bfdaec1"
+      },
+      "sha256": "05195e62ccf27392a929fdd22e1fba89ac199c2f85d5d1224a7bf7919210d27d"
+    },
+    {
+      "bytes": 1069,
+      "path": "client/runtime/data/offline-zones/Zone19/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 885,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "6c9c7d2071202212cf37900aa7c92e09566ecc5d46b15ce65257f80f0ef8a2e0"
+      },
+      "sha256": "a8479867b50a89d896a8044708236363d7e08c96820c7e4a554780fa4b0db6b5"
+    },
+    {
+      "bytes": 41,
+      "path": "client/runtime/data/offline-zones/Zone19/GenerationArea.idx",
+      "payload": {
+        "bytes": 153,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5d18b8ffe447f31b6c14e7cc3c1ffd1d6c90e119c76653a129acadc4e2968d43"
+      },
+      "sha256": "67494f868d7b96a335c7cf49a53f6d19a4873da2f941268ab2a1370f8c32f13d"
+    },
+    {
+      "bytes": 22020172,
+      "path": "client/runtime/data/offline-zones/Zone19/MapData.tcm",
+      "payload": {
+        "bytes": 4554900,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f42c24dbdbe55d3e8f0ee39c67c8d221f6cef1ba446621c35de65fc1784b63b8"
+      },
+      "sha256": "b82dbade3898f6576014832c607bd628c68d7976704394bf95c021211787b61e"
+    },
+    {
+      "bytes": 181672,
+      "path": "client/runtime/data/offline-zones/Zone19/NPCGener.txt",
+      "payload": {
+        "bytes": 23935,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a63f3b42a9ca8c406e2a045ef77ea2de15b83c11bbd7b472dffbc2853702e908"
+      },
+      "sha256": "a8185eac42aad7c8a5848b45d332291e3496cdd33e51668b808f66089d2dbcaf"
+    },
+    {
+      "bytes": 481,
+      "path": "client/runtime/data/offline-zones/Zone20/Data/Settings.ini",
+      "payload": {
+        "bytes": 593,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b36d81286aef99e393af937f3fc3303af749010910c1989a739df7b1a0133866"
+      },
+      "sha256": "e0c7ab47d40c0e6504f8d4b36b664adf729ac5def9ee68c3f0a6aa392e7974f9"
+    },
+    {
+      "bytes": 1071,
+      "path": "client/runtime/data/offline-zones/Zone20/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 887,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5d794938be8d521283f181e7848763e9aa7e0ea3ddc60f6fccfa8b79f74b9e79"
+      },
+      "sha256": "7b78d7323aeb47bae428e7c2c6d97dd360290c288d1cca16f9d0a00f7a21cfd9"
+    },
+    {
+      "bytes": 65,
+      "path": "client/runtime/data/offline-zones/Zone20/GenerationArea.idx",
+      "payload": {
+        "bytes": 177,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "979c213db266cb641c8a0a08226d35b61056b6dfffd10523142515030a065635"
+      },
+      "sha256": "73783301e9ac150e4d8aacd716220b3bf9bd78a8c1ae066d0369fd9076b2a337"
+    },
+    {
+      "bytes": 24747,
+      "path": "client/runtime/data/offline-zones/Zone20/Language.txt",
+      "payload": {
+        "bytes": 9222,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f1b657e8e42601f5b544704babaaca451bdabf3ed6493bd2616628eef09e1949"
+      },
+      "sha256": "8330b4f960746bbfcc9581ab7979765b4fa53c181f8a17d3151451d6cba0b980"
+    },
+    {
+      "bytes": 22020172,
+      "path": "client/runtime/data/offline-zones/Zone20/MapData.tcm",
+      "payload": {
+        "bytes": 4313310,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b5c8068c5b42feaf1b94c976d35a4639d247c91cb0c3cdaf65349c29641b22d5"
+      },
+      "sha256": "4291f2b81c1041cff4bfe17cfdc2084ec1f94064861a45ce8922ab09c9c3b291"
+    },
+    {
+      "bytes": 166511,
+      "path": "client/runtime/data/offline-zones/Zone20/NPCGener.txt",
+      "payload": {
+        "bytes": 20783,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "9eadbb9575164b1c228fe798929c188079034e46061dda1fa1af726ff7901e8d"
+      },
+      "sha256": "203d33aec2ff17275e073dd37d142965256e7555fc895b636eac4e58708ee049"
+    },
+    {
+      "bytes": 531,
+      "path": "client/runtime/data/offline-zones/Zone21/Data/Schedule.txt",
+      "payload": {
+        "bytes": 534,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5c60da66177a02bef78bd9778286cabfdfe180a937a87f26b100bc1361ecf399"
+      },
+      "sha256": "ba46eeeca79b406c60f92eefe40f7d224680ddc565ade9043462e91a939ca87f"
+    },
+    {
+      "bytes": 626,
+      "path": "client/runtime/data/offline-zones/Zone21/Data/Settings.ini",
+      "payload": {
+        "bytes": 685,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "50a73c5fe424a04926b455a4b9dbaed7377f4552163cc15946b48ae8a37c21a9"
+      },
+      "sha256": "1ac2a059d5290d5bbc7375c3a499bd877b0a738552aa4d8ba36336a98b8f19f7"
+    },
+    {
+      "bytes": 1075,
+      "path": "client/runtime/data/offline-zones/Zone21/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 891,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "767e736adc7b0e7e9e89c4bec476a703ed12fa47f627f20c2a26ae2d5b1c129e"
+      },
+      "sha256": "ca15c076e6216f81686ccf589cbe99a695f0a190592f289133cb249faa1626bb"
+    },
+    {
+      "bytes": 77,
+      "path": "client/runtime/data/offline-zones/Zone21/GenerationArea.idx",
+      "payload": {
+        "bytes": 189,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "fda2aaf5fab1ccbd6742598e6e13a130b118c0f45f36ea06f2eedec70df5a66c"
+      },
+      "sha256": "4db6ee7c2c5f54cb440f37d447dfcfe36d6e5de9f7aa4e6f6b8cebf9af16402a"
+    },
+    {
+      "bytes": 24772,
+      "path": "client/runtime/data/offline-zones/Zone21/Language.txt",
+      "payload": {
+        "bytes": 9226,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a8f3b087ab0ee924505298f7b99113c4504494c4dc30774c1dfe88390971bd8d"
+      },
+      "sha256": "332575bf2bb858bfa045eceab1c2f682722a3c85924e9560adb6362708370c97"
+    },
+    {
+      "bytes": 22020172,
+      "path": "client/runtime/data/offline-zones/Zone21/MapData.tcm",
+      "payload": {
+        "bytes": 3149692,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "3bd209bbcee94e52b8c5b96240ff63129eb68ae32c326d81ae2202e2559b666e"
+      },
+      "sha256": "954cede748d3a4f330c63c1533c37e07c28864cd88c03487bdd2e7482b7aa37c"
+    },
+    {
+      "bytes": 603727,
+      "path": "client/runtime/data/offline-zones/Zone21/NPCGener.txt",
+      "payload": {
+        "bytes": 70700,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "181d6dc656f42eed0a0ead9c2d5e078962d70987f831aa2a8ae8718b1b89d14c"
+      },
+      "sha256": "778f6859876605943aefbe733b095972c3e8ff9bd3290c1f0af2972fbcc8b8db"
+    },
+    {
+      "bytes": 3521,
+      "path": "client/runtime/data/offline-zones/Zone22/Data/Schedule.txt",
+      "payload": {
+        "bytes": 1084,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "744d7c3d2d4330424e8d9a8b17e9c394a9f1240b0b2fcb6c5eb7b32644103b0b"
+      },
+      "sha256": "72bcfe9ca9e37df20c4b86bd2b84dc4469aa5c8b6becca363e5d1680decb71e7"
+    },
+    {
+      "bytes": 461,
+      "path": "client/runtime/data/offline-zones/Zone22/Data/Settings.ini",
+      "payload": {
+        "bytes": 573,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "7b7e57fc8ae6eb09162135b7e92d2bc9605ecbe6ffc958fa35ba77c0e4a2e0e6"
+      },
+      "sha256": "4d704b1bcb9efcbfd18fc6b0207ab6fd2b7af09ce1590dab4b8d302ad241517c"
+    },
+    {
+      "bytes": 1069,
+      "path": "client/runtime/data/offline-zones/Zone22/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 885,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "24bf2639b771ce9225688f5e628bf6d98468a191ed5706eded4e219e70d92249"
+      },
+      "sha256": "360d8bd0eaa45bbd71d30b8426cf6c2d481760c461836c7aef50f265569f1231"
+    },
+    {
+      "bytes": 53,
+      "path": "client/runtime/data/offline-zones/Zone22/GenerationArea.idx",
+      "payload": {
+        "bytes": 165,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5ee63c66c547ac553373810cfddf3b68af6580dccc583c991b96b2c84263595a"
+      },
+      "sha256": "afee94dad274cb6c6cc686b4d984a123f9e2f9bd76506b37b982c8e3d77b59aa"
+    },
+    {
+      "bytes": 24747,
+      "path": "client/runtime/data/offline-zones/Zone22/Language.txt",
+      "payload": {
+        "bytes": 9222,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f1b657e8e42601f5b544704babaaca451bdabf3ed6493bd2616628eef09e1949"
+      },
+      "sha256": "8330b4f960746bbfcc9581ab7979765b4fa53c181f8a17d3151451d6cba0b980"
+    },
+    {
+      "bytes": 22020172,
+      "path": "client/runtime/data/offline-zones/Zone22/MapData.tcm",
+      "payload": {
+        "bytes": 3125349,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "11471ac3bd9228394a6dfc5d5b4311c533936fff06f68f153d220a35f78b256a"
+      },
+      "sha256": "fa4f0956b889b7b5ebbaec1d36229a3cb270af26b39f569fb1758f0ab9807396"
+    },
+    {
+      "bytes": 393008,
+      "path": "client/runtime/data/offline-zones/Zone22/NPCGener.txt",
+      "payload": {
+        "bytes": 47486,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "7043c13695928abcb8ba000761d476bd180c815a7ebd8dd758c80539740df4f3"
+      },
+      "sha256": "00d326aa327af21e763a69c334bab1f04525c5d66a48ff3be90832d1df02c875"
+    },
+    {
+      "bytes": 3042,
+      "path": "client/runtime/data/offline-zones/Zone24/Data/Schedule.txt",
+      "payload": {
+        "bytes": 817,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "25e678864dac1bb2cec39d16d212bef867ab4a33f8915db4aebdf195719ce7d1"
+      },
+      "sha256": "bb31607ec34123b759bcb477ca7c64e5b17771886509113fd4b67e6957a7bae1"
+    },
+    {
+      "bytes": 463,
+      "path": "client/runtime/data/offline-zones/Zone24/Data/Settings.ini",
+      "payload": {
+        "bytes": 575,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "dab85ae29e8b498a669694367a2b033ccde2564f4025e800d7b6cf6f69784873"
+      },
+      "sha256": "5838632a98c2706db246debf58ab59b86d99ad75b95d34f28c6fd3f2543580f7"
+    },
+    {
+      "bytes": 1071,
+      "path": "client/runtime/data/offline-zones/Zone24/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 887,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "3904e318335fb39e378d3c979d189a9a67c098b9904eb04e121ed8c5336a8955"
+      },
+      "sha256": "beb95774dad4ba999626162c1856239b0c17e4deda9bce7a2aac6092724cc4c4"
+    },
+    {
+      "bytes": 41,
+      "path": "client/runtime/data/offline-zones/Zone24/GenerationArea.idx",
+      "payload": {
+        "bytes": 153,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "659e5b2327f0fa5dedf71ef81cb3a48fd8de1f8201d8cecbdf8ac6998da98b49"
+      },
+      "sha256": "223e1d734ac4ff908cdcf6bfc7e871ede263b74cd7082ac3952cccb51fd5290b"
+    },
+    {
+      "bytes": 24747,
+      "path": "client/runtime/data/offline-zones/Zone24/Language.txt",
+      "payload": {
+        "bytes": 9222,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f1b657e8e42601f5b544704babaaca451bdabf3ed6493bd2616628eef09e1949"
+      },
+      "sha256": "8330b4f960746bbfcc9581ab7979765b4fa53c181f8a17d3151451d6cba0b980"
+    },
+    {
+      "bytes": 22020172,
+      "path": "client/runtime/data/offline-zones/Zone24/MapData.tcm",
+      "payload": {
+        "bytes": 4517550,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "50febd4ce6cae61f156ece35b24170691a0300fe22bfcb8b3aca16327b02ac24"
+      },
+      "sha256": "34a8eae51ea0fd4315e5d2f90f49e4f984eebe735bcae411d2daccdc6b4bf04d"
+    },
+    {
+      "bytes": 209260,
+      "path": "client/runtime/data/offline-zones/Zone24/NPCGener.txt",
+      "payload": {
+        "bytes": 26112,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "54fa1400cad0e5b5ad754ff5f68be1b20fa4454a5aec27362bcf34b61e12b4b0"
+      },
+      "sha256": "d3cf45fe9b9ccf526d7ee3ada97fc0e858b3f2fe15642d47b04f50dbf0878460"
+    },
+    {
+      "bytes": 3042,
+      "path": "client/runtime/data/offline-zones/Zone26/Data/Schedule.txt",
+      "payload": {
+        "bytes": 817,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "25e678864dac1bb2cec39d16d212bef867ab4a33f8915db4aebdf195719ce7d1"
+      },
+      "sha256": "bb31607ec34123b759bcb477ca7c64e5b17771886509113fd4b67e6957a7bae1"
+    },
+    {
+      "bytes": 445,
+      "path": "client/runtime/data/offline-zones/Zone26/Data/Settings.ini",
+      "payload": {
+        "bytes": 557,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "550190da86440f8cbea24dab31b2f562ca6027d5b56a187791e5c241b974303d"
+      },
+      "sha256": "00990044d2024ee40c8595d431e4f1133f91e02a3581e0ca9ba8ddbc520525d4"
+    },
+    {
+      "bytes": 1069,
+      "path": "client/runtime/data/offline-zones/Zone26/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 885,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "24bf2639b771ce9225688f5e628bf6d98468a191ed5706eded4e219e70d92249"
+      },
+      "sha256": "360d8bd0eaa45bbd71d30b8426cf6c2d481760c461836c7aef50f265569f1231"
+    },
+    {
+      "bytes": 41,
+      "path": "client/runtime/data/offline-zones/Zone26/GenerationArea.idx",
+      "payload": {
+        "bytes": 153,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a0de54315a72bfd6e0ef9e7e57833333cb48d2a57a0763a8434568fa2a6baa5f"
+      },
+      "sha256": "0a995d5002d0680dfe65aaf4bfcbda85eb59ca27b98239edd4bb0097aa37accc"
+    },
+    {
+      "bytes": 24747,
+      "path": "client/runtime/data/offline-zones/Zone26/Language.txt",
+      "payload": {
+        "bytes": 9222,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f1b657e8e42601f5b544704babaaca451bdabf3ed6493bd2616628eef09e1949"
+      },
+      "sha256": "8330b4f960746bbfcc9581ab7979765b4fa53c181f8a17d3151451d6cba0b980"
+    },
+    {
+      "bytes": 22020172,
+      "path": "client/runtime/data/offline-zones/Zone26/MapData.tcm",
+      "payload": {
+        "bytes": 4589661,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "32dd4dc7db60ebf19d6fe61f41d33e4a7457ad8673cf195c3a68d4ac176c24bf"
+      },
+      "sha256": "ff585edd2ad8a04482b1ba38b95773f69c36cb25d7c3763a98404487b262118f"
+    },
+    {
+      "bytes": 631979,
+      "path": "client/runtime/data/offline-zones/Zone26/NPCGener.txt",
+      "payload": {
+        "bytes": 75964,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "717309bdf72b9129968e828231817351e3c6dca469e9947578a264df1f3d6882"
+      },
+      "sha256": "c09770fb8cb30e233013a2b6358d429ed93c7924498c8e270ab4c48ab9c25fde"
+    },
+    {
+      "bytes": 3521,
+      "path": "client/runtime/data/offline-zones/Zone28/Data/Schedule.txt",
+      "payload": {
+        "bytes": 1084,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "744d7c3d2d4330424e8d9a8b17e9c394a9f1240b0b2fcb6c5eb7b32644103b0b"
+      },
+      "sha256": "72bcfe9ca9e37df20c4b86bd2b84dc4469aa5c8b6becca363e5d1680decb71e7"
+    },
+    {
+      "bytes": 480,
+      "path": "client/runtime/data/offline-zones/Zone28/Data/Settings.ini",
+      "payload": {
+        "bytes": 592,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "76fafac68efbc53353f5b58f0bea79c772f251a23f05b406667d0be022b893aa"
+      },
+      "sha256": "145f0f71fb5381a7c7c61e33290a0c49fa924fee9d815622c4cd660404f88b9c"
+    },
+    {
+      "bytes": 1072,
+      "path": "client/runtime/data/offline-zones/Zone28/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 883,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "fbbac2b6c8ce9cd53b2157b856e5c44f501a90c05918cdd3acac55896216a147"
+      },
+      "sha256": "eb5fd200e146731ba2ac0642a77a2977b8fed2ecbde5b778f72d75b344840fa0"
+    },
+    {
+      "bytes": 41,
+      "path": "client/runtime/data/offline-zones/Zone28/GenerationArea.idx",
+      "payload": {
+        "bytes": 153,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "13957c3caee35a02d7350fd1ef6e24abb2c13fac5e77c38f63588364aa836df3"
+      },
+      "sha256": "d45ba93cfe8d4f0c5a060658fd9f8d55ce18c87a10ad38b7b55b5c4524288d12"
+    },
+    {
+      "bytes": 24772,
+      "path": "client/runtime/data/offline-zones/Zone28/Language.txt",
+      "payload": {
+        "bytes": 9226,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a8f3b087ab0ee924505298f7b99113c4504494c4dc30774c1dfe88390971bd8d"
+      },
+      "sha256": "332575bf2bb858bfa045eceab1c2f682722a3c85924e9560adb6362708370c97"
+    },
+    {
+      "bytes": 22020172,
+      "path": "client/runtime/data/offline-zones/Zone28/MapData.tcm",
+      "payload": {
+        "bytes": 3285617,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "64ab1011160d778e68fcfb18f8b14d7edcae1d69fbddea6cc59876ee81e0ae08"
+      },
+      "sha256": "22f277fcc73a4c40c286954ee9687a1ea72d98ae3fb35e18016f4f8edfe2ec53"
+    },
+    {
+      "bytes": 276374,
+      "path": "client/runtime/data/offline-zones/Zone28/NPCGener.txt",
+      "payload": {
+        "bytes": 34438,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "759366a207de566e5eafc3a2cbcdd6f9ccf38aa70967cc6dd4a87781175e8a11"
+      },
+      "sha256": "3dc36c3a6e100ddc8ead108eeb4c3bbaaa1261f09332853806c3ca24177ef344"
+    },
+    {
+      "bytes": 3042,
+      "path": "client/runtime/data/offline-zones/Zone31/Data/Schedule.txt",
+      "payload": {
+        "bytes": 817,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "25e678864dac1bb2cec39d16d212bef867ab4a33f8915db4aebdf195719ce7d1"
+      },
+      "sha256": "bb31607ec34123b759bcb477ca7c64e5b17771886509113fd4b67e6957a7bae1"
+    },
+    {
+      "bytes": 478,
+      "path": "client/runtime/data/offline-zones/Zone31/Data/Settings.ini",
+      "payload": {
+        "bytes": 590,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e7a2a39bb2a249e2129b022ffa66b9dbe715561fe42db19333f69f1b8afc8080"
+      },
+      "sha256": "f83de1ee818f5a30595c9942561e525556d85680e5e75ceb4d4063b18459b5fb"
+    },
+    {
+      "bytes": 1071,
+      "path": "client/runtime/data/offline-zones/Zone31/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 887,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5df0209f706f73843a7176a6a578a766503cbae4fed0f3daad25d5435f545fdd"
+      },
+      "sha256": "b3646c00f80e98c10b9bd7ba75b5281e8b592ccb22ba7c698f91fc5e9a10bfb8"
+    },
+    {
+      "bytes": 41,
+      "path": "client/runtime/data/offline-zones/Zone31/GenerationArea.idx",
+      "payload": {
+        "bytes": 153,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "3da38e5e39b74a71e968ccb95dcbc4b0de3e5f490b6ddb8a0ba8b47f5f1a304c"
+      },
+      "sha256": "ad2454529d292253bd5edc17c287115d31dcb9c80467026ae6a91e569478bd38"
+    },
+    {
+      "bytes": 24747,
+      "path": "client/runtime/data/offline-zones/Zone31/Language.txt",
+      "payload": {
+        "bytes": 9222,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f1b657e8e42601f5b544704babaaca451bdabf3ed6493bd2616628eef09e1949"
+      },
+      "sha256": "8330b4f960746bbfcc9581ab7979765b4fa53c181f8a17d3151451d6cba0b980"
+    },
+    {
+      "bytes": 22020172,
+      "path": "client/runtime/data/offline-zones/Zone31/MapData.tcm",
+      "payload": {
+        "bytes": 3136346,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "cb3dfb4777788d4091aa25be401901148ba8083477aeeb542317558a916d99d5"
+      },
+      "sha256": "d5612d0df2a4e05786c7486e1147d584ff05fdc28d1c889e9d04bd36693791b3"
+    },
+    {
+      "bytes": 25,
+      "path": "client/runtime/data/offline-zones/Zone31/NPCGener.txt",
+      "payload": {
+        "bytes": 137,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "2cf867ede463040333d61f3a9406d0e83415cb34296b6836ccce4e23b58236b4"
+      },
+      "sha256": "f5ac897aa207c9712fe2f29e7cdf47b855d997f63edafa32868aa50ae3ff6744"
+    },
+    {
+      "bytes": 3042,
+      "path": "client/runtime/data/offline-zones/Zone32/Data/Schedule.txt",
+      "payload": {
+        "bytes": 817,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "25e678864dac1bb2cec39d16d212bef867ab4a33f8915db4aebdf195719ce7d1"
+      },
+      "sha256": "bb31607ec34123b759bcb477ca7c64e5b17771886509113fd4b67e6957a7bae1"
+    },
+    {
+      "bytes": 447,
+      "path": "client/runtime/data/offline-zones/Zone32/Data/Settings.ini",
+      "payload": {
+        "bytes": 559,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c1a0345cb349cd79ab606d53f8a989f8c5400ba3949c82cfb75de6c58a4b1460"
+      },
+      "sha256": "751f7b9fd6e9635f33cfe378cc87e572a9b7951e62597ee38deeec03440cb681"
+    },
+    {
+      "bytes": 1048,
+      "path": "client/runtime/data/offline-zones/Zone32/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 873,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1e13d03edf7db5bcecf5b0ec4e9895cee7b7f0c6e4640c76bf1caf59ea503d37"
+      },
+      "sha256": "ca0a25381c5c37c7463812713865c4bde07bab59f69fb53ed309b157cf91f183"
+    },
+    {
+      "bytes": 41,
+      "path": "client/runtime/data/offline-zones/Zone32/GenerationArea.idx",
+      "payload": {
+        "bytes": 153,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "3da38e5e39b74a71e968ccb95dcbc4b0de3e5f490b6ddb8a0ba8b47f5f1a304c"
+      },
+      "sha256": "ad2454529d292253bd5edc17c287115d31dcb9c80467026ae6a91e569478bd38"
+    },
+    {
+      "bytes": 24747,
+      "path": "client/runtime/data/offline-zones/Zone32/Language.txt",
+      "payload": {
+        "bytes": 9222,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f1b657e8e42601f5b544704babaaca451bdabf3ed6493bd2616628eef09e1949"
+      },
+      "sha256": "8330b4f960746bbfcc9581ab7979765b4fa53c181f8a17d3151451d6cba0b980"
+    },
+    {
+      "bytes": 22020172,
+      "path": "client/runtime/data/offline-zones/Zone32/MapData.tcm",
+      "payload": {
+        "bytes": 3136346,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "cb3dfb4777788d4091aa25be401901148ba8083477aeeb542317558a916d99d5"
+      },
+      "sha256": "d5612d0df2a4e05786c7486e1147d584ff05fdc28d1c889e9d04bd36693791b3"
+    },
+    {
+      "bytes": 25,
+      "path": "client/runtime/data/offline-zones/Zone32/NPCGener.txt",
+      "payload": {
+        "bytes": 137,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "7444633ecdefe969052f7d036907e35aafd895e8db18fa005dc69627c455c56f"
+      },
+      "sha256": "e04d6225df93eb6142958df206cb7f4ebfc9a69c1fed13cc109120c92ca3b8f2"
+    },
+    {
+      "bytes": 462,
+      "path": "client/runtime/data/offline-zones/Zone34/Data/Settings.ini",
+      "payload": {
+        "bytes": 574,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "8b622ad1de69002efaa9c00718f4ba22f8f577a9e90dcc62cd7e460f6033375a"
+      },
+      "sha256": "1a1099e838333c31e469007be6a505cf85b990e17f1f97d562d1c308eb43a86e"
+    },
+    {
+      "bytes": 1075,
+      "path": "client/runtime/data/offline-zones/Zone34/Data/WorldSettings.ini",
+      "payload": {
+        "bytes": 887,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "eb0176b27c09ca41dcb64fb888f3024c3131cf1de6b355a6d8107a7b1c1ce707"
+      },
+      "sha256": "f843f443afa33139390d3fb2de2f047950fdb856d63a0a86c47591858e0c0753"
+    },
+    {
+      "bytes": 41,
+      "path": "client/runtime/data/offline-zones/Zone34/GenerationArea.idx",
+      "payload": {
+        "bytes": 153,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "7ca71ae8d0a7ff21e37fdf1ed5e0d5879f646bf9881d000b3ad7e7f2ea85c54f"
+      },
+      "sha256": "e9e3bffb3aa5305867a9ee853186fd99f456225e7891f80590a6511e1cf37b2f"
+    },
+    {
+      "bytes": 24747,
+      "path": "client/runtime/data/offline-zones/Zone34/Language.txt",
+      "payload": {
+        "bytes": 9222,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f1b657e8e42601f5b544704babaaca451bdabf3ed6493bd2616628eef09e1949"
+      },
+      "sha256": "8330b4f960746bbfcc9581ab7979765b4fa53c181f8a17d3151451d6cba0b980"
+    },
+    {
+      "bytes": 22020172,
+      "path": "client/runtime/data/offline-zones/Zone34/MapData.tcm",
+      "payload": {
+        "bytes": 3780535,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1c570abc7655d5914ff8d7e7d303b36b075a7b2d46d0641bc18dd803ef905668"
+      },
+      "sha256": "d591418071716d67d16005a211267d6cb54251e274b846df117a7c2d28e80f59"
+    },
+    {
+      "bytes": 634502,
+      "path": "client/runtime/data/offline-zones/Zone34/NPCGener.txt",
+      "payload": {
+        "bytes": 74977,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a7d91adfab1f616603acebe6ddac963d58b23b3f0c7b6a611fda5c894bb56a64"
+      },
+      "sha256": "b3776cf1d6461f185770b7adc6d218959ffc83204a08c6f65ccf59d259c2ae7c"
     },
     {
       "bytes": 1281,
@@ -1277,15 +3400,15 @@
       "sha256": "65c6f63f35aebeb96ce93b3562414e94b8816fcecba06fdb35305741babefe75"
     },
     {
-      "bytes": 228,
+      "bytes": 2759,
       "path": "client/runtime/data/zone-profiles.json",
       "payload": {
-        "bytes": 340,
+        "bytes": 653,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "8c3372e37d166c67bdb721136f2000ff09163f6bf8478771786bff616b99e1b4"
+        "sha256": "576f7e9c8ac8e37cd094d98168f4e8d3ec6e66e229e1c5677d76bd671d1dee10"
       },
-      "sha256": "8d6ee2f9662b7712d6d038fddcee21677dcf5be910930fa5b18d442e68d31969"
+      "sha256": "c43c87228ad40d9b926ac975a03625b7af5cae541d9051c6d09c3920aca26163"
     },
     {
       "bytes": 2784,
@@ -2061,12 +4184,12 @@
       "bytes": 36306,
       "path": "client/serverlist.bin",
       "payload": {
-        "bytes": 2151,
+        "bytes": 2073,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "58e19133f6a08b54c68b019346e7b8b741fd5aebe564a27de6172c381ada3dc9"
+        "sha256": "7b4e7b1265f5dd0a502b7141154426bec88e6ba88ade402f8df46d64922c0b6e"
       },
-      "sha256": "1c219255153f7d0304bf634cfbeeb035db0fccf6765b3d09b6d507685b7e3868"
+      "sha256": "ed6d3d6e8047aaf623c06b85d505df701199cffabf95aecd85a723497bdb5309"
     },
     {
       "bytes": 39290,
@@ -2388,6 +4511,17 @@
       "sha256": "d332a102ac466dba7286ca7f1484277494ef473d4513961ef96187ca62d9aad2"
     },
     {
+      "bytes": 13280,
+      "path": "client/system/Paroksya2Obj.txl",
+      "payload": {
+        "bytes": 2767,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "cc35e85793f4eebbfe3c38e22eb20cbff0dc790a6fefd098ffba09a4590deb0e"
+      },
+      "sha256": "3b3e5d75af0b03a6a3154f754ae7fac737573357d8824f5b5852bedc2f6bc1cc"
+    },
+    {
       "bytes": 5945,
       "path": "client/system/ParoksyaObj.txl",
       "payload": {
@@ -2455,5 +4589,5 @@
     }
   ],
   "schema": 2,
-  "version": 1794583562
+  "version": 1794587893
 }
