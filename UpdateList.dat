@@ -56,15 +56,15 @@
       "sha256": "2e9d5bcb36c6fc292dd51aa4136f2a53d43bce00ad58029ca26bdd799ba50f3d"
     },
     {
-      "bytes": 11357184,
+      "bytes": 11371520,
       "path": "client/ZFLauncher.exe",
       "payload": {
-        "bytes": 5897454,
+        "bytes": 5905083,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "3a346cd1f31848d96812ceb3f8f4b2ab00263ccff05ca05890ea6f37075b9c53"
+        "sha256": "077b4d5072786452f5d6ecdd2528df9881e7a7fa352f683d70bed73e92d0c3b1"
       },
-      "sha256": "5faeba7e0984151ba167a2103d0a53955c574161329a71063bfb1796f9b6bc9c"
+      "sha256": "f2edd1856e0b1f255c24b4ac325b0cff91e42695aede8601a9d7373e2d469287"
     },
     {
       "bytes": 27846,
@@ -430,6 +430,17 @@
       "sha256": "493515412e665ecfffcddcb77f7d906a5baab8fc4b774b7e2038811aa3ed4889"
     },
     {
+      "bytes": 453,
+      "path": "client/resource/fx/SkillFxPriority.tsv",
+      "payload": {
+        "bytes": 550,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "07d59e187552b471a78f5711abd0e42227ac081ac55c3d1353572417a94f3677"
+      },
+      "sha256": "72e49476e48e0e2ed81dfcddbc109be12cd19c6cc7e12e14e379c580ec2d7ef2"
+    },
+    {
       "bytes": 34062,
       "path": "client/resource/fx/fxMAPArenaDurga.txl",
       "payload": {
@@ -615,6 +626,490 @@
         "sha256": "6eaaf23a76bbeaa3cf6bb72a165e50930acc96254cfd36fb6eab598347ca4bfd"
       },
       "sha256": "e1992e5a8690efa00247e02abe11b0aa79c5388f03c619f76f5ba7c3daeb9216"
+    },
+    {
+      "bytes": 529278,
+      "path": "client/resource/fx/versions/Global/fxPC.txl",
+      "payload": {
+        "bytes": 27454,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "03219bdb08530d41dcc566c72f270d7430eade52e580a3e62f515056206b7152"
+      },
+      "sha256": "671841eb465997d0edffb4bcd5245ff2342bc630a72f74bdbcabc7434a728608"
+    },
+    {
+      "bytes": 1324428,
+      "path": "client/resource/fx/versions/Global/fxPCAnimation.hpk",
+      "payload": {
+        "bytes": 103720,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "58550b53a090971b2a4bfa709d1767500929d96e4dce8544c70f99da85c479c8"
+      },
+      "sha256": "d85d1227305579ba39fc9d655803d67593b7c96196368b77014b3c19c98a7d3a"
+    },
+    {
+      "bytes": 1120556,
+      "path": "client/resource/fx/versions/Global/fxPCAnimationB.hpk",
+      "payload": {
+        "bytes": 76730,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "ec75fe298b757d3873e966cbe6d05a1fdfbc8495ffb3ea34c87e22568d8c233d"
+      },
+      "sha256": "6eddf1bcb191a56772d10c5ec64dd49965b12ada05075a69378837422cce75d1"
+    },
+    {
+      "bytes": 118756,
+      "path": "client/resource/fx/versions/Global/fxPCEtc.tfx",
+      "payload": {
+        "bytes": 16955,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e3ed2ad8954818a68cc5e260dbf31e650df83314444b52c58e17d5b8d99fc910"
+      },
+      "sha256": "1c2cd55f4cc16d5390e9958db1bba517be290b0341f279e72b0173765a399138"
+    },
+    {
+      "bytes": 58248,
+      "path": "client/resource/fx/versions/Global/fxPCFree.tfx",
+      "payload": {
+        "bytes": 5666,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "d7d3abccb1f574ebe6fc724a24f1948669169be28dc2fa1eef91c57a20deda03"
+      },
+      "sha256": "34f4253d32332ac60bd23bcb7538fc2efa630744a4b8d7c7b49636e2b8dc4b04"
+    },
+    {
+      "bytes": 34552,
+      "path": "client/resource/fx/versions/Global/fxPCGodBrahma.tfx",
+      "payload": {
+        "bytes": 3147,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5d05f479c319ff8a112bc3da03d7ee946376f830c13399bd571f844e6281b67d"
+      },
+      "sha256": "eaf049db89aa41b0bcb7bece161dfa4127f5f79cafd99e121464fab657d5a3bc"
+    },
+    {
+      "bytes": 33356,
+      "path": "client/resource/fx/versions/Global/fxPCGodShiba.tfx",
+      "payload": {
+        "bytes": 3364,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "42e462a8552eaea5028b6c0614e4f7bd289dac97591f19f0984138cc34807208"
+      },
+      "sha256": "0cbbd4028c3bccbccffd8fc4ab01507af7166700ed39662041b01b47016c7bc3"
+    },
+    {
+      "bytes": 31656,
+      "path": "client/resource/fx/versions/Global/fxPCGodVishunu.tfx",
+      "payload": {
+        "bytes": 3517,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "94e312c5a20e5faf0f4fe0c78d83460eddf87f3bf870d3503a904c671a69c803"
+      },
+      "sha256": "53d616f00f131c01166cbb7a27c4e1b51a046702d29df8c93e0608bacd2550b0"
+    },
+    {
+      "bytes": 2842303,
+      "path": "client/resource/fx/versions/Global/fxPCModel.hpk",
+      "payload": {
+        "bytes": 562397,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "9693c03de671a01c72b7f7895383be7386051ae0f93bc43395716671c04a6d8f"
+      },
+      "sha256": "155c2a33fa6f192b8523213b91af2a52910ca54d262ab75d4eb81dd5d11b72f5"
+    },
+    {
+      "bytes": 2576427,
+      "path": "client/resource/fx/versions/Global/fxPCModelB.hpk",
+      "payload": {
+        "bytes": 475848,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "44adc6c4c9df173f36a5da1bcf5ac8d6c95f049eb8d4fcf2ccb8997213cf5924"
+      },
+      "sha256": "2bd0f003e9ddcdcb7b8ca3ec8ac3b9f0951c3ff01df17c7e5ac4205c1120d3ea"
+    },
+    {
+      "bytes": 92572,
+      "path": "client/resource/fx/versions/Global/fxPCRaceAsuRak.tfx",
+      "payload": {
+        "bytes": 13732,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "8b56e62430c3701e003f8761d9648d59f7860b4886adbd81d9c1e329b48c9456"
+      },
+      "sha256": "60bdd53999ae08098c75b7cf715af9c58727e5d8bfa0c07d2117e11319fdceec"
+    },
+    {
+      "bytes": 168276,
+      "path": "client/resource/fx/versions/Global/fxPCRaceDevGar.tfx",
+      "payload": {
+        "bytes": 25257,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "2628f87cba8b1c1b33e270c54e08384594cfdb8c9f94f6d4a7cdf638a43fe520"
+      },
+      "sha256": "d90f46a0d424c1339501f9e8810829ec3a70db7cc7c3e1563aacb6bf58defa07"
+    },
+    {
+      "bytes": 83260,
+      "path": "client/resource/fx/versions/Global/fxPCRaceNagaKin.tfx",
+      "payload": {
+        "bytes": 11973,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "8b954f2f314d401db11dcb1f4ab5a7fc07437f1b1012babac6d74291c2a6b684"
+      },
+      "sha256": "22b2dce0757a545026dc4c05dd448c9134aefbe1c761a156e2967aa798e615f5"
+    },
+    {
+      "bytes": 119780,
+      "path": "client/resource/fx/versions/Global/fxPCRaceYakGan.tfx",
+      "payload": {
+        "bytes": 16843,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b86f8b5ae5f1b6881000cb4e1a469b7132103c1e16b6f8a26dc5b9298cbb72cd"
+      },
+      "sha256": "88b1028b0ed4fc0c1e0bf279cb2f6d0bbdc246fbb5ee2c4b04b655d38cab0baa"
+    },
+    {
+      "bytes": 2251566,
+      "path": "client/resource/fx/versions/Global/fxPCSound.hpk",
+      "payload": {
+        "bytes": 1654102,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f4af638a4298671d1b3d952d2298220d02565c1d593a60defd9bb1045d8bcb4b"
+      },
+      "sha256": "355d724063591ed7361165fbd50b32db7b69aa4c132d88c6ba5923987656878e"
+    },
+    {
+      "bytes": 11868248,
+      "path": "client/resource/fx/versions/Global/fxPCTexture.hpk",
+      "payload": {
+        "bytes": 4172749,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "96e86a3d2155910e3a9089d5ec2ae639e8db3e0bd8249110f7bf894857fb388e"
+      },
+      "sha256": "4998c249387180fe3326ddd1c0a125a7295da0db79bf5ecdc212ed4acabea7f7"
+    },
+    {
+      "bytes": 397670,
+      "path": "client/resource/fx/versions/K2/fxPC.txl",
+      "payload": {
+        "bytes": 18791,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "992c01d023387cd201a50ba55c8388a50dd2774ee85ffea915b243902700819d"
+      },
+      "sha256": "775d616f629e2f90efa5de4627ad568c29ed5fa5aa2915fb52dab0c41c04d2ee"
+    },
+    {
+      "bytes": 911016,
+      "path": "client/resource/fx/versions/K2/fxPCAnimation.hpk",
+      "payload": {
+        "bytes": 65540,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "df6aed15ad4f0c6d36998f8ff1ff22e8cd5f406dd314f5a5f85f23f2af3cb48d"
+      },
+      "sha256": "4ab32b213a8dcfb6f1355f581db9226d59fa8296c00a066762b51aec04968339"
+    },
+    {
+      "bytes": 87400,
+      "path": "client/resource/fx/versions/K2/fxPCEtc.tfx",
+      "payload": {
+        "bytes": 12420,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c0875734b3baed8043422de6b34eb1fa3944a254d343b2a74db509c01200a330"
+      },
+      "sha256": "a99cf3b197af1e6ab1c5a274ab7c4b0ee748fea1c9ef5b02cdfeee49c963122f"
+    },
+    {
+      "bytes": 58248,
+      "path": "client/resource/fx/versions/K2/fxPCFree.tfx",
+      "payload": {
+        "bytes": 5260,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "d9c03572e62d0a9ea198e78bb9ce9a14d85f10f807a6ef6087bd33247bd7c0d9"
+      },
+      "sha256": "e92ad3632cfd2da58913c0def0f8b61e899c5e7fc5c4b6e6938b6b552236ff9b"
+    },
+    {
+      "bytes": 34552,
+      "path": "client/resource/fx/versions/K2/fxPCGodBrahma.tfx",
+      "payload": {
+        "bytes": 2818,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "2d180e529b27f6cbbd07b74a1c02f6f58a0ef6e079ed9f1e7163e3532618ac39"
+      },
+      "sha256": "9918d91e1328c4ab1677856391e45cbc0a7fd39dc3b6547379ff8f96088a94e0"
+    },
+    {
+      "bytes": 33356,
+      "path": "client/resource/fx/versions/K2/fxPCGodShiba.tfx",
+      "payload": {
+        "bytes": 3063,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "6096bc61ba68c93add2c7b5fa06d561c1be928e2155b96c36cb7133a9076edd5"
+      },
+      "sha256": "08af16d83b043bd8117fdfebbdb8be9eaf46fecf36c02da96e85ae9bc9b5fbc3"
+    },
+    {
+      "bytes": 31656,
+      "path": "client/resource/fx/versions/K2/fxPCGodVishunu.tfx",
+      "payload": {
+        "bytes": 3161,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "cd277725446fc4e295b230173ab47b0574524718df1f7b3569cadab210f8c482"
+      },
+      "sha256": "a360701b73e189d71e63db3b7f0986709b99463fff28cd1376666d53f058db40"
+    },
+    {
+      "bytes": 2224164,
+      "path": "client/resource/fx/versions/K2/fxPCModel.hpk",
+      "payload": {
+        "bytes": 326554,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e31e29cf316e8213515aed6a09408dc4c031a06ab0b5b7827aabf770b799b012"
+      },
+      "sha256": "565bceeff57bbd84404a8e1b171c68b42559fc0b98a540bd1fc2c2a1241e6396"
+    },
+    {
+      "bytes": 68284,
+      "path": "client/resource/fx/versions/K2/fxPCRaceAsuRak.tfx",
+      "payload": {
+        "bytes": 10069,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "578d2173e63cc331a4b03fbd6440e5223cf7296c874f13b6bb77b33dc35137ae"
+      },
+      "sha256": "acac65074fea64554ba3f3b542d063872e790c6260a6af2b42d706ba794ab676"
+    },
+    {
+      "bytes": 102592,
+      "path": "client/resource/fx/versions/K2/fxPCRaceDevGar.tfx",
+      "payload": {
+        "bytes": 15222,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "7022a7967e1e3b9102703b32f5338a2e390ad85bc368354981bb828a486440cb"
+      },
+      "sha256": "b0893e0f9c6ac9f7f48ee280f3fcbab72c76408a5c8054b0a172659c8c42baeb"
+    },
+    {
+      "bytes": 54348,
+      "path": "client/resource/fx/versions/K2/fxPCRaceNagaKin.tfx",
+      "payload": {
+        "bytes": 6806,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "aef1712bd3a84b94a334a8e1e953630bb12627ca28c9d7fe46e909ddd9e7b708"
+      },
+      "sha256": "e62acbb338136d11c74cf176e369174e5da8de91886ea7ab07840fbf2f41effc"
+    },
+    {
+      "bytes": 82488,
+      "path": "client/resource/fx/versions/K2/fxPCRaceYakGan.tfx",
+      "payload": {
+        "bytes": 10095,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "df34a942d719873838cebb202fafff38791bcc2312e2614dd2f942c3b70e4e87"
+      },
+      "sha256": "540e06ad5dae3ca27f93338131efa73a753c4a883b47b6b557afb1559293e28e"
+    },
+    {
+      "bytes": 2251566,
+      "path": "client/resource/fx/versions/K2/fxPCSound.hpk",
+      "payload": {
+        "bytes": 1654102,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f4af638a4298671d1b3d952d2298220d02565c1d593a60defd9bb1045d8bcb4b"
+      },
+      "sha256": "355d724063591ed7361165fbd50b32db7b69aa4c132d88c6ba5923987656878e"
+    },
+    {
+      "bytes": 4229326,
+      "path": "client/resource/fx/versions/K2/fxPCTexture.hpk",
+      "payload": {
+        "bytes": 1251473,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "dbbc89b1ad950cef7329c8925c5a28a3404b12d1dc30ed8d7401d953ad3fe31c"
+      },
+      "sha256": "8b6db8e3c4d5dcaaf61ed914e62bf4ff68b8fa4ceea07def4c4775c8d3196caf"
+    },
+    {
+      "bytes": 452922,
+      "path": "client/resource/fx/versions/K3/fxPC.txl",
+      "payload": {
+        "bytes": 22559,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "60ab02e9341c6a7e7c6f72c4d3256bfd73821deccab0c6682ee4c4c85e82c545"
+      },
+      "sha256": "2d9ac2d42b23febf24be1186414ea0447a94045b0b01215a9eeef24ba7fe4c3c"
+    },
+    {
+      "bytes": 1035528,
+      "path": "client/resource/fx/versions/K3/fxPCAnimation.hpk",
+      "payload": {
+        "bytes": 73892,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "45f6520a1d615c7b77e8bc9216d06134b529ef4d8beaa89631cf11f698fd3221"
+      },
+      "sha256": "2288289e833c363bb39a90647f6d49734942eda75f5a094bc6c1c16a665c2eb0"
+    },
+    {
+      "bytes": 99856,
+      "path": "client/resource/fx/versions/K3/fxPCEtc.tfx",
+      "payload": {
+        "bytes": 13365,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "9fcdcd081fa7cd9e8b5ea8ef558eec572b1f794bfdcdc06f1b48e5e06d2e1a3f"
+      },
+      "sha256": "0fe8c4c0c3fc52af358ac9e931080a08e4385f24324c6a9a49d440e5129afaee"
+    },
+    {
+      "bytes": 58248,
+      "path": "client/resource/fx/versions/K3/fxPCFree.tfx",
+      "payload": {
+        "bytes": 5260,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "d9c03572e62d0a9ea198e78bb9ce9a14d85f10f807a6ef6087bd33247bd7c0d9"
+      },
+      "sha256": "e92ad3632cfd2da58913c0def0f8b61e899c5e7fc5c4b6e6938b6b552236ff9b"
+    },
+    {
+      "bytes": 34552,
+      "path": "client/resource/fx/versions/K3/fxPCGodBrahma.tfx",
+      "payload": {
+        "bytes": 2818,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "2d180e529b27f6cbbd07b74a1c02f6f58a0ef6e079ed9f1e7163e3532618ac39"
+      },
+      "sha256": "9918d91e1328c4ab1677856391e45cbc0a7fd39dc3b6547379ff8f96088a94e0"
+    },
+    {
+      "bytes": 33356,
+      "path": "client/resource/fx/versions/K3/fxPCGodShiba.tfx",
+      "payload": {
+        "bytes": 3063,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "6096bc61ba68c93add2c7b5fa06d561c1be928e2155b96c36cb7133a9076edd5"
+      },
+      "sha256": "08af16d83b043bd8117fdfebbdb8be9eaf46fecf36c02da96e85ae9bc9b5fbc3"
+    },
+    {
+      "bytes": 31656,
+      "path": "client/resource/fx/versions/K3/fxPCGodVishunu.tfx",
+      "payload": {
+        "bytes": 3161,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "cd277725446fc4e295b230173ab47b0574524718df1f7b3569cadab210f8c482"
+      },
+      "sha256": "a360701b73e189d71e63db3b7f0986709b99463fff28cd1376666d53f058db40"
+    },
+    {
+      "bytes": 2573436,
+      "path": "client/resource/fx/versions/K3/fxPCModel.hpk",
+      "payload": {
+        "bytes": 395543,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "3879d7dc52d4225c7e734be0a46a5351461093e5ca562099bac83180091f964e"
+      },
+      "sha256": "aa9db40faf843c93d8c8f95755202ac9984809fb058f8dd4e28c524c64d5d204"
+    },
+    {
+      "bytes": 84356,
+      "path": "client/resource/fx/versions/K3/fxPCRaceAsuRak.tfx",
+      "payload": {
+        "bytes": 12296,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "3dd8ef46caff92de62af329472076d1d441f9f9f04df5659e4d5609a389d8f9f"
+      },
+      "sha256": "b070ff630c085ca86a897fe9f7e06f7b73dbb4cceaa0fd535767b7f4fe9de134"
+    },
+    {
+      "bytes": 113320,
+      "path": "client/resource/fx/versions/K3/fxPCRaceDevGar.tfx",
+      "payload": {
+        "bytes": 16928,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "3d183edf9c73ce81ab947adf500a6b8571bcaa7770d82fb0b128359c964f985d"
+      },
+      "sha256": "c254f25fc91bfaa47d621d73e3a376867b377af8096d4abb81bcf8d42ed006c0"
+    },
+    {
+      "bytes": 61044,
+      "path": "client/resource/fx/versions/K3/fxPCRaceNagaKin.tfx",
+      "payload": {
+        "bytes": 7793,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "7baeb6a0e29db264c79acb6c06381947ff7bcb131c0be726a454b7d2a2611b58"
+      },
+      "sha256": "91c0335a290b780883495b66a34e0d0aa22083fb79ec1257d2297963bca191dd"
+    },
+    {
+      "bytes": 93620,
+      "path": "client/resource/fx/versions/K3/fxPCRaceYakGan.tfx",
+      "payload": {
+        "bytes": 11583,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "081708388729218b6c6dcc02b357968d7e741db2d5e68c11490466e79320f116"
+      },
+      "sha256": "aa136b53b19069433f3008862b5fdbc445a02f10b6026f0ba51ced993fc65fc0"
+    },
+    {
+      "bytes": 2251566,
+      "path": "client/resource/fx/versions/K3/fxPCSound.hpk",
+      "payload": {
+        "bytes": 1654102,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f4af638a4298671d1b3d952d2298220d02565c1d593a60defd9bb1045d8bcb4b"
+      },
+      "sha256": "355d724063591ed7361165fbd50b32db7b69aa4c132d88c6ba5923987656878e"
+    },
+    {
+      "bytes": 4311862,
+      "path": "client/resource/fx/versions/K3/fxPCTexture.hpk",
+      "payload": {
+        "bytes": 1281546,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e74e6e71aa163d7ff8eaace5f54f4928e0662cbc19a38fcbe768e186346e4525"
+      },
+      "sha256": "dddbd90207f10399afd66e36051b75bf4800f26ed3a91107b3ab572ad208a8d4"
     },
     {
       "bytes": 21572842,
@@ -1938,5 +2433,5 @@
     }
   ],
   "schema": 2,
-  "version": 1794528083
+  "version": 1794539567
 }
