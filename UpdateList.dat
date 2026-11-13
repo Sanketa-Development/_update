@@ -56,15 +56,15 @@
       "sha256": "2e9d5bcb36c6fc292dd51aa4136f2a53d43bce00ad58029ca26bdd799ba50f3d"
     },
     {
-      "bytes": 11371520,
+      "bytes": 11372032,
       "path": "client/ZFLauncher.exe",
       "payload": {
-        "bytes": 5905083,
+        "bytes": 5905417,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "077b4d5072786452f5d6ecdd2528df9881e7a7fa352f683d70bed73e92d0c3b1"
+        "sha256": "c6b1d472581216453c6b40bdea75a3c42e4363b3a561f710665fb5839c2098c5"
       },
-      "sha256": "f2edd1856e0b1f255c24b4ac325b0cff91e42695aede8601a9d7373e2d469287"
+      "sha256": "595ba3d7b29ab1405e984551fe04d6894ddc13ad186aa8d9616b783ac325772a"
     },
     {
       "bytes": 27846,
@@ -430,15 +430,15 @@
       "sha256": "493515412e665ecfffcddcb77f7d906a5baab8fc4b774b7e2038811aa3ed4889"
     },
     {
-      "bytes": 453,
+      "bytes": 543,
       "path": "client/resource/fx/SkillFxPriority.tsv",
       "payload": {
-        "bytes": 550,
+        "bytes": 580,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "07d59e187552b471a78f5711abd0e42227ac081ac55c3d1353572417a94f3677"
+        "sha256": "534082131624b95666da349d6ea764642769fd2f0e0e8b30c1ebc136f754a42c"
       },
-      "sha256": "72e49476e48e0e2ed81dfcddbc109be12cd19c6cc7e12e14e379c580ec2d7ef2"
+      "sha256": "325486d435b0301166e5fff76283c4545c39fb0fbb3db1edd4d9a5fce043cf51"
     },
     {
       "bytes": 34062,
@@ -760,15 +760,15 @@
       "sha256": "d90f46a0d424c1339501f9e8810829ec3a70db7cc7c3e1563aacb6bf58defa07"
     },
     {
-      "bytes": 83260,
+      "bytes": 84520,
       "path": "client/resource/fx/versions/Global/fxPCRaceNagaKin.tfx",
       "payload": {
-        "bytes": 11973,
+        "bytes": 12182,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "8b954f2f314d401db11dcb1f4ab5a7fc07437f1b1012babac6d74291c2a6b684"
+        "sha256": "c06cfa35028295610925cde87792105069b79463d3513f300c0edb1bfaa428ce"
       },
-      "sha256": "22b2dce0757a545026dc4c05dd448c9134aefbe1c761a156e2967aa798e615f5"
+      "sha256": "9a4276c5a9993119a7f0c8c7dc5521aa073043f00701d5fb1a35aa6ef12f799b"
     },
     {
       "bytes": 119780,
@@ -802,6 +802,28 @@
         "sha256": "96e86a3d2155910e3a9089d5ec2ae639e8db3e0bd8249110f7bf894857fb388e"
       },
       "sha256": "4998c249387180fe3326ddd1c0a125a7295da0db79bf5ecdc212ed4acabea7f7"
+    },
+    {
+      "bytes": 65580,
+      "path": "client/resource/fx/versions/Global/fxPCTexture/tFL_2100051.tga",
+      "payload": {
+        "bytes": 14558,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "ec09f1c0867dcd42e01587c3f16504b63b0d9bab1864d44c3ce32269860b136b"
+      },
+      "sha256": "dd7227da53585827ebc1ff7d7cdf3caaa749e74ca3e712bf4d92aeb65389599e"
+    },
+    {
+      "bytes": 32812,
+      "path": "client/resource/fx/versions/Global/fxPCTexture/tFL_2100052.tga",
+      "payload": {
+        "bytes": 5697,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1afe8728dc691ab43fd56f18c1148ef490528e710e5bdb7abe25231422213b53"
+      },
+      "sha256": "81387f4523b57acdf5203b534469b14f1f719fef36c9401f68c5a69e79d32f53"
     },
     {
       "bytes": 397670,
@@ -2433,5 +2455,5 @@
     }
   ],
   "schema": 2,
-  "version": 1794539567
+  "version": 1794542183
 }
