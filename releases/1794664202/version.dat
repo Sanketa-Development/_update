@@ -1,19 +1,19 @@
 {
   "key_id": "9c8bd1ca2a635116b550d7cd422de6dfa9b902f9cbb927f03e9f8cc989435424",
-  "signature": "0ef13e4df0f4bebcff6cb8d6e9a05712f344bc7807eaacccfda47b9db9a8ea28a68400b5d09540d7656e0e78b7a74b0c39a61f20c8dc7d6065cf29426bff1218",
+  "signature": "359ad9be7374151e8a8932aff707f5719b42f6431f075608559132de4211ce4712f3f1166589ba92ae0b53eca30866c19593ffe9b65afa7eeea3494167451275",
   "signed": {
-    "expires": 1802439708,
-    "issued": 1794663708,
+    "expires": 1802440204,
+    "issued": 1794664204,
     "kind": "Tantra-B patch",
     "list": {
       "bytes": 207955,
-      "sha256": "ba277f2e6c6956972a7003b7b54e244fb80fea9e0232d1c1104f67150a825808"
+      "sha256": "d4202c4d657dcbb466fc842bab745557eb80e0e3547dd9bd47ee7ece7a72a04f"
     },
     "notice": {
       "bytes": 66,
       "sha256": "a1e1ccf048ef276375e281a045a8f56ebdd00d4ff5cf3353b614f55b81d55037"
     },
     "schema": 2,
-    "version": 1794663703
+    "version": 1794664202
   }
 }
