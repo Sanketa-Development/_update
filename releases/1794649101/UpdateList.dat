@@ -56,15 +56,15 @@
       "sha256": "2e9d5bcb36c6fc292dd51aa4136f2a53d43bce00ad58029ca26bdd799ba50f3d"
     },
     {
-      "bytes": 11496960,
+      "bytes": 11519488,
       "path": "client/ZFLauncher.exe",
       "payload": {
-        "bytes": 5960057,
+        "bytes": 5966674,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "37e499f8ea8cdb732e61fce0aa63257edf4916ecb7bb42cbce85364d374ec319"
+        "sha256": "e98901b8084d0a1d345a00cc0e5fd85984259e299a696b9d0e86d1d286b3c988"
       },
-      "sha256": "95819ed72e46e1c5862eaef0cb94cae049d8c821e245ca953a6d58dca1cbdd71"
+      "sha256": "60ae9e70794afd2cf4a7edf91c6236934142287c335db72b1779787359928e72"
     },
     {
       "bytes": 27846,
@@ -703,6 +703,50 @@
         "sha256": "6eaaf23a76bbeaa3cf6bb72a165e50930acc96254cfd36fb6eab598347ca4bfd"
       },
       "sha256": "e1992e5a8690efa00247e02abe11b0aa79c5388f03c619f76f5ba7c3daeb9216"
+    },
+    {
+      "bytes": 46890,
+      "path": "client/resource/fx/versions/Global/fxMAPMarana.txl",
+      "payload": {
+        "bytes": 3174,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5623884bc06e9f9a17736881222f8e90772eea3afdbc0f11206eab50f923bb7a"
+      },
+      "sha256": "3b170cdf306121a82aba7663f1a62a7c3049d8749c4584593c9c2c6695620222"
+    },
+    {
+      "bytes": 304308,
+      "path": "client/resource/fx/versions/Global/fxMAPMaranaAnimation.hpk",
+      "payload": {
+        "bytes": 34525,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "13336f4ee557a564ba2b0febc3f16e4c48d33128bc225d4bff15903eeb592587"
+      },
+      "sha256": "330da3a7ea37cee95bd22b7bfa97658bd7754727e385eeb35324194db3c3c529"
+    },
+    {
+      "bytes": 1576144,
+      "path": "client/resource/fx/versions/Global/fxMAPMaranaModel.hpk",
+      "payload": {
+        "bytes": 141019,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "d5ffae43d56474d1227eda5b024a6028320dbfb8411885fee3e713c635833b8c"
+      },
+      "sha256": "47eac7bd3fba297ad1b520b89fd1882f13d54258ff4e43177493c143782ca786"
+    },
+    {
+      "bytes": 380332,
+      "path": "client/resource/fx/versions/Global/fxMAPMaranaTexture.hpk",
+      "payload": {
+        "bytes": 91815,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "76a7f0ac640597b06606631e2a4bdc1b6c6d1fdc39684241113a319bf0eb8e61"
+      },
+      "sha256": "dd616812378806ac8ce26bbdb7dee5196156bef21b5b12fc44b25ab1189b86ce"
     },
     {
       "bytes": 529278,
@@ -5095,5 +5139,5 @@
     }
   ],
   "schema": 2,
-  "version": 1794644912
+  "version": 1794649101
 }
