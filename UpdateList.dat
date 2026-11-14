@@ -56,15 +56,15 @@
       "sha256": "2e9d5bcb36c6fc292dd51aa4136f2a53d43bce00ad58029ca26bdd799ba50f3d"
     },
     {
-      "bytes": 11586048,
+      "bytes": 11593216,
       "path": "client/ZFLauncher.exe",
       "payload": {
-        "bytes": 6003548,
+        "bytes": 6006836,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "5e9310505e73ec635241c42585f55609f4d3f146957de36f1a6b2096edccdb3d"
+        "sha256": "8c6d4eec867c717ed71ff443056305a4695f0928a2719737a541993ae338d1e6"
       },
-      "sha256": "fe7c5452b2bacdf5991a09c46c6b71c5bef2babbae77492218b57b11395993f7"
+      "sha256": "ccce8ba516f0dfc60d14c2760b08b9a5f6265ca88ce5ca872a33af21bcee3de1"
     },
     {
       "bytes": 27846,
@@ -2116,12 +2116,12 @@
       "bytes": 22020172,
       "path": "client/runtime/data/offline-zones/Zone10/MapData.tcm",
       "payload": {
-        "bytes": 3963440,
+        "bytes": 3993337,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "186eb811932043da00e2fd5ed30ffac2e46327942ce27c3953c2af84b80b3294"
+        "sha256": "c2e64ab4bdea0691ca7a17d062689df615786128f8c6c4a21f09d6b0ce911b93"
       },
-      "sha256": "a98a86996dc83df01fef57f80006187a664bf504d904ccc0d02cec4ca88c905a"
+      "sha256": "a1657caf8a56cdc3699097df0e57fba603996e0f1229f91d8fb4acdbf5815c04"
     },
     {
       "bytes": 117812,
@@ -3527,9 +3527,9 @@
         "bytes": 364,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "ee81f840de342b6085f501f3cdac277a6655124cc39ede43241873d154375f24"
+        "sha256": "9c24d95b6cfc28b0dbb04adcdf8d85590c52c09dc3bb910eff7d2bef124d09f6"
       },
-      "sha256": "7a0e660d847ca5172f242fa0439d2a43151c16ab1b238d0c3022b776dca7c3a5"
+      "sha256": "f4bee7d7f1a1ec425067b387d8157c019465446228c40825780b3183d86f4a12"
     },
     {
       "bytes": 202,
@@ -3543,15 +3543,15 @@
       "sha256": "6a798fb7c68ab00bb5745367b791ae7728f61cb90c0ea37d9edb2c3b7d3d1ecd"
     },
     {
-      "bytes": 617,
+      "bytes": 5836,
       "path": "client/runtime/data/offline/godwar/PROVENANCE.json",
       "payload": {
-        "bytes": 717,
+        "bytes": 2102,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "7ff3bc0eff2ecdc34d7f47f0544bf65d26f1a3fbb3a032becb951fb865488e43"
+        "sha256": "a00fe02ed9e50c9125c18fceea43699cff2708ff9985c63479f945e53f79ede6"
       },
-      "sha256": "e14bafc821f0162c3715d7086a94fe090929faccb214a6e07bdf1f178c8677cd"
+      "sha256": "7246d2f0dd12d1551257745d23a405d8732c98ba7617676063d58f046b41a618"
     },
     {
       "bytes": 73490,
@@ -5139,5 +5139,5 @@
     }
   ],
   "schema": 2,
-  "version": 1794682251
+  "version": 1794692403
 }
