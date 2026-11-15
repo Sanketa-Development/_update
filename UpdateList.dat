@@ -34,6 +34,17 @@
       "sha256": "e1e218b2b9616b21a505bb444d7d946faf1f40a16650865dc5917253009326a8"
     },
     {
+      "bytes": 487424,
+      "path": "client/SanketaQuestEditor.exe",
+      "payload": {
+        "bytes": 250793,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "4b7ee85d0713e6b224df33d7d68f6ef66607a13792dc851699db8c4a538c205f"
+      },
+      "sha256": "25098530cb00bd712f65e1e1d6c7d652b121346f524503dc1ec76331be9a1b63"
+    },
+    {
       "bytes": 109552,
       "path": "client/VCRUNTIME140.dll",
       "payload": {
@@ -56,15 +67,15 @@
       "sha256": "2e9d5bcb36c6fc292dd51aa4136f2a53d43bce00ad58029ca26bdd799ba50f3d"
     },
     {
-      "bytes": 11609600,
+      "bytes": 11651072,
       "path": "client/ZFLauncher.exe",
       "payload": {
-        "bytes": 6015523,
+        "bytes": 6040743,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "a417994a864dcbd60292e9add026835148e2a8a73bff216e6d9f9851bcd22773"
+        "sha256": "45b991a33051d3edccb990b63022769da5e64d325d904c6995738d549f561a90"
       },
-      "sha256": "819974640e896bf83cf123f25c767262c615df8079b1deb3d7bf0bf8732e2cfb"
+      "sha256": "c79678ea2da340a38335a83b76045e7d723c3b439d0f8ffa820bf38a9a97f760"
     },
     {
       "bytes": 27846,
@@ -5094,6 +5105,17 @@
       "sha256": "83907f6a3f463230831f5df1428e5213bb0022abc05d94dfd33c150867336c9e"
     },
     {
+      "bytes": 2336540,
+      "path": "client/system/SanketaQuests.txl",
+      "payload": {
+        "bytes": 163986,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "408f3c9aaa9baeeeab4edb77bdfab171d875462c7f103741d126d061ba04ce09"
+      },
+      "sha256": "7b2ac3daa17801d71f68e79f41763e7c3796476df1d62c31dabef6dbcbadc4c1"
+    },
+    {
       "bytes": 2894011,
       "path": "client/system/ShambalaAnu_NPC.txl",
       "payload": {
@@ -5136,8 +5158,19 @@
         "sha256": "d04295d75530eefe1d9385cf170bce302f4ed5c52ab7834fe62aa7e3541a46cd"
       },
       "sha256": "6e2cd951fa83c52f2de43f503a1b1296e6232313c5f3d5c2e13e43131ee77ce8"
+    },
+    {
+      "bytes": 2591405,
+      "path": "client/tools/quests/SanketaQuests.json",
+      "payload": {
+        "bytes": 179788,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a31ed1f3d1c9f20c68c277ef3807fa564f6bb20a85efab568a0378bae6beef6f"
+      },
+      "sha256": "d636508caf7982705bf7d2147062949118ed6c4982655a17d5d6a9e4fa6f1a91"
     }
   ],
   "schema": 2,
-  "version": 1794725095
+  "version": 1794731785
 }
