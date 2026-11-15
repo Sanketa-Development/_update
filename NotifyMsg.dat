@@ -1,1 +1,1 @@
-Added standalone Sanketa Quest Editor, the complete known quest JSON catalog and shared data-driven first-six quest rules. NPC shops and services remain separate.
+Fixed Quest Editor startup loading and Win32 controls, linked record edits and graph operations; added the golden Sanketa emblem icon.
