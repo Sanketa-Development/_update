@@ -5083,15 +5083,15 @@
       "sha256": "83907f6a3f463230831f5df1428e5213bb0022abc05d94dfd33c150867336c9e"
     },
     {
-      "bytes": 3642370,
+      "bytes": 3716845,
       "path": "client/system/Quest.zigg",
       "payload": {
-        "bytes": 378258,
+        "bytes": 386331,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "c5d53f3feef50ecf8dce6117cbc831ce42b757bca737f62642ccfb06ebf158be"
+        "sha256": "d620ddbda70e619fb405b365ec767ccfaf4206cb68f508f083c0841d79f4dfee"
       },
-      "sha256": "0cd9de0afcc8f9c5ebb950ff6ad1784f6dcb882521fd3f2a155d5ffb5db1169e"
+      "sha256": "b59f45a5c85df73e8e003c719ce5ac8b4a00cba37271b8bfe6d7de97eacad2a4"
     },
     {
       "bytes": 2894011,
@@ -5139,5 +5139,5 @@
     }
   ],
   "schema": 2,
-  "version": 1794845368
+  "version": 1794849100
 }
