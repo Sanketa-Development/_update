@@ -1,1 +1,1 @@
-Fixed Quest Editor startup loading and Win32 controls, linked record edits and graph operations; added the golden Sanketa emblem icon.
+Quest Editor now opens directly on the graph, with visible New quest, Add node, Auto arrange and Properties controls plus canvas context commands.
