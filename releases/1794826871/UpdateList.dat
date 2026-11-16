@@ -5136,19 +5136,8 @@
         "sha256": "d04295d75530eefe1d9385cf170bce302f4ed5c52ab7834fe62aa7e3541a46cd"
       },
       "sha256": "6e2cd951fa83c52f2de43f503a1b1296e6232313c5f3d5c2e13e43131ee77ce8"
-    },
-    {
-      "bytes": 6001004,
-      "path": "client/tools/quests/SanketaQuests.json",
-      "payload": {
-        "bytes": 475982,
-        "format": "sanketa-seal-v2",
-        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "90f8eaebe19e54b6f257d3e11999ea8deaf8b36c993e15984eccbbdc08d0af25"
-      },
-      "sha256": "55f3b610210260b8dfe99aee8f917565a3f4e4ab62b1eb150b1ae4d0fd509a71"
     }
   ],
   "schema": 2,
-  "version": 1794826343
+  "version": 1794826871
 }
