@@ -34,15 +34,15 @@
       "sha256": "e1e218b2b9616b21a505bb444d7d946faf1f40a16650865dc5917253009326a8"
     },
     {
-      "bytes": 777728,
+      "bytes": 817664,
       "path": "client/SanketaQuestEditor.exe",
       "payload": {
-        "bytes": 456549,
+        "bytes": 476436,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "a570dbcfc2a713067dd9edd0d1fc19add90f5c627fc8fa96681d3d8c3e032f56"
+        "sha256": "2bced62ab761d49ab5ca7e78d98adef1d2cc3c7aa4b702fd645a174c0f065b07"
       },
-      "sha256": "2517681cf4c27bcb3838fd6e4fcb7210ea4dca609ebe2cbed0fe8609b7d2a93e"
+      "sha256": "420df0e8c905350292225e2b3867bc4f4d0258f92a75e8d25ec6fa82a16d55b3"
     },
     {
       "bytes": 109552,
@@ -67,15 +67,15 @@
       "sha256": "2e9d5bcb36c6fc292dd51aa4136f2a53d43bce00ad58029ca26bdd799ba50f3d"
     },
     {
-      "bytes": 11651072,
+      "bytes": 11655680,
       "path": "client/ZFLauncher.exe",
       "payload": {
-        "bytes": 6040743,
+        "bytes": 6043674,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "45b991a33051d3edccb990b63022769da5e64d325d904c6995738d549f561a90"
+        "sha256": "bb7e1c55019f7bd7b92d7fd97501df151f2ee31520d891d6a3ff29d9440c2948"
       },
-      "sha256": "c79678ea2da340a38335a83b76045e7d723c3b439d0f8ffa820bf38a9a97f760"
+      "sha256": "6e7b67d17ce0a8b9cc7b149c4d8d5d1e47746833c12b2d17501d2581e089c22f"
     },
     {
       "bytes": 27846,
@@ -5172,5 +5172,5 @@
     }
   ],
   "schema": 2,
-  "version": 1794802298
+  "version": 1794805140
 }

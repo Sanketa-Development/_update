@@ -1,1 +1,1 @@
-Quest Editor adds an action dropdown and typed node inspector for quest dialogue, acceptance, hunting, item objectives, level baselines and rewards.
+Added quest minimum-level/completed-quest settings, configurable accept/decline prompts and labels, and separate accepted/declined dialogue replies.
