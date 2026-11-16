@@ -45,15 +45,15 @@
       "sha256": "2e9d5bcb36c6fc292dd51aa4136f2a53d43bce00ad58029ca26bdd799ba50f3d"
     },
     {
-      "bytes": 11746816,
+      "bytes": 11865088,
       "path": "client/ZFLauncher.exe",
       "payload": {
-        "bytes": 6110138,
+        "bytes": 6172019,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "2f5a708cb9b56f798b9c43f6d462b07bcdc1582163c5031a72974b527d7c6838"
+        "sha256": "c93eae047424faefbf66ba2040abb3e023b205f4930e7ff04317fb759e82a346"
       },
-      "sha256": "91b25e3e385d87601a68543634fddd41d3496e58ea597af215285cb2e5fe24c9"
+      "sha256": "46c706d0357649dec5a814f24300734d26668b635c037cfd5e3e8e440a9d5c04"
     },
     {
       "bytes": 27846,
@@ -1374,6 +1374,17 @@
         "sha256": "25d6b5b3154af443dadc7778882a75f7982c5f5a33a501dd57712339cf8f2552"
       },
       "sha256": "6a9158615caf80550bcb9266708fe43e12b5aa926621a6cb4933320a2433a0ca"
+    },
+    {
+      "bytes": 13084,
+      "path": "client/runtime/data/NpcPatrols.json",
+      "payload": {
+        "bytes": 1048,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "8eca670825112bbe3a2d778ec64099b4a48eca5bec2cf07b7d852c3e74a68fcd"
+      },
+      "sha256": "97beee0ceab297b982844d4e6a2644db7ad68d38b057a0ad8d99bff9bff941a9"
     },
     {
       "bytes": 465,
@@ -3829,6 +3840,28 @@
       "sha256": "bb30e9a4b491415e5e7426031b7dffe434aa3b37be45f48e8441b99a98c2c158"
     },
     {
+      "bytes": 2044,
+      "path": "client/runtime/data/rules/ai/PROVENANCE.json",
+      "payload": {
+        "bytes": 1162,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5f4499b86c00e89a5158b17489f3d1858a824304894de71e7a335af2940e6c51"
+      },
+      "sha256": "f07103af971fb7d94bd99babdb120a580b9d21da66f00e342445390701faa17e"
+    },
+    {
+      "bytes": 152295,
+      "path": "client/runtime/data/rules/ai/ai.json",
+      "payload": {
+        "bytes": 10281,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "69396db813175de83e86378e16a88aba5ef20790bda6dbabc185ecb49cf6947a"
+      },
+      "sha256": "5e9b2db40548cd66b6d0a5f4f0135cfbd711f0e1939e76dfe8469261947c24bd"
+    },
+    {
       "bytes": 1281,
       "path": "client/runtime/data/rules/character-stats/Coefficient.tsv",
       "payload": {
@@ -5139,5 +5172,5 @@
     }
   ],
   "schema": 2,
-  "version": 1794861117
+  "version": 1794865517
 }
