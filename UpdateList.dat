@@ -37,12 +37,12 @@
       "bytes": 1024512,
       "path": "client/SanketaQuestEditor.exe",
       "payload": {
-        "bytes": 585698,
+        "bytes": 585782,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "1907339fb46f8da9744e83f1e83e457d80a233d185f5d5c3211807e98b485300"
+        "sha256": "ef1264df2dc5528eba0c2c918ca0551d85851f8b9ca2a93bf13121aa94bde794"
       },
-      "sha256": "046c71e6baef0e901fc4b2b77015e0a6bf6f5728bbcc40769492e63935f38092"
+      "sha256": "1e6c6723aa3e37c43286851a3e57e05893a03d4986e9890b9d05ba6dec316b9d"
     },
     {
       "bytes": 109552,
@@ -5172,5 +5172,5 @@
     }
   ],
   "schema": 2,
-  "version": 1794823995
+  "version": 1794825245
 }
