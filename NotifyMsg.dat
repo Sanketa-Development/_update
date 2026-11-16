@@ -1,1 +1,1 @@
-Client folder cleanup: developer applications and quest-authoring JSON are excluded from player packages. The client retains the exported quest TXL, game resources and required runtime support.
+Offline combat: original monster detection, aggression, sight and protection rules.
