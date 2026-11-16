@@ -1,0 +1,1 @@
+Developer tools are separate from the player client. Sanketa Quest Editor and Sanketa Dev Tool are built in _devtools/bin/Release and are excluded from client packages and player updates.

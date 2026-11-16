@@ -23,28 +23,6 @@
       "sha256": "abd3418a7a94d96e43a03f26644cff63da698634a6d429bcfddd782d12d1fb4f"
     },
     {
-      "bytes": 1628160,
-      "path": "client/SanketaDevTool.exe",
-      "payload": {
-        "bytes": 978419,
-        "format": "sanketa-seal-v2",
-        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "2927326379225dbaeac49a8b3c73bb592d55c2d38a0f86de551fead489460852"
-      },
-      "sha256": "c689dd1ae8f1a18143ca2c0189aba9ec194540ca5eeb88ad289bb7d6d9f55d51"
-    },
-    {
-      "bytes": 1024512,
-      "path": "client/SanketaQuestEditor.exe",
-      "payload": {
-        "bytes": 585782,
-        "format": "sanketa-seal-v2",
-        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "ef1264df2dc5528eba0c2c918ca0551d85851f8b9ca2a93bf13121aa94bde794"
-      },
-      "sha256": "1e6c6723aa3e37c43286851a3e57e05893a03d4986e9890b9d05ba6dec316b9d"
-    },
-    {
       "bytes": 109552,
       "path": "client/VCRUNTIME140.dll",
       "payload": {
@@ -5172,5 +5150,5 @@
     }
   ],
   "schema": 2,
-  "version": 1794825245
+  "version": 1794826343
 }
