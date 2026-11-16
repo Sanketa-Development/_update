@@ -1,1 +1,1 @@
-Quest Editor now opens directly on the graph, with visible New quest, Add node, Auto arrange and Properties controls plus canvas context commands.
+Quest Editor adds an action dropdown and typed node inspector for quest dialogue, acceptance, hunting, item objectives, level baselines and rewards.
