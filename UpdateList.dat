@@ -34,15 +34,15 @@
       "sha256": "e1e218b2b9616b21a505bb444d7d946faf1f40a16650865dc5917253009326a8"
     },
     {
-      "bytes": 817664,
+      "bytes": 876032,
       "path": "client/SanketaQuestEditor.exe",
       "payload": {
-        "bytes": 476436,
+        "bytes": 506506,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "2bced62ab761d49ab5ca7e78d98adef1d2cc3c7aa4b702fd645a174c0f065b07"
+        "sha256": "bed15cd985ea8da0bf2f05b1e83ad63968971928ab2ef7bd7691aa127eb57328"
       },
-      "sha256": "420df0e8c905350292225e2b3867bc4f4d0258f92a75e8d25ec6fa82a16d55b3"
+      "sha256": "76f16adf405c17bdfa4f83181384469625229e3dc81a0d666d88e4ab2b63079f"
     },
     {
       "bytes": 109552,
@@ -5105,15 +5105,15 @@
       "sha256": "83907f6a3f463230831f5df1428e5213bb0022abc05d94dfd33c150867336c9e"
     },
     {
-      "bytes": 2336540,
+      "bytes": 3226381,
       "path": "client/system/SanketaQuests.txl",
       "payload": {
-        "bytes": 163986,
+        "bytes": 320116,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "408f3c9aaa9baeeeab4edb77bdfab171d875462c7f103741d126d061ba04ce09"
+        "sha256": "f28ad2230f716c687ae1e647e37bec8d5779c471e92ffda7e4eea7f0aae0447f"
       },
-      "sha256": "7b2ac3daa17801d71f68e79f41763e7c3796476df1d62c31dabef6dbcbadc4c1"
+      "sha256": "8fd758f755c910a5938fc0b61019e2c642b5347db93b69290ecdf365f9621e1e"
     },
     {
       "bytes": 2894011,
@@ -5160,17 +5160,17 @@
       "sha256": "6e2cd951fa83c52f2de43f503a1b1296e6232313c5f3d5c2e13e43131ee77ce8"
     },
     {
-      "bytes": 2591405,
+      "bytes": 3948157,
       "path": "client/tools/quests/SanketaQuests.json",
       "payload": {
-        "bytes": 179788,
+        "bytes": 355755,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "a31ed1f3d1c9f20c68c277ef3807fa564f6bb20a85efab568a0378bae6beef6f"
+        "sha256": "daa3f26d2d0d16d6e7e7849a3a3dd2ab9d9a01f5ab642424581b9e18427fb981"
       },
-      "sha256": "d636508caf7982705bf7d2147062949118ed6c4982655a17d5d6a9e4fa6f1a91"
+      "sha256": "e9d737544b58a83a15b58b710b90cce1c16d3b35ea006fe601d582fbe05aa11c"
     }
   ],
   "schema": 2,
-  "version": 1794805140
+  "version": 1794810046
 }
