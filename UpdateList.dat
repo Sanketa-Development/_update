@@ -45,15 +45,15 @@
       "sha256": "2e9d5bcb36c6fc292dd51aa4136f2a53d43bce00ad58029ca26bdd799ba50f3d"
     },
     {
-      "bytes": 11882496,
+      "bytes": 11980288,
       "path": "client/ZFLauncher.exe",
       "payload": {
-        "bytes": 6185308,
+        "bytes": 6227532,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "aa87ff6aa17330dafb48b6a995c22503529701e20f56a61ff018764056e9b139"
+        "sha256": "181d3bdd00e968b94f2c2b3794a66673dcff1de59a6f38e138786f36123e45ff"
       },
-      "sha256": "cc4e4e2f4f7147eaacfeda4c79720fc49b39ac9e74fef78c9322650506df95ec"
+      "sha256": "0604ddd098454368b95e970a38b6dd8d67b35c6fee7907649335b378eabce802"
     },
     {
       "bytes": 27846,
@@ -1519,6 +1519,72 @@
       "sha256": "9f2e4fe9dabe60eac51693ff23651a44378f3ae3544052cee6c67838654d374e"
     },
     {
+      "bytes": 219,
+      "path": "client/runtime/data/rules/items/MagicLamp.txt",
+      "payload": {
+        "bytes": 331,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "dbfe1201c1118d7d3e403b9fcbcf4cc0fa71d7c283a631cb90676512b704fb30"
+      },
+      "sha256": "c9a79fc35249e5fe243052bb74d59ee8536facf7a00684a6f4a6078d5251daea"
+    },
+    {
+      "bytes": 148,
+      "path": "client/runtime/data/rules/items/MagicLamp2.txt",
+      "payload": {
+        "bytes": 260,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c35a89b1a0d5fb3d5d1c0becf02fa7dc989da38ae7e77d4e6290614131b3d031"
+      },
+      "sha256": "823000e1bad74e87c1dfbed1c56d79b26a6d60446272d8a3821706b2a61bf532"
+    },
+    {
+      "bytes": 148,
+      "path": "client/runtime/data/rules/items/MagicLamp3.txt",
+      "payload": {
+        "bytes": 260,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "35fa09e40edb7410f0011bfb529e3efa55d1b6fadd7af3d88468ee76254330cf"
+      },
+      "sha256": "fc62c591ebc4f044828a10758439b80b00ff779ec77fbe476fc721220d49c051"
+    },
+    {
+      "bytes": 148,
+      "path": "client/runtime/data/rules/items/MagicLamp4.txt",
+      "payload": {
+        "bytes": 260,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "35fa09e40edb7410f0011bfb529e3efa55d1b6fadd7af3d88468ee76254330cf"
+      },
+      "sha256": "fc62c591ebc4f044828a10758439b80b00ff779ec77fbe476fc721220d49c051"
+    },
+    {
+      "bytes": 148,
+      "path": "client/runtime/data/rules/items/MagicLamp5.txt",
+      "payload": {
+        "bytes": 260,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "35fa09e40edb7410f0011bfb529e3efa55d1b6fadd7af3d88468ee76254330cf"
+      },
+      "sha256": "fc62c591ebc4f044828a10758439b80b00ff779ec77fbe476fc721220d49c051"
+    },
+    {
+      "bytes": 1552,
+      "path": "client/runtime/data/rules/items/MagicLamps-PROVENANCE.json",
+      "payload": {
+        "bytes": 770,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "6872afb3397cde9587513b92df3dd9ae853f39a583ecde748537c456b4341029"
+      },
+      "sha256": "7bf1242a68fa746bb2bd2f557a06499fcecff5f19f6dbbc7d80db262d3592a86"
+    },
+    {
       "bytes": 73490,
       "path": "client/runtime/data/rules/npc-services/Item.tsv",
       "payload": {
@@ -2741,5 +2807,5 @@
     }
   ],
   "schema": 2,
-  "version": 1794893850
+  "version": 1794903293
 }
