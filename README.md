@@ -2,7 +2,7 @@
 
 This repository holds the signed update feed. Game/runtime objects use **Sanketa
 Seal v2** encryption and ciphertext SHA-256 filenames, so a hosted object cannot
-be opened directly as `ZFLauncher.exe`. The current `Tantra.exe` verifies the
+be opened directly as `Sanketa.exe`. The current `Update.exe` verifies the
 release, downloads changed objects, authenticates/decrypts/extracts them and
 verifies installed file hashes before installation. Compiled clients contain the
 decryption material needed to recover their game files.
@@ -43,7 +43,7 @@ to archive/push that prepared feed without repackaging unchanged payloads.
 - `releases/<version>/`: the latest release's signed metadata (one version only).
 - `bootstrap/Patcher.dat`: signed client host configuration; copy this into a
   compatible client root once when selecting the feed. It differs from the feed's
-  root `Patcher.dat` descriptor. Older clients also need the current `Tantra.exe`.
+  root `Patcher.dat` descriptor. Older clients also need the current `Update.exe`.
 
 The default player source is `https://raw.githubusercontent.com/Sanketa-Development/_update/main`.
 Existing clients can download the signed [bootstrap/Patcher.dat](https://raw.githubusercontent.com/Sanketa-Development/_update/main/bootstrap/Patcher.dat)
@@ -56,3 +56,8 @@ Private keys, source, databases, preferences and player state stay outside this
 repository. The publisher rejects unexpected files and unencrypted objects.
 **Older Git history contains plaintext payloads from before encryption.** Current
 encrypted commits do not erase those historical files; history was not rewritten.
+
+Existing installations can update through their old `Tantra.exe`. The encrypted
+feed includes a signed `ZFLauncher.exe` migration bridge and a nested updater
+seed; the authenticated bridge installs `Update.exe` after verifying its signed
+hash. Fresh installations use `Update.exe` to launch `Sanketa.exe`.

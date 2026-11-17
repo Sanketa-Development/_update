@@ -23,6 +23,17 @@
       "sha256": "abd3418a7a94d96e43a03f26644cff63da698634a6d429bcfddd782d12d1fb4f"
     },
     {
+      "bytes": 12102656,
+      "path": "client/Sanketa.exe",
+      "payload": {
+        "bytes": 6290901,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "31711251ac411bbf436f741c1255ea28c35e891a623193590d6b856a62fcd1b2"
+      },
+      "sha256": "75368bb1ff1a30a0c069b21e1e466f7e5ef32cf48e0deaf09b677a1901b38761"
+    },
+    {
       "bytes": 109552,
       "path": "client/VCRUNTIME140.dll",
       "payload": {
@@ -45,15 +56,15 @@
       "sha256": "2e9d5bcb36c6fc292dd51aa4136f2a53d43bce00ad58029ca26bdd799ba50f3d"
     },
     {
-      "bytes": 12102656,
+      "bytes": 341504,
       "path": "client/ZFLauncher.exe",
       "payload": {
-        "bytes": 6290873,
+        "bytes": 222578,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "bb1d564107e95cb08c86f7a82da365889f4c3654b253902019009b34dc788e00"
+        "sha256": "2110c1d68eedb823e694b8e23f6311f610b76d9c56b052482ccf4cf76796f33c"
       },
-      "sha256": "cb0f53c864b931efb83cbb4527bc930554fb90690eb618af0d35081cffb72fdc"
+      "sha256": "81925d5c78b95b1d7e859db77d362f3cc46a541947681ef430f8865687c8ddb9"
     },
     {
       "bytes": 27846,
@@ -1374,6 +1385,17 @@
         "sha256": "25d6b5b3154af443dadc7778882a75f7982c5f5a33a501dd57712339cf8f2552"
       },
       "sha256": "6a9158615caf80550bcb9266708fe43e12b5aa926621a6cb4933320a2433a0ca"
+    },
+    {
+      "bytes": 1149952,
+      "path": "client/runtime/bootstrap/Update.exe",
+      "payload": {
+        "bytes": 732541,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "ddf76250234cf6d5da75a9b2f88450dfa604ee8c18f6b1182534ce48bf3df767"
+      },
+      "sha256": "950545949ae4e9917bc6825846be33cca4edfa83db82168525a290a82c4f6661"
     },
     {
       "bytes": 13084,
@@ -2884,5 +2906,5 @@
     }
   ],
   "schema": 2,
-  "version": 1794941026
+  "version": 1794947379
 }
