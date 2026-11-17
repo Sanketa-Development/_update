@@ -23,15 +23,15 @@
       "sha256": "abd3418a7a94d96e43a03f26644cff63da698634a6d429bcfddd782d12d1fb4f"
     },
     {
-      "bytes": 12102656,
+      "bytes": 12122624,
       "path": "client/Sanketa.exe",
       "payload": {
-        "bytes": 6290901,
+        "bytes": 6303145,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "31711251ac411bbf436f741c1255ea28c35e891a623193590d6b856a62fcd1b2"
+        "sha256": "656ff46ceddd8716d8a39d9d7df1c163845ec8c29084a59e065c768738955b84"
       },
-      "sha256": "75368bb1ff1a30a0c069b21e1e466f7e5ef32cf48e0deaf09b677a1901b38761"
+      "sha256": "804cb2fba9f5ee13805255b54bfd9a88059e6486f0905bba1651c3c11e25a4f4"
     },
     {
       "bytes": 109552,
@@ -2509,17 +2509,6 @@
       "sha256": "90119f81e972f51142b125e42f5a8973d78964d9b98bf32729b099a248fa8a07"
     },
     {
-      "bytes": 245231,
-      "path": "client/system/ArenaDurga_NPC.txl",
-      "payload": {
-        "bytes": 8633,
-        "format": "sanketa-seal-v2",
-        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "aa5230d939ebeaac6948c4a99aa6a9b94e12bd5e7667a56fcdafa4530f15e2d9"
-      },
-      "sha256": "7f788e9faf0bafc33cfb9b810cd1ef2441c3766bb21df4a2ffacba14ea681326"
-    },
-    {
       "bytes": 12380,
       "path": "client/system/ArenaObj.txl",
       "payload": {
@@ -2529,17 +2518,6 @@
         "sha256": "23f78b1b9d4af2754ee0f7bfa318a33ae88cc991a3fcde69e82d96d6e876855b"
       },
       "sha256": "328f3320b15f9802552955ebeba887cba7a1e6b0ae8c73e9879cda8a40f96b3a"
-    },
-    {
-      "bytes": 150938,
-      "path": "client/system/Chaturanga_NPC.txl",
-      "payload": {
-        "bytes": 3968,
-        "format": "sanketa-seal-v2",
-        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "91142f28529d2df14170908c98763a6de00e73591d8ac88086dd5fec058347af"
-      },
-      "sha256": "3de3079e698daa1d29ff495e848b5a5abacb4aa5c3c0eba45ea44234e631e444"
     },
     {
       "bytes": 1376079,
@@ -2562,17 +2540,6 @@
         "sha256": "df7ed6b7e72a6d5c5bc990f887439a4d4363b0fa9bbe8b500f9d3e74fb521487"
       },
       "sha256": "1d8df7c677aebb2af1e7a35c6abcfe0a03fec6db6355044ade3db27cefefbde1"
-    },
-    {
-      "bytes": 419370,
-      "path": "client/system/Forge_NPC.txl",
-      "payload": {
-        "bytes": 11930,
-        "format": "sanketa-seal-v2",
-        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "ec595d1f2f49cb18a037564258d22b7ccd5cd7409be9f9beacb1c141810ce52b"
-      },
-      "sha256": "5e4ad67e583c48a99ae1765ca32096cfd67dc6d45134bd6913d65c6b885c70be"
     },
     {
       "bytes": 1448926,
@@ -2630,61 +2597,6 @@
       "sha256": "3a1b2dccb69c7a88c2cff843df0e940ef66154702bfed9eee87ce532d71db60c"
     },
     {
-      "bytes": 2677598,
-      "path": "client/system/Jina1st_NPC.txl",
-      "payload": {
-        "bytes": 68245,
-        "format": "sanketa-seal-v2",
-        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "d801dcd6c51bc4e144aa0d999ebf94aafa505c40724f362732f674911b3ee117"
-      },
-      "sha256": "cf240c3a8102e5ee894d66705432e224759510ad9f78d3693ed5e63986de9ec7"
-    },
-    {
-      "bytes": 1776710,
-      "path": "client/system/Jina3rd_NPC.txl",
-      "payload": {
-        "bytes": 42800,
-        "format": "sanketa-seal-v2",
-        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "955af73757a4604c0beb0a8ec2f9749f0a9e32ad74fc8e3811dd3dbf8cedbf40"
-      },
-      "sha256": "0510ca13e52aa37f921c4cba2628debed25c55d8570f385a6585b734a4d78ba2"
-    },
-    {
-      "bytes": 239379,
-      "path": "client/system/Jina4th2_NPC.txl",
-      "payload": {
-        "bytes": 6326,
-        "format": "sanketa-seal-v2",
-        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "05892a6ba0b24902678715f5ed17e01813a71e6e84eb0668368684f58776f533"
-      },
-      "sha256": "c30da34fa8cee5eaae0c92c31b630b4dd9cddafb51a22e5f457c75ef6203a0e8"
-    },
-    {
-      "bytes": 237854,
-      "path": "client/system/Jina4th_NPC.txl",
-      "payload": {
-        "bytes": 6358,
-        "format": "sanketa-seal-v2",
-        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "59354a8aab2f35dbc77f27bd015d96937fcdb401576b30bfe60740095bd43c77"
-      },
-      "sha256": "db7778f5fc0c0d3c78186bcedd729a9a8414e9b42c2527fcfa9660c365b1db7b"
-    },
-    {
-      "bytes": 1357897,
-      "path": "client/system/Jina7thCave_NPC.txl",
-      "payload": {
-        "bytes": 28304,
-        "format": "sanketa-seal-v2",
-        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "d5eaadf44fadbcd1fdcfcd8701215a4fc7f9bf3635a1c8730e2787e67f87b242"
-      },
-      "sha256": "a16af2202ab4626e0abd3f079134d5483b6f16aa2fb76a65cb6050c1b5e4cf17"
-    },
-    {
       "bytes": 37805,
       "path": "client/system/Kathana1Obj.txl",
       "payload": {
@@ -2718,28 +2630,6 @@
       "sha256": "9673f6ab643c0c8bbf3e5d577a94d121fd3e7487639977673c3fe3dd19028da2"
     },
     {
-      "bytes": 1727364,
-      "path": "client/system/Kathana3_NPC.txl",
-      "payload": {
-        "bytes": 44113,
-        "format": "sanketa-seal-v2",
-        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "be00d1a5e02c6de02bdc04c3f4c7481e2c556126d458478bc9700b376ec4014b"
-      },
-      "sha256": "f778811efbd01113504b2c88581af1d696a5010814c83a12d23dbd1f6c6e7682"
-    },
-    {
-      "bytes": 1300774,
-      "path": "client/system/Kathana3_Quest_K3.txl",
-      "payload": {
-        "bytes": 30678,
-        "format": "sanketa-seal-v2",
-        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "9b53bf14a54ced30b2e4563a72a4e826d49d27d1b8c1e2b70e54669fce653670"
-      },
-      "sha256": "8ca8f912f0e910be0d1d95c709733ee52d184193fa4e4e65ff4fd7ced76e738c"
-    },
-    {
       "bytes": 3020,
       "path": "client/system/Kathana4CaveObj.txl",
       "payload": {
@@ -2762,39 +2652,6 @@
       "sha256": "0ff0a13b2cee02539b3aceb10629c2e48a1f1998f5878dec81329cc305b321cc"
     },
     {
-      "bytes": 932128,
-      "path": "client/system/Kathana4_NPC.txl",
-      "payload": {
-        "bytes": 24005,
-        "format": "sanketa-seal-v2",
-        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "38e6cba77dd26e77189157dff4d4ba48d472a93d82d47d06ddeb388e2f58cb3c"
-      },
-      "sha256": "5be2d5751104a913ddea7faf1d2693834034f1a228f6c4304ca4b637d4e6cdee"
-    },
-    {
-      "bytes": 4421236,
-      "path": "client/system/Mandara_NPC.txl",
-      "payload": {
-        "bytes": 117592,
-        "format": "sanketa-seal-v2",
-        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "e1aec7465e01a88019f1aa996928d6b27f9d22120ff9569247e48b1ef9bb2944"
-      },
-      "sha256": "e7f77fd2728e8e1d9fddb2e0557211bb03c144dc19d860105a3a58e6c1bd2187"
-    },
-    {
-      "bytes": 4196182,
-      "path": "client/system/Mandara_Quest_K3.txl",
-      "payload": {
-        "bytes": 102147,
-        "format": "sanketa-seal-v2",
-        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "eaecc71e9d9382d1b501b9d14c116daa9d0ac9eef45acb3dc458ee01e6190058"
-      },
-      "sha256": "2e0465ff4aaa93e443f14278ab5ccda0d62a65d371b54857c4d6dee35a50401a"
-    },
-    {
       "bytes": 815,
       "path": "client/system/MaranaObj.txl",
       "payload": {
@@ -2806,15 +2663,15 @@
       "sha256": "1260d5d09f19d03190aec7a947e2915789b3d492a908d5592cd2ea9067cda8da"
     },
     {
-      "bytes": 561330,
-      "path": "client/system/Mudha_NPC.txl",
+      "bytes": 2909644,
+      "path": "client/system/NPC.zigg",
       "payload": {
-        "bytes": 16268,
+        "bytes": 556888,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "6057aaf68ac61d7a3f7660e559aac395693486b49f769677e267a379cd4197c1"
+        "sha256": "c9fa7978b0ea418c77e50c506f3bdd83efe0ec5e4820bb35faba6e7c2af9c681"
       },
-      "sha256": "d332a102ac466dba7286ca7f1484277494ef473d4513961ef96187ca62d9aad2"
+      "sha256": "04ac1f34babd60d69fc7fc034b53b124196436f6ab18d6b0d10b529f61564ca2"
     },
     {
       "bytes": 13280,
@@ -2839,17 +2696,6 @@
       "sha256": "91bb46e0ca51876c1d5ff26964a0a99d08ef74959e9f461e5155809936362eb3"
     },
     {
-      "bytes": 700244,
-      "path": "client/system/Paroksya_NPC.txl",
-      "payload": {
-        "bytes": 17299,
-        "format": "sanketa-seal-v2",
-        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "1ab9ebeb75abbb957996e74c49016bdc44c2a77db7477a9c358cf5a02eb512e6"
-      },
-      "sha256": "83907f6a3f463230831f5df1428e5213bb0022abc05d94dfd33c150867336c9e"
-    },
-    {
       "bytes": 3632933,
       "path": "client/system/Quest.zigg",
       "payload": {
@@ -2859,28 +2705,6 @@
         "sha256": "13213bb0b6de4aa1abc0431e26725f81dbaf697c8359516b42920f23253b37be"
       },
       "sha256": "4ea47d4478e3684980a3d343084a45f5cc1214fbdd46d23c1c93cb1c8a0fdd4b"
-    },
-    {
-      "bytes": 2894011,
-      "path": "client/system/ShambalaAnu_NPC.txl",
-      "payload": {
-        "bytes": 71290,
-        "format": "sanketa-seal-v2",
-        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "64a062122d8e6abb07529820eca7dd55a64ec00f593983f5eb9f0fcc823b8c2b"
-      },
-      "sha256": "59a792be2c3422675b64ea96fb3b68da408dd1bc12c5ffc8f2cf685aa2081102"
-    },
-    {
-      "bytes": 2776852,
-      "path": "client/system/Shambala_Quest_K3.txl",
-      "payload": {
-        "bytes": 67354,
-        "format": "sanketa-seal-v2",
-        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "3b8679adc1b06709eef891055ccc3b8de20f6ea200a17728b87fa2eb97d2aab6"
-      },
-      "sha256": "b6cb458f6d71359825d4eede68fbd2d6a8d9b707a8f01cfce113e987f9a2b6ee"
     },
     {
       "bytes": 1293404,
@@ -2906,5 +2730,5 @@
     }
   ],
   "schema": 2,
-  "version": 1794947379
+  "version": 1794949251
 }

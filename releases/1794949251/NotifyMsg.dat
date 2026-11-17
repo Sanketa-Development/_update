@@ -1,0 +1,1 @@
+NPC dialogue, choices, service menus and shop stock now load from the consolidated NPC.zigg catalog. Quest progression stays in Quest.zigg. Retired NPC TXL files are no longer runtime dialogue sources.

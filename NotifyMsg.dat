@@ -1,1 +1,1 @@
-The game is now Sanketa.exe and its launcher/updater is Update.exe. Existing Tantra.exe installations migrate automatically through the signed encrypted update. After updating, use Update.exe to play or Start-Offline.cmd for offline play.
+NPC dialogue, choices, service menus and shop stock now load from the consolidated NPC.zigg catalog. Quest progression stays in Quest.zigg. Retired NPC TXL files are no longer runtime dialogue sources.
