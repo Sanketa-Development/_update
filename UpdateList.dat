@@ -45,15 +45,15 @@
       "sha256": "2e9d5bcb36c6fc292dd51aa4136f2a53d43bce00ad58029ca26bdd799ba50f3d"
     },
     {
-      "bytes": 12084224,
+      "bytes": 12102656,
       "path": "client/ZFLauncher.exe",
       "payload": {
-        "bytes": 6285140,
+        "bytes": 6290873,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "b99c9dd6179a5381bf2a26d2a057030bae8f042d7211cf1881e78eed14917c79"
+        "sha256": "bb1d564107e95cb08c86f7a82da365889f4c3654b253902019009b34dc788e00"
       },
-      "sha256": "6d6840d7ed6359853b72a24174013a90903c94047949411ef75bdfc2c090e7b8"
+      "sha256": "cb0f53c864b931efb83cbb4527bc930554fb90690eb618af0d35081cffb72fdc"
     },
     {
       "bytes": 27846,
@@ -1407,6 +1407,83 @@
         "sha256": "84cb38b563a27d59ca90d6c3ec45797b4a12dbe9a45b4efd6c961ae587ee053b"
       },
       "sha256": "77a9eccb24186a47f6f366beacd746d21c397383ebfbc1d792a51500ea81691a"
+    },
+    {
+      "bytes": 745708,
+      "path": "client/runtime/data/languages/en.tsv",
+      "payload": {
+        "bytes": 154413,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "2210996e84fd1d46f2d4074799c5d3db6d3e32eed5507c1ebd71e6b006d4617c"
+      },
+      "sha256": "11ef5557e7bbbaa84b3c9fb72b42ea0446054dfcf652a597a96b1ece8dafbb70"
+    },
+    {
+      "bytes": 716128,
+      "path": "client/runtime/data/languages/es.tsv",
+      "payload": {
+        "bytes": 150460,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e75768f6d91ff66a787682d6bf731cb3a8ef611bf6cc1f173c001abedcea5b03"
+      },
+      "sha256": "8585c61daa9bbaef1e5e3b944123d22660c7d2194e1de0aebe9867ce4aabfce3"
+    },
+    {
+      "bytes": 632791,
+      "path": "client/runtime/data/languages/id.tsv",
+      "payload": {
+        "bytes": 122627,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f3f7e8cb506d83cef189190e92ab892d931b458e62304402e05612cc27dfc893"
+      },
+      "sha256": "df21af6b69b62a04954f93ba562c8af31d67ef5188f6e52c508a80a576bf4e20"
+    },
+    {
+      "bytes": 700567,
+      "path": "client/runtime/data/languages/ja.tsv",
+      "payload": {
+        "bytes": 126421,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b86527539330d5d4bc11c82e56da985e5c7c5db1e85d963c0d2f99720ef01fac"
+      },
+      "sha256": "701c253d5c955485dfe7f6523d88020817d08a1b0ef6a800ea398a61eb5859b3"
+    },
+    {
+      "bytes": 848454,
+      "path": "client/runtime/data/languages/ko.tsv",
+      "payload": {
+        "bytes": 159306,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "45b48b588a7619d91bf0bb555045e43a243ec6df04f1049fb916c1b7851906dd"
+      },
+      "sha256": "31d583e1b2f42ff3d84d6beb17467c70bb898caeda95ee962c65f007352767c5"
+    },
+    {
+      "bytes": 623552,
+      "path": "client/runtime/data/languages/zh-CN.tsv",
+      "payload": {
+        "bytes": 116508,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1d6c5bcc7ae67a524b8fc116c1f91853982c09bc8cc2a1c6d1707c3a90166c49"
+      },
+      "sha256": "0a212ad9d838b0c777af2d86fa02e811aa8438cbbe336882928447af0abfc59f"
+    },
+    {
+      "bytes": 640390,
+      "path": "client/runtime/data/languages/zh-TW.tsv",
+      "payload": {
+        "bytes": 119571,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "14b06bfc9fe0f77029eb04219ca8684563e80a2e46105bc3d17f2809ccdca2ee"
+      },
+      "sha256": "7604874101a1263523a87a63e2959cedfe67cca23e5db65829e24bdcf2fe617c"
     },
     {
       "bytes": 2044,
@@ -2807,5 +2884,5 @@
     }
   ],
   "schema": 2,
-  "version": 1794933354
+  "version": 1794941026
 }
