@@ -45,15 +45,15 @@
       "sha256": "2e9d5bcb36c6fc292dd51aa4136f2a53d43bce00ad58029ca26bdd799ba50f3d"
     },
     {
-      "bytes": 12076032,
+      "bytes": 12079104,
       "path": "client/ZFLauncher.exe",
       "payload": {
-        "bytes": 6278233,
+        "bytes": 6279912,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "a480c8a6ef7a3780ea0796d93da5cb8597b580ea1de5a94c142faff25c20a15f"
+        "sha256": "4a0c7c80b8753f2189aecae6c3e5faccb10ed3cf68f614d8d805a4797a448267"
       },
-      "sha256": "ab865e2895635ba0132a78030efc8262d5552a45f55b9c3b11e30bc695960522"
+      "sha256": "6e66342489806472d8f74bf09d01cf33a0e2b09e5f374df31f22f4715fcefeca"
     },
     {
       "bytes": 27846,
@@ -2751,15 +2751,15 @@
       "sha256": "83907f6a3f463230831f5df1428e5213bb0022abc05d94dfd33c150867336c9e"
     },
     {
-      "bytes": 3716845,
+      "bytes": 3638186,
       "path": "client/system/Quest.zigg",
       "payload": {
-        "bytes": 386331,
+        "bytes": 378815,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "d620ddbda70e619fb405b365ec767ccfaf4206cb68f508f083c0841d79f4dfee"
+        "sha256": "23f03aa82f68cba4a51c28a4431414b9391113c9993bb9f70d32d8e650da2ed2"
       },
-      "sha256": "b59f45a5c85df73e8e003c719ce5ac8b4a00cba37271b8bfe6d7de97eacad2a4"
+      "sha256": "73f790d2639114d6d6cb45da72dc2e8c0e46f38d2ef273654a68fc3ad75629c4"
     },
     {
       "bytes": 2894011,
@@ -2807,5 +2807,5 @@
     }
   ],
   "schema": 2,
-  "version": 1794924798
+  "version": 1794930332
 }
