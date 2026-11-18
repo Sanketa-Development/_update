@@ -1,1 +1,1 @@
-Fixed guild return scroll ownership checks in online and offline play. Online castle return scrolls now recognize the owning guild. Improved online skill targeting and separated online gameplay authority.
+Offline Biryu castle update: Ashram castle ownership and siege registration are saved. Castle return scrolls now recognize the owning Ashram. The owning Maharaja can manage sales tax and claim saved sales and Yut income.

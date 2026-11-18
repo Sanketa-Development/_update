@@ -1,1 +1,0 @@
-Fixed guild return scroll ownership checks in online and offline play. Online castle return scrolls now recognize the owning guild. Improved online skill targeting and separated online gameplay authority.
