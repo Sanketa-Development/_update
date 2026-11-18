@@ -23,15 +23,15 @@
       "sha256": "abd3418a7a94d96e43a03f26644cff63da698634a6d429bcfddd782d12d1fb4f"
     },
     {
-      "bytes": 10087936,
+      "bytes": 10093056,
       "path": "client/Sanketa.exe",
       "payload": {
-        "bytes": 5097258,
+        "bytes": 5099305,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "f3e9857c500f73cc6861175bc74c06b3d97399f10712b3fe0ff9ba2a3ef297c0"
+        "sha256": "6d546a76483ccbbbf45f1445e54445695d5878b5653b67f7789b68b310e5f01e"
       },
-      "sha256": "426c2a05ef05b150563ecdc9a19ef623406961df8ce33073fbc81b7e7bd74b5c"
+      "sha256": "6b4c52eb023ee2f35778c46572f7d11c554a0f562e33440c688b1fb6b4106e36"
     },
     {
       "bytes": 109552,
@@ -527,6 +527,17 @@
         "sha256": "41c689082746e3b569b9fb7f48bddc974b60b05fe48fae8b5c7d84250acdfe75"
       },
       "sha256": "7604874101a1263523a87a63e2959cedfe67cca23e5db65829e24bdcf2fe617c"
+    },
+    {
+      "bytes": 927,
+      "path": "client/runtime/data/offline-zones/Zone17/Data/Route.txt",
+      "payload": {
+        "bytes": 734,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c7498114d60661a2635def2f55b8f12e152fc6f8269184e7c860d01438692790"
+      },
+      "sha256": "0cfc82442f6768fa0e2dda3078de8d592d277364cf0e17ebb2f5f6e3add9d029"
     },
     {
       "bytes": 2044,
@@ -1751,5 +1762,5 @@
     }
   ],
   "schema": 2,
-  "version": 1795019521
+  "version": 1795029204
 }
