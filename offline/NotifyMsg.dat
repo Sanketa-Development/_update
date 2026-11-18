@@ -1,1 +1,1 @@
-Client files refreshed. Online and offline editions use separate update feeds. Start Update.exe for online play or UpdateOffline.exe for offline play.
+Fixed guild return scroll ownership checks in online and offline play. Online castle return scrolls now recognize the owning guild. Improved online skill targeting and separated online gameplay authority.
