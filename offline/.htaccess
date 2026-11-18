@@ -1,0 +1,9 @@
+Options -Indexes
+<FilesMatch "(?i)\.(pfx|p12|pem|key|dpapi|sqlite3|sql|xlsx|ps1|cpp|h)$">
+ Require all denied
+</FilesMatch>
+<IfModule mod_headers.c>
+ <Files "Patcher.dat">
+  Header set Cache-Control "no-store"
+ </Files>
+</IfModule>
