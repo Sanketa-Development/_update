@@ -6,8 +6,9 @@ Independent encrypted game update feeds:
 - [Offline](offline/): use UpdateOffline.exe; Start launches SanketaOffline.exe.
 
 Each folder contains one current release and its required encrypted objects.
-Old combined-feed releases and obsolete objects are retired. Current manifests
-are assembled from the staged edition, without inheriting previous patch paths.
+Old combined-feed releases and obsolete objects are retired. The new baselines
+discard their old selections. Later manifests use current staged file versions
+and retain required live resources from their own edition only.
 Files already matching their current hashes are not downloaded again.
 
 Install the new executable pair and its signed patch configuration together.
