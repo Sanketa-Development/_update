@@ -23,15 +23,15 @@
       "sha256": "abd3418a7a94d96e43a03f26644cff63da698634a6d429bcfddd782d12d1fb4f"
     },
     {
-      "bytes": 12450304,
+      "bytes": 12465152,
       "path": "client/SanketaOffline.exe",
       "payload": {
-        "bytes": 6441196,
+        "bytes": 6450129,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "4f79eef10692930ee20e2d37002d462ddbb5e0b1618aa32b810924acfdd04c00"
+        "sha256": "a5e8e1c54128467ffb94ba8e703ba9521d8636d2f42e39e3af5d5d502bd19246"
       },
-      "sha256": "4aaa84638294d1e750f10077c5e67de6abd2e21c0fd500bd9643cb988d3ca68d"
+      "sha256": "d2b4a330fb4f6008583a9d3bed35a09b0132fec3bef3ac63f36d1429b9595191"
     },
     {
       "bytes": 109552,
@@ -142,6 +142,17 @@
         "sha256": "4c36dbffebd26f819d656b7d0eae65a954d33f3075abdd792ff9241dfea64aff"
       },
       "sha256": "493515412e665ecfffcddcb77f7d906a5baab8fc4b774b7e2038811aa3ed4889"
+    },
+    {
+      "bytes": 17858058,
+      "path": "client/resource/UI/UI.zigg",
+      "payload": {
+        "bytes": 5797337,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "3396d592ab7d1a7a619f7bc8f519adc8d8c6ab19b54e760e491e9d46ab1b9368"
+      },
+      "sha256": "9a766ae5f6405cb2f25a3bdf8c8946ed319e5ed154aa71edf340c880a1b7c6a8"
     },
     {
       "bytes": 543,
@@ -428,6 +439,72 @@
         "sha256": "c9b36d17896852ebe228de7e422ff14ee58cd1ed6481fe55ae7269512985bee4"
       },
       "sha256": "4a8b5c0d1eda6b08e605d6156568c7ace666b31a840469340f396de2bd0da04e"
+    },
+    {
+      "bytes": 41704,
+      "path": "client/resource/object/NPC/Ani/NPC_Saulabi_IDL.tab",
+      "payload": {
+        "bytes": 6326,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "8736ec59cb452b94b77f9b9b540b5251cd802f0e3c2c4483917eba6d28af6289"
+      },
+      "sha256": "770ec4fd0e77ac8314abf9ed58302697a02a30f0b238c239190b791c22ea7f60"
+    },
+    {
+      "bytes": 29496,
+      "path": "client/resource/object/NPC/Ani/NPC_Saulabi_STD.tab",
+      "payload": {
+        "bytes": 4358,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "dde4db8b5f9de4f39b3d2db3fe1fcfa67cbd55caee231f068906877cc0b7ec63"
+      },
+      "sha256": "f6a454ee2fe4e24d983b2ba104e4b9df3af5eab0dfa66d092b26e847c844fa71"
+    },
+    {
+      "bytes": 97820,
+      "path": "client/resource/object/NPC/Mesh/NPC_HoraBatiny_SET.tmb",
+      "payload": {
+        "bytes": 47109,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "f2424c9c87159c738b98f5402e458d3634316f91c8f7d13d328f54c10783a605"
+      },
+      "sha256": "4f532671c8a927de3a739b4421e67227b9649d69e8b1166de1604ead26dcf540"
+    },
+    {
+      "bytes": 105408,
+      "path": "client/resource/object/NPC/Mesh/NPC_HuebanHarmya_SET.tmb",
+      "payload": {
+        "bytes": 36665,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "223dccbb5712dc729db685d46631360b12f9961fe10f4777086003698fc0ac85"
+      },
+      "sha256": "a158b806d600c5e06313b37deec183b816accbbca2e22034bb403b717160f19e"
+    },
+    {
+      "bytes": 88891,
+      "path": "client/resource/object/NPC/Mesh/NPC_SenagraSarva_SET.tmb",
+      "payload": {
+        "bytes": 38449,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "88c676dd4b6cb1f82f4c37f897216ecdbd42e6d95f47dd57ee5a1464610b8403"
+      },
+      "sha256": "5090e53b3d53ce25907c2e8697368f37cfb4b8b2bd612fa874bf1b1c885ac546"
+    },
+    {
+      "bytes": 100116,
+      "path": "client/resource/object/NPC/Mesh/NPC_YapaTadana_SET.tmb",
+      "payload": {
+        "bytes": 40116,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "bf4084ecd4242e5b130f7670c1a38aec0f1db19b55f30270b181fec73581d03a"
+      },
+      "sha256": "d226609e4e441fd611755d3008b01b762c7e3e1dd0061dc007345d6b3f2007df"
     },
     {
       "bytes": 1152000,
@@ -1577,12 +1654,12 @@
       "bytes": 1376079,
       "path": "client/system/ClientRes.txl",
       "payload": {
-        "bytes": 165771,
+        "bytes": 165762,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "ecd8b763369db51f78f6b27bfec4d861c31e95957626a8bd9fb30c7801cc74e2"
+        "sha256": "21d2dade8b4e21b48090dc7436e0f2e325f603ac2f9a32ecf26d04818d21a57d"
       },
-      "sha256": "39312b0050d74a705a191b305f4f30608f66edf65e66ee02f121938a4f961111"
+      "sha256": "545e3aea1960e33030d6d0f67f42649deffb56b7570d9a2b3d860d961c0672dd"
     },
     {
       "bytes": 25475,
@@ -1750,15 +1827,15 @@
       "sha256": "91bb46e0ca51876c1d5ff26964a0a99d08ef74959e9f461e5155809936362eb3"
     },
     {
-      "bytes": 5355824,
+      "bytes": 5355920,
       "path": "client/system/Quest.zigg",
       "payload": {
-        "bytes": 744247,
+        "bytes": 729956,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "eac6145ecc189db3dc2488cae5ad1d0b54d03788f0b9e868017e3f537bcff78b"
+        "sha256": "4c50b8b6e235569fecc0c5c385200e232a1238e7156a68d49431e8b6f98b4f1e"
       },
-      "sha256": "ca992ea7557612b3c5f742b40a206fb7baea1498229acf98a2e57f79e8bff46d"
+      "sha256": "3ddee529c9af5c143ba43aa8d751f06a3d6e8fb6a05a746bac11c2ba4a1a3911"
     },
     {
       "bytes": 1293404,
@@ -1784,5 +1861,5 @@
     }
   ],
   "schema": 2,
-  "version": 1795072018
+  "version": 1795081596
 }
