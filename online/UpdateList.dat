@@ -29,9 +29,9 @@
         "bytes": 5129907,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "3f99de1f1fb0564e2fc020fd34b476ff1d81e1aa28507355ef0f74fdb697147b"
+        "sha256": "abe336f7e5ea3a2e3142d0880f8a07e3465576199b2ebd86516ff172fcccd607"
       },
-      "sha256": "3d34939de2538ec9bf8ff3d8679ffe95ae30d06255b61d28f545f05aa5a5956c"
+      "sha256": "e613e20b804a5f8b71f56576dd72a1adb6eff8fd8efb5fc56fb6ad80984fa612"
     },
     {
       "bytes": 109552,
@@ -1861,5 +1861,5 @@
     }
   ],
   "schema": 2,
-  "version": 1795106138
+  "version": 1795117838
 }
