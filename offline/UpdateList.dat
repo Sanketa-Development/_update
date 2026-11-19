@@ -408,6 +408,28 @@
       "sha256": "15735f44abeb08f5cf03aeb104491ed03548b6fa9100a6b10a5395a0749a0c94"
     },
     {
+      "bytes": 5752182,
+      "path": "client/resource/object/Mandara1stObjTex.hpk",
+      "payload": {
+        "bytes": 4082182,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "e9275627feda0793215ac67b406cd1d59e31cfc7d18a4442134282c48de551cb"
+      },
+      "sha256": "c0f2ac07c9191b4996cdcdfbd7fc70b9fac610cb323097a56f9402bdf47d2ad6"
+    },
+    {
+      "bytes": 12810040,
+      "path": "client/resource/object/Mandara1stObjTmb.hpk",
+      "payload": {
+        "bytes": 2534826,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c9b36d17896852ebe228de7e422ff14ee58cd1ed6481fe55ae7269512985bee4"
+      },
+      "sha256": "4a8b5c0d1eda6b08e605d6156568c7ace666b31a840469340f396de2bd0da04e"
+    },
+    {
       "bytes": 1152000,
       "path": "client/runtime/bootstrap/UpdateOffline.exe",
       "payload": {
@@ -1762,5 +1784,5 @@
     }
   ],
   "schema": 2,
-  "version": 1795071857
+  "version": 1795072018
 }
