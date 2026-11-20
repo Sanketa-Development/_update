@@ -23,15 +23,26 @@
       "sha256": "abd3418a7a94d96e43a03f26644cff63da698634a6d429bcfddd782d12d1fb4f"
     },
     {
-      "bytes": 10196992,
+      "bytes": 10203648,
       "path": "client/Sanketa.exe",
       "payload": {
-        "bytes": 5146722,
+        "bytes": 5151420,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "9f4bad3e22dcfc5ea7183689ab66ea78b4983e05b1a379e89a1df0120b18e5d1"
+        "sha256": "c812a25e7f9e8a5839d32f47635eff8a2a667c17be3fd77e058a7b5d65412cf3"
       },
-      "sha256": "365dfa1f16c12674bcd4f32be615e9e81e72701c1b703aa11d162507f79b2e03"
+      "sha256": "12c66acca3faf4ad9d960f368c5198274e48374428e0ba99944530ad12613f9a"
+    },
+    {
+      "bytes": 238592,
+      "path": "client/SanketaCrashReporter.exe",
+      "payload": {
+        "bytes": 170509,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c439bab4139ec55bbd4827f50ec3fef70f73699beb200dd52cf794c0802c4b5c"
+      },
+      "sha256": "f2cff0a75a9f97d3d83ec38655256ac994a0bf77070bf681a6b9a47ffa1f799a"
     },
     {
       "bytes": 109552,
@@ -551,15 +562,15 @@
       "sha256": "d226609e4e441fd611755d3008b01b762c7e3e1dd0061dc007345d6b3f2007df"
     },
     {
-      "bytes": 1150976,
+      "bytes": 1157120,
       "path": "client/runtime/bootstrap/Update.exe",
       "payload": {
-        "bytes": 732846,
+        "bytes": 735331,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "c971425043789222027a083bb51630df0fd849db76a9c88bc589f288209bae67"
+        "sha256": "2e24bfcea8ac703f2ff49fd5fb05895c50b680df68353b2ad502de42f971b5f2"
       },
-      "sha256": "797de0f49e68edadc06a67f8959395d17faf573c3980bc8d43611b2dd8fc467f"
+      "sha256": "9c6e8a7a9192751a1f828754e8c92cb2278e7e0e0a879fdef69ab0f115cfa532"
     },
     {
       "bytes": 13084,
@@ -1905,5 +1916,5 @@
     }
   ],
   "schema": 2,
-  "version": 1795174586
+  "version": 1795198846
 }
