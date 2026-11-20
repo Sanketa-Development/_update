@@ -26,12 +26,12 @@
       "bytes": 10196992,
       "path": "client/Sanketa.exe",
       "payload": {
-        "bytes": 5147135,
+        "bytes": 5146722,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "0638045b458fadb2de500767e7bc29de09bf41c4e7fa8df682c30e108adb6bfb"
+        "sha256": "9f4bad3e22dcfc5ea7183689ab66ea78b4983e05b1a379e89a1df0120b18e5d1"
       },
-      "sha256": "4a69822867b12f07189215a66c1eef6046cbc067ba2dcf03cad201b3e786147e"
+      "sha256": "365dfa1f16c12674bcd4f32be615e9e81e72701c1b703aa11d162507f79b2e03"
     },
     {
       "bytes": 109552,
@@ -417,6 +417,50 @@
         "sha256": "0f7ca37c7531ad7a4da666bc0cf890c43140021bf61d00a2af2a2068746b0d21"
       },
       "sha256": "15735f44abeb08f5cf03aeb104491ed03548b6fa9100a6b10a5395a0749a0c94"
+    },
+    {
+      "bytes": 6748822,
+      "path": "client/resource/object/Item/ItemTex.hpk",
+      "payload": {
+        "bytes": 4463877,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "3d829f8cf8994e8bb9348a733f89559b34207c46fd10b9b077a849532a91b628"
+      },
+      "sha256": "a669d3e01a99d22e6068cde37ca32563ef3e59b8e3e1472b320442d39e327943"
+    },
+    {
+      "bytes": 13460,
+      "path": "client/resource/object/Item/Mesh/ITEM_Hat_01.tmb",
+      "payload": {
+        "bytes": 4892,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "80ee6ebf45f5641bbc3aae1410b1bd8b0beb8bbaba07557327e9d9ff86b7caba"
+      },
+      "sha256": "bf85304226a412c6812f0e1d4ec33951a2da94d018d83dc2f8144bc97d150b81"
+    },
+    {
+      "bytes": 11396,
+      "path": "client/resource/object/Item/Mesh/ITEM_Hat_02.tmb",
+      "payload": {
+        "bytes": 3775,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "80a44896410ecec73214b35a891b72195981a61495d42b2bed530300e17a54e7"
+      },
+      "sha256": "cb017a0cd70131ee50f70f4ec17b4e60af53f86a07523c03ad5eb2eb26c20c7a"
+    },
+    {
+      "bytes": 23236,
+      "path": "client/resource/object/Item/Mesh/ITEM_Hat_03.tmb",
+      "payload": {
+        "bytes": 8670,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "dfc6bb2b69860eb87ea2add2549c7929e753ced5d46b48d1594a827d25120871"
+      },
+      "sha256": "654ea5a19dd18f1db26e0cb3ac6c8d7b07b27b653d469ac5b09dd077824cb960"
     },
     {
       "bytes": 5752182,
@@ -1654,12 +1698,12 @@
       "bytes": 1376079,
       "path": "client/system/ClientRes.txl",
       "payload": {
-        "bytes": 165762,
+        "bytes": 165832,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "a6b0174652c17f87660780e981d858dc15af123dacb57aa1f897d30c631ec590"
+        "sha256": "95e00d82e80c07ca635a111a69e7cedebfb676c5cdc7011f1a24638143c5d0c2"
       },
-      "sha256": "545e3aea1960e33030d6d0f67f42649deffb56b7570d9a2b3d860d961c0672dd"
+      "sha256": "e60f8615bd4623f49b3c5196bb4ea83df2af4e4bc34629c8706942767c8850f1"
     },
     {
       "bytes": 25475,
@@ -1861,5 +1905,5 @@
     }
   ],
   "schema": 2,
-  "version": 1795171901
+  "version": 1795174586
 }
