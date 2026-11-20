@@ -26,12 +26,12 @@
       "bytes": 10209792,
       "path": "client/Sanketa.exe",
       "payload": {
-        "bytes": 5153261,
+        "bytes": 5153281,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "a11e05b67a2be00f92e9a52f3a608fa79e4b570f66e63703f99c0f41aef05b11"
+        "sha256": "e1175d931d60f97ed810ef989a35e7474ef2e3de5bd330abe4f2a0475f69a747"
       },
-      "sha256": "044553ea5fbb959e45ba5466bc06367bcad1fa3f614e4a8b30c181938e554c7e"
+      "sha256": "148bf0283b3586896fd3f9e99ac741317c4937a61bfd5cb249ac0988a124007d"
     },
     {
       "bytes": 238592,
@@ -1090,17 +1090,6 @@
       "sha256": "0006d8af9401f497293ecf171062f928fe34077fd45f8f006c9b2cf0062e52f5"
     },
     {
-      "bytes": 5804,
-      "path": "client/runtime/shaders/graphics/d3d12/fs_refinement.bin",
-      "payload": {
-        "bytes": 4795,
-        "format": "sanketa-seal-v2",
-        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "e9d93b092d3dbd04ba3bf120ff4438bc387a649c81cb5ea8be26b96401c9597b"
-      },
-      "sha256": "dc53112cd6413497ec8412ddb39b55c6cb45b0c9e5b3245e16f48dcb2425ed85"
-    },
-    {
       "bytes": 2710,
       "path": "client/runtime/shaders/graphics/d3d12/fs_shadow.bin",
       "payload": {
@@ -1244,17 +1233,6 @@
       "sha256": "6aad617bc3d816896c5a774460f9ce0bf43492d2e903599b4f419d446146deca"
     },
     {
-      "bytes": 11452,
-      "path": "client/runtime/shaders/graphics/fs_refinement.bin",
-      "payload": {
-        "bytes": 2680,
-        "format": "sanketa-seal-v2",
-        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "d3be9d80f9ba661f98f7f9556ac9a8ea18b87f74c9ddf8a8b93b412a314dc546"
-      },
-      "sha256": "c746a5a656697f0dc5b899819527ee5d03ead6703f545ed3fb417dc48b8fedd1"
-    },
-    {
       "bytes": 618,
       "path": "client/runtime/shaders/graphics/fs_shadow.bin",
       "payload": {
@@ -1286,17 +1264,6 @@
         "sha256": "8e1a58141124cd64ad3650a89644bfaf0a38b39084e091a7abc028523a2b035d"
       },
       "sha256": "cd2fb8a1a8163d06298ce598f3fab0aac43ce6d8e2b9598423e801f9c9bd9819"
-    },
-    {
-      "bytes": 4974,
-      "path": "client/runtime/shaders/graphics/opengl/fs_refinement.bin",
-      "payload": {
-        "bytes": 1782,
-        "format": "sanketa-seal-v2",
-        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "34aba3e4418c6dfa720cd9b081dc5b91144da9a26fe98e29cf2ea81f21496c90"
-      },
-      "sha256": "810147341262febf976256f7dbab5fe72d63a891d94b65a6b8bd39e3614fa789"
     },
     {
       "bytes": 373,
@@ -1550,17 +1517,6 @@
         "sha256": "055a2d4e4878fea99bc7ad01ed292169845428794dadfae9c48ff201fdf7de21"
       },
       "sha256": "87c20787a2fb2aed78839a1d6398ac1b602544b41fcfe6e673cc824e903c400e"
-    },
-    {
-      "bytes": 7032,
-      "path": "client/runtime/shaders/graphics/vulkan/fs_refinement.bin",
-      "payload": {
-        "bytes": 2937,
-        "format": "sanketa-seal-v2",
-        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "f69ec4ba7e5eea42211f005b3bfb0e212d70f35658e48fc316879c6f66bbb4b5"
-      },
-      "sha256": "94288f4e7a298438ee7daf8e4bc1976c3125f562327433658da62c1ee159f5f0"
     },
     {
       "bytes": 1354,
@@ -1960,5 +1916,5 @@
     }
   ],
   "schema": 2,
-  "version": 1795213918
+  "version": 1795214411
 }
