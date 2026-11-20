@@ -23,15 +23,15 @@
       "sha256": "abd3418a7a94d96e43a03f26644cff63da698634a6d429bcfddd782d12d1fb4f"
     },
     {
-      "bytes": 10157056,
+      "bytes": 10158592,
       "path": "client/Sanketa.exe",
       "payload": {
-        "bytes": 5128866,
+        "bytes": 5130487,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "277a3fdcaad4dd519e268909b9c260c252d3cfc92be852b34bcd87110d8d797c"
+        "sha256": "2b5dd682bec5c03dcee8810f060e2780e5f0daa963da9110e52510e49c04f4c8"
       },
-      "sha256": "6b3862daa0c77b3d134b174dcd762ba1d5480287a21590fe1f4d8f3465191cc1"
+      "sha256": "aa704cf935005c928d5693930c8ecf022aa83113de01752caf7acc2a4beeed47"
     },
     {
       "bytes": 109552,
@@ -1861,5 +1861,5 @@
     }
   ],
   "schema": 2,
-  "version": 1795120206
+  "version": 1795145088
 }
