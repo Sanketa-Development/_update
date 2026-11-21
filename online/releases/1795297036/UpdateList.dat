@@ -628,15 +628,15 @@
       "sha256": "98c9d199683108effa0087d511c4a58e06c5336c8d18c464e6e135839a25e11e"
     },
     {
-      "bytes": 1282172,
+      "bytes": 1807244,
       "path": "client/resource/map/WorldBattle/TerrainTex.hpk",
       "payload": {
-        "bytes": 205518,
+        "bytes": 275582,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "0ff6d613c9d470305051cc359717ab5302e05968891b7d6afa76f6ca5f030b3d"
+        "sha256": "2a1cc8bec84e6cfa45156f279d0c522eeef0546c52de87c491a79922c8358e8c"
       },
-      "sha256": "c0883ef5255ca965020821c5f2776ebf1951ea56bf1594ae368a488c6d0eee1c"
+      "sha256": "9d00ed83fddedfbade211869fde3ef0728a3c48b08ef136c2eb67f8951a10725"
     },
     {
       "bytes": 6748822,
@@ -681,6 +681,17 @@
         "sha256": "dfc6bb2b69860eb87ea2add2549c7929e753ced5d46b48d1594a827d25120871"
       },
       "sha256": "654ea5a19dd18f1db26e0cb3ac6c8d7b07b27b653d469ac5b09dd077824cb960"
+    },
+    {
+      "bytes": 7379968,
+      "path": "client/resource/object/Jina4thObjTex.hpk",
+      "payload": {
+        "bytes": 5203764,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "0500c6ce13d72a5b71990517236402dd38282a1f42f5025851d0a6d3120e8a9f"
+      },
+      "sha256": "0536948d5d0ce267c93cabc8d4c1897d76eec8c0a35d1da7a27afcaa29b9792e"
     },
     {
       "bytes": 5752182,
@@ -2125,5 +2136,5 @@
     }
   ],
   "schema": 2,
-  "version": 1795295668
+  "version": 1795297036
 }
