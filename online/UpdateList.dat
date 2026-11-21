@@ -23,15 +23,15 @@
       "sha256": "abd3418a7a94d96e43a03f26644cff63da698634a6d429bcfddd782d12d1fb4f"
     },
     {
-      "bytes": 10315776,
+      "bytes": 10327040,
       "path": "client/Sanketa.exe",
       "payload": {
-        "bytes": 5213717,
+        "bytes": 5220398,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "2a8b139ff28c99679bcd38afd0c215dfb7aa41a647388424eca32b3d2edd734f"
+        "sha256": "a6214866b4120012550a48ec706dc3e39f4f9d7a9ed7b128e09f212c21e3c302"
       },
-      "sha256": "629bd188f34d5d3c599f37479f9260070b1d3d5d80b63d9cd731854c82ae84b5"
+      "sha256": "08458774a14409cd9ffa2a06f6e3ad8951e9f7f928b7ee47bdde145f0efde5c0"
     },
     {
       "bytes": 238592,
@@ -417,6 +417,17 @@
         "sha256": "3af763365a454fdad88723f618c99341f969ccd767b2f826dc903065dcbf7bb7"
       },
       "sha256": "2d9ac2d42b23febf24be1186414ea0447a94045b0b01215a9eeef24ba7fe4c3c"
+    },
+    {
+      "bytes": 5818246,
+      "path": "client/resource/map/Mandara1st/TerrainTex.zigg",
+      "payload": {
+        "bytes": 5818678,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "738ec9733c99b0beeb5be8594a45892cb366678318450a24b29ebfa3dcc69379"
+      },
+      "sha256": "94045b6b526c38421237ab19985f91d6583aea2f7437405d6080713366827f5b"
     },
     {
       "bytes": 212,
@@ -1960,5 +1971,5 @@
     }
   ],
   "schema": 2,
-  "version": 1795282589
+  "version": 1795293777
 }
