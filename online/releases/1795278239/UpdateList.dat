@@ -23,15 +23,15 @@
       "sha256": "abd3418a7a94d96e43a03f26644cff63da698634a6d429bcfddd782d12d1fb4f"
     },
     {
-      "bytes": 10260480,
+      "bytes": 10314752,
       "path": "client/Sanketa.exe",
       "payload": {
-        "bytes": 5183387,
+        "bytes": 5212004,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "8e9b20736c88be6c32f0aa416017118f4e441723c0f0651e8cc855e7860f3012"
+        "sha256": "287d53408b097302759c2e2b326e28a943554c4cbbeae8918183e5737dd2376f"
       },
-      "sha256": "136a3bad15bab72d8694372e14074f2eb24bcabe9d1e05311a2e8f6ac3f26b8f"
+      "sha256": "d515adec7c5103eba384e1195a50046e6c87deb4b81610f98b1bd6bde4cc4941"
     },
     {
       "bytes": 238592,
@@ -1123,15 +1123,15 @@
       "sha256": "2cf71d098c608c56e07f4655855a886c3102553f648df88458df616b26fd612f"
     },
     {
-      "bytes": 11147,
+      "bytes": 11727,
       "path": "client/runtime/shaders/graphics/d3d12/fs_native.bin",
       "payload": {
-        "bytes": 8621,
+        "bytes": 9144,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "3cf4d4c0e084d94ec468ce11ec20fcb40df51e0ef1da2c7fe4a4f21af1d25f8d"
+        "sha256": "ed24a3a4e32a64166f5e66562ba9827b92da8d151ba649c40097edc4169b16ad"
       },
-      "sha256": "0006d8af9401f497293ecf171062f928fe34077fd45f8f006c9b2cf0062e52f5"
+      "sha256": "97df661c82a87129cabceea79e9ee5cd24083fa7ee7a87b45a545aa957ecad4f"
     },
     {
       "bytes": 2710,
@@ -1162,9 +1162,9 @@
         "bytes": 178,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "3dbbb9aa0b3575fda2a1014f3b56c8c82af648874a925f1680a1b8975efae162"
+        "sha256": "5964a2cc2b712ee770c11dd31d28f86e40efbfeefc8052b1582d401a67b01480"
       },
-      "sha256": "35dbbd3f46f99d52db4b6c6cceebff6ec25b23dfa131e9ce442150e86b60eedd"
+      "sha256": "0493161b6a5e5649c76d028269d0bf90ef9c5f71de561cacdf9bb920fff60394"
     },
     {
       "bytes": 8892,
@@ -1178,26 +1178,26 @@
       "sha256": "262bb194d5bad19139272e532b0c485bafb01e3e4b7f0e5458153aa3ef2aa259"
     },
     {
-      "bytes": 5142,
+      "bytes": 5632,
       "path": "client/runtime/shaders/graphics/d3d12/vs_instanced.bin",
       "payload": {
-        "bytes": 3826,
+        "bytes": 4186,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "803628e5d384ce0997f84767d495d8eac65774b8846b83153151314f1934c0ae"
+        "sha256": "e618d90958c656b69e294a7ce9e8da6f77102bc6e0437d9142dea0c73e47d8e8"
       },
-      "sha256": "75890c037901a4c0308499bdf7dc47fc29ee188c38f09706eb077a0db4db72f5"
+      "sha256": "9987a50132a13b405b74e3a0a4f85fb20250c1af6e78b1729ffbaff468abda63"
     },
     {
-      "bytes": 4888,
+      "bytes": 5366,
       "path": "client/runtime/shaders/graphics/d3d12/vs_native.bin",
       "payload": {
-        "bytes": 3701,
+        "bytes": 4096,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "f16a175e7a9254127695892ee1d4e336b2398987e484442436c98f7fc52cba71"
+        "sha256": "ec56c43aea90e956f9a2fbef8554c3645cc9f4bea1e6414bc0df36b92023b46b"
       },
-      "sha256": "f7d8db8de86b06f0480a98b292467696e8bb1571a688a22149275297a60fdc60"
+      "sha256": "08f6a9362760f9bd8c6deb121766eb531ebe76f6b4baf6a7368491903f8f98ac"
     },
     {
       "bytes": 3937,
@@ -1266,15 +1266,15 @@
       "sha256": "abf957c689cc0bffc4dd5482f512f5b949a9ce29e8b2c31d7af449daa1bf79b1"
     },
     {
-      "bytes": 12751,
+      "bytes": 14235,
       "path": "client/runtime/shaders/graphics/fs_native.bin",
       "payload": {
-        "bytes": 3868,
+        "bytes": 4314,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "7c43f9c63f371e113cc991485d9d23ccc4be9f27d63e3bdae06e2253296ff138"
+        "sha256": "9cc519f7fdbe0f314451d766d842babe3961906a82d8daa1b2553a34040961f1"
       },
-      "sha256": "6aad617bc3d816896c5a774460f9ce0bf43492d2e903599b4f419d446146deca"
+      "sha256": "50a401c357e04cead4011dff5e17d5c870f6bdc63d923cc55d561ff64b4193e8"
     },
     {
       "bytes": 618,
@@ -1299,15 +1299,15 @@
       "sha256": "7f70b02426a6fc25ff4ee0865b9aad8db251a7c5a5ce87290692f9f48e35076f"
     },
     {
-      "bytes": 12690,
+      "bytes": 13859,
       "path": "client/runtime/shaders/graphics/opengl/fs_native.bin",
       "payload": {
-        "bytes": 4174,
+        "bytes": 4588,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "8e1a58141124cd64ad3650a89644bfaf0a38b39084e091a7abc028523a2b035d"
+        "sha256": "484b67802670ac9da40ec8973dca566060a7a5e37264b325a8130f8bb7672737"
       },
-      "sha256": "cd2fb8a1a8163d06298ce598f3fab0aac43ce6d8e2b9598423e801f9c9bd9819"
+      "sha256": "4fa57661437405410943929c088b568f8794ceeb9ae1d85e9f50e68dc934e642"
     },
     {
       "bytes": 373,
@@ -1338,9 +1338,9 @@
         "bytes": 178,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "a23b7866ad86868f5b19c6ae420a2b5df735f2344af1a563bc18b1423024d17b"
+        "sha256": "31d6c0f70636a3444fe51dcb33ee11dc7bff8d41223df02a82363443c6e7aa7b"
       },
-      "sha256": "47f43dcfb389325f37933d91e55d886d1b6f4efb012bad048c81f9135e2147c0"
+      "sha256": "505bbcd7f38fc7ed4ad9d3751d676ecedcf9fddcfb04dc6690532bd7bd07086c"
     },
     {
       "bytes": 3294,
@@ -1354,26 +1354,26 @@
       "sha256": "914985b1c144ee440debdc4497bcb6a4074cc8446f7b565ee8bc5b4cb129e7cb"
     },
     {
-      "bytes": 1236,
+      "bytes": 1755,
       "path": "client/runtime/shaders/graphics/opengl/vs_instanced.bin",
       "payload": {
-        "bytes": 801,
+        "bytes": 1023,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "bad10f5ab9a8d0dcac8da4f65762991dcbaa7e1c744d585b6bb4cc5980d78fba"
+        "sha256": "d14853b0db676f1f349c1859d7dda8698bec08580a386c9aae60100bbe7968d9"
       },
-      "sha256": "aed408591cdc7434683423d0ef6b0a3d4a872a4ec1f725f87cab87447fbbff1c"
+      "sha256": "4bf5f0e4f846f57309d528bb45481bc62022d2f15962054186ee1d167b224691"
     },
     {
-      "bytes": 1204,
+      "bytes": 1800,
       "path": "client/runtime/shaders/graphics/opengl/vs_native.bin",
       "payload": {
-        "bytes": 832,
+        "bytes": 1069,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "d90120e1ed483162772bcad2e969e2c682cd5a97b3a444dd48d886e88d135eb5"
+        "sha256": "fcc47f501c103c1a92ab889bb865b5c6f3c72caf9b0e192769c94a2860019b3d"
       },
-      "sha256": "462dd5091d89e520b9a53f6896c4ba590119f3fe9b110eee5b820b604f8ce2c4"
+      "sha256": "635fef83b7b74ced07e59b932422cf627b745e91df6b2ed6fe37b199b8233b98"
     },
     {
       "bytes": 885,
@@ -1448,9 +1448,9 @@
         "bytes": 178,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "3cabc6c4b9e80b21d58a65a39eb4bc4b7431436005fe090bf77bbcfca9aaba15"
+        "sha256": "a78ef7a39806efc1b5c5ec5115dc5de14c0610b624d9f28955589245fe29f01a"
       },
-      "sha256": "cb630d85e044aa1f74573d40c8fd32a02cee00e7945772185a20acaeb8b526e4"
+      "sha256": "801824f97ed79a18b012d87baf6599f28d45bef2bd5e433f54be5f40faa622ce"
     },
     {
       "bytes": 6892,
@@ -1464,26 +1464,26 @@
       "sha256": "c0651861a8f67b20d9e000bd9e7ae07d79bf32544af0885af366d84899275fe4"
     },
     {
-      "bytes": 2306,
+      "bytes": 3160,
       "path": "client/runtime/shaders/graphics/vs_instanced.bin",
       "payload": {
-        "bytes": 1129,
+        "bytes": 1397,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "c573546ddb657c49f39060dee26c1124bc821a63b366dab158d72659121e58d0"
+        "sha256": "cf0b2ecd41396578e8a6ab7be8226dd4005f4c2f6815fd4d2d667fa22aedad40"
       },
-      "sha256": "4d8324014169fe22bd02bf829dcdbcddf764088614515ba8cdde482eab49392a"
+      "sha256": "b27d6226934d31715592b39cfb0d6f26cbce0c5404736c78348b566eba3a8512"
     },
     {
-      "bytes": 2156,
+      "bytes": 3250,
       "path": "client/runtime/shaders/graphics/vs_native.bin",
       "payload": {
-        "bytes": 1130,
+        "bytes": 1432,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "2fc31a1f467fb6569a1af9525c07347f847bab89d042c1db6f7b32f33231c91c"
+        "sha256": "53ddceb643bfabd8d2f7a4be2599b7d3bcdb2b33ac0db94f5c581aeabe3dcc4f"
       },
-      "sha256": "612d4d1813a70f70f6b8a68fc1a6faeadc380b1430095be3b4633bb21176e9ea"
+      "sha256": "f38489afbea08bae3c91290145e1770b155891cbf999520c3cb6f3bcee17fe27"
     },
     {
       "bytes": 1433,
@@ -1552,15 +1552,15 @@
       "sha256": "133e6b4a4e6cdf891d1eb5e8e5de0d731e61928a08b887c2656444fe1424b917"
     },
     {
-      "bytes": 17507,
+      "bytes": 18671,
       "path": "client/runtime/shaders/graphics/vulkan/fs_native.bin",
       "payload": {
-        "bytes": 6876,
+        "bytes": 7309,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "055a2d4e4878fea99bc7ad01ed292169845428794dadfae9c48ff201fdf7de21"
+        "sha256": "63ea72a5c1eb2ab0f77cb3db53a3dfd32c7cae65a3a995551389bae62457de91"
       },
-      "sha256": "87c20787a2fb2aed78839a1d6398ac1b602544b41fcfe6e673cc824e903c400e"
+      "sha256": "a5ca51f85b3ed952bfac4939cc685c1de0461a45c72c71d7cb391e49f26aeb4d"
     },
     {
       "bytes": 1354,
@@ -1591,9 +1591,9 @@
         "bytes": 178,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "a6131bf93e3fcba40fe4e8c42ee1de06b136ccbda5862362e92aa18a721bc9a9"
+        "sha256": "86ac6df47af65cacd5a37d29b7e71275881e446176701409cc0c65340e750d43"
       },
-      "sha256": "0d85ce4a352b1fecfb282455ac4d28f97edd7a54ef6d4ded2f7279dcbf3e1d66"
+      "sha256": "10dda508f1a207c1aad668f3c03e7266567ead710aa2c523e97c27f2b2538bfc"
     },
     {
       "bytes": 6514,
@@ -1607,26 +1607,26 @@
       "sha256": "854b93a1eeee6274b7cd0326855db3871ac2c6b2bf26a3dd7c9ff01fd0814d2e"
     },
     {
-      "bytes": 3086,
+      "bytes": 4148,
       "path": "client/runtime/shaders/graphics/vulkan/vs_instanced.bin",
       "payload": {
-        "bytes": 1512,
+        "bytes": 1942,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "fe672892a64c390c001a746492c7dfa28e8c936f459558275ce0ab0e69770a9e"
+        "sha256": "fc8aed02645068395a174dac1cb54b716f9c9ef45a016ff72d118861ef1b75ab"
       },
-      "sha256": "5df0ea745e65107654db21bb6a0ff080b2db63d273697c168d48fd1fa4b8fdd4"
+      "sha256": "387e384ce9565d14a34985331a63dc1cadd0f095bf88d631270beec77c0047a1"
     },
     {
-      "bytes": 3304,
+      "bytes": 4506,
       "path": "client/runtime/shaders/graphics/vulkan/vs_native.bin",
       "payload": {
-        "bytes": 1636,
+        "bytes": 2088,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "4e6a0c8fa90574be0011a081d87ff6762b03084a161a5ef81a34ac4afb7dca39"
+        "sha256": "1085c5a1715a41cea6c21f09281d9451f42bb1196afb9fa10ccce38a0f1927d8"
       },
-      "sha256": "3660ce2be84b196f168569810a6ddb316a9ca48e6b86330b602929fba5bcef65"
+      "sha256": "5bb5480c350776a1c86e8c8863abb6e997d12fb7affc99dc109039eb2a2c9f59"
     },
     {
       "bytes": 2563,
@@ -1960,5 +1960,5 @@
     }
   ],
   "schema": 2,
-  "version": 1795247424
+  "version": 1795278239
 }
