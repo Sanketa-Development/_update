@@ -23,15 +23,15 @@
       "sha256": "abd3418a7a94d96e43a03f26644cff63da698634a6d429bcfddd782d12d1fb4f"
     },
     {
-      "bytes": 10235392,
+      "bytes": 10260480,
       "path": "client/Sanketa.exe",
       "payload": {
-        "bytes": 5170552,
+        "bytes": 5183387,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "b28ee497b89848dd34eb932c148a5389d417a6dd2d37949eb77b4fe5083d421d"
+        "sha256": "8e9b20736c88be6c32f0aa416017118f4e441723c0f0651e8cc855e7860f3012"
       },
-      "sha256": "a5ed7e7a50033d9d823b3d24df65bfd83f56a1848b073af70606c16dd3540670"
+      "sha256": "136a3bad15bab72d8694372e14074f2eb24bcabe9d1e05311a2e8f6ac3f26b8f"
     },
     {
       "bytes": 238592,
@@ -417,6 +417,50 @@
         "sha256": "3af763365a454fdad88723f618c99341f969ccd767b2f826dc903065dcbf7bb7"
       },
       "sha256": "2d9ac2d42b23febf24be1186414ea0447a94045b0b01215a9eeef24ba7fe4c3c"
+    },
+    {
+      "bytes": 212,
+      "path": "client/resource/map/MandaraCave/MAP_MandaraCave.tmi",
+      "payload": {
+        "bytes": 324,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "db0cd90a6afc5b9157e9922aaec12ea276e2fa1e1fa92ce964885760e0864c78"
+      },
+      "sha256": "d7668639c2c1fca3054f8f7ecad01f29d21d0b3c49652d42a43bf4983fba577b"
+    },
+    {
+      "bytes": 212,
+      "path": "client/resource/map/MandaraCave2nd/MAP_MandaraCave2nd.tmi",
+      "payload": {
+        "bytes": 324,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "db0cd90a6afc5b9157e9922aaec12ea276e2fa1e1fa92ce964885760e0864c78"
+      },
+      "sha256": "d7668639c2c1fca3054f8f7ecad01f29d21d0b3c49652d42a43bf4983fba577b"
+    },
+    {
+      "bytes": 259,
+      "path": "client/resource/map/MandaraCave3rd/MAP_MandaraCave3rd.tmi",
+      "payload": {
+        "bytes": 371,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5392be870020d1c64bf968b44231c16f9c07b6fedd224e099e7cb51214637249"
+      },
+      "sha256": "f0cf73fe072650d5564b5aa6e9fe0fef863d0bfea01816aeee40f2d4ce842ef7"
+    },
+    {
+      "bytes": 72,
+      "path": "client/resource/map/MandaraCave4th/MAP_MandaraCave4th.tmi",
+      "payload": {
+        "bytes": 184,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "276cd5ba1c56f07b9e0340af93bb66c7a9afe91cdd020d81eb3dc540210b3273"
+      },
+      "sha256": "e5c231d4ccdd8e4130e6eb961dd5add880ba21991f3968ac9184e19608016ade"
     },
     {
       "bytes": 41822,
@@ -1916,5 +1960,5 @@
     }
   ],
   "schema": 2,
-  "version": 1795239635
+  "version": 1795247424
 }
