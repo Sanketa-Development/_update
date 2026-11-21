@@ -485,6 +485,160 @@
       "sha256": "15735f44abeb08f5cf03aeb104491ed03548b6fa9100a6b10a5395a0749a0c94"
     },
     {
+      "bytes": 8388674,
+      "path": "client/resource/map/Test/MAP_Test.tcc",
+      "payload": {
+        "bytes": 1898648,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "d8d2682aded2530139dd167d8eeeaf8d9660ac8a1b882f7c052de4aa03a11d5f"
+      },
+      "sha256": "3bf0bd8e7afa0544b588b514831df61f566a7a2047e036451eb8e5ffd0280567"
+    },
+    {
+      "bytes": 4215140,
+      "path": "client/resource/map/Test/MAP_Test.thm",
+      "payload": {
+        "bytes": 3350956,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "c06abea2e26ada26e1b59fa8e61c4cc7d6a20e23b0e16b7e99841fdde3a68e04"
+      },
+      "sha256": "d50fbad817343c7071c2f28d869398defecf0bd983eaa24747a4981f6e8df7e6"
+    },
+    {
+      "bytes": 381,
+      "path": "client/resource/map/Test/MAP_Test.tme",
+      "payload": {
+        "bytes": 488,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "83d9d44d02956ba0e3d5d33573668b6b5b6b664a406d7caddab3fe9f0da654aa"
+      },
+      "sha256": "b8091a03f76631feeb23164ca80c81c012206c0f9f76092b0ba1743ee33357cc"
+    },
+    {
+      "bytes": 318567,
+      "path": "client/resource/map/Test/MAP_Test.tml",
+      "payload": {
+        "bytes": 97957,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "6eb029650bc02a60f6b1ff8c18e67400c02eac5a1aa23ede006d7412b4a283da"
+      },
+      "sha256": "d538474f162ab9183e898e04f241c67865ecd6504982d7debe83cec0b7d202bc"
+    },
+    {
+      "bytes": 33706,
+      "path": "client/resource/map/Test/Sky.tmd",
+      "payload": {
+        "bytes": 8816,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "5430a649a845dc0ad07a84ea0c33b2c8bee00392d218d45b0d0d75012d519ddd"
+      },
+      "sha256": "90b8fc5bbc4a51af0b9a8cbd19667a78f969d5471e0a730d25ac6d077534abd4"
+    },
+    {
+      "bytes": 5249,
+      "path": "client/resource/map/Test/SkyTerrain.tmd",
+      "payload": {
+        "bytes": 2013,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "76ff02b95acc8bc4c22f0c9efe81961b7b6a3bf803a09abdfbfde3016332cc08"
+      },
+      "sha256": "344316fe00cd17f08c52b972e98036ada9032d5f85819be293a97294cf9e2e58"
+    },
+    {
+      "bytes": 15678216,
+      "path": "client/resource/map/Test/TerrainTex.hpk",
+      "payload": {
+        "bytes": 10833478,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "64b52a7c3fd30cf6ec0e2aaed35352d9cf6bf1169b7e7cfd6d1c7cdb440734ae"
+      },
+      "sha256": "2f48e6f098d2aac9518ffb5c13d98b5a69fefcbc2efb77c7ed8db4fc68d1cd6b"
+    },
+    {
+      "bytes": 8388674,
+      "path": "client/resource/map/WorldBattle/MAP_WorldBattle.tcc",
+      "payload": {
+        "bytes": 1937642,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "947e472b7ed6bd755f852f501a3683b4d8fa7bb62bbf8acfcce5f60ace775af8"
+      },
+      "sha256": "7886951c3ef11973438c36b2f3d5bdc42c8df4ad669ab558252acf44cb1d4763"
+    },
+    {
+      "bytes": 4215140,
+      "path": "client/resource/map/WorldBattle/MAP_WorldBattle.thm",
+      "payload": {
+        "bytes": 2003,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b143e5d321efbbbf4368c9ce3732b3073301751a872fe36a09c1a887e8530598"
+      },
+      "sha256": "599bb68aea092e6baf97513f0e3d64c5831111244059e656af1442d95abbbd49"
+    },
+    {
+      "bytes": 1409,
+      "path": "client/resource/map/WorldBattle/MAP_WorldBattle.tme",
+      "payload": {
+        "bytes": 553,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "a64a4934b856ecd19af8cfc756452fee7c66b7f8dfc34e1c84f786ac14947772"
+      },
+      "sha256": "4b6a34c6639bcb1a797fe6ff4bd70a21a4d43a2bda4e6e1589aceaba4480ba93"
+    },
+    {
+      "bytes": 495119,
+      "path": "client/resource/map/WorldBattle/MAP_WorldBattle.tml",
+      "payload": {
+        "bytes": 86526,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "800f7a5963b113c88e1a112110a7e54ec0c1014946d9b34e407ad7e3beee1c0e"
+      },
+      "sha256": "cc66aa674586a5efb737c7ab6c1ed29a88ca2fe14e7ea136bbf9f0175b53b104"
+    },
+    {
+      "bytes": 30664,
+      "path": "client/resource/map/WorldBattle/Sky.tmd",
+      "payload": {
+        "bytes": 9495,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "1245d98add1e43b49377e1479e3ccaf8bc3dbf766b036bcf4aac88a7f183b2c2"
+      },
+      "sha256": "eff6e03f073a7bd77ee32255f4e4ddc8a5acec635b6539cb63ee0935756df421"
+    },
+    {
+      "bytes": 8209,
+      "path": "client/resource/map/WorldBattle/SkyTerrain.tmd",
+      "payload": {
+        "bytes": 2970,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "85a7a2c71168a5539056ca0337219b64cc15d93868872cd6b88de8e7b4dbde95"
+      },
+      "sha256": "98c9d199683108effa0087d511c4a58e06c5336c8d18c464e6e135839a25e11e"
+    },
+    {
+      "bytes": 1282172,
+      "path": "client/resource/map/WorldBattle/TerrainTex.hpk",
+      "payload": {
+        "bytes": 205518,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "0ff6d613c9d470305051cc359717ab5302e05968891b7d6afa76f6ca5f030b3d"
+      },
+      "sha256": "c0883ef5255ca965020821c5f2776ebf1951ea56bf1594ae368a488c6d0eee1c"
+    },
+    {
       "bytes": 6748822,
       "path": "client/resource/object/Item/ItemTex.hpk",
       "payload": {
@@ -1971,5 +2125,5 @@
     }
   ],
   "schema": 2,
-  "version": 1795293777
+  "version": 1795295668
 }
