@@ -2014,26 +2014,26 @@
       "sha256": "cb9f6f8a684be5eeacf52b3545f8a8bed1e4087756ba02188a4978585146a4e2"
     },
     {
-      "bytes": 1330,
+      "bytes": 1639,
       "path": "client/system/HTSpec.cfg",
       "payload": {
-        "bytes": 727,
+        "bytes": 916,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "9b021a5295e58fd09d4a3687ae0da4428eee0d209ed9f5edbe63581c930606d2"
+        "sha256": "1f72860b4807949a8f0bc298f017e56923945069973ca6aa05d6a5e038e8a8a6"
       },
-      "sha256": "1cbe39fdc0664aa5464f9ad157ba0be53841355c425c24daf93d1b589fca0e5c"
+      "sha256": "91d3648f56d61ee7f125a7e90f2f57e12d4146695b8c85b8af4c307d16cec16c"
     },
     {
-      "bytes": 1490,
+      "bytes": 1986,
       "path": "client/system/HTStartup.cfg",
       "payload": {
-        "bytes": 1048,
+        "bytes": 1321,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "5f42d7e6df07d48a05ee9047ed491a3cd89e173199c8afb3456e260026fdf910"
+        "sha256": "c384ece3b574c2e17f29c8d873803c19a5ef8fb0603fbadcd97c7cf9c8bfca8c"
       },
-      "sha256": "11a3c6b9f2372d66b91f0604a65fc9e879e0726931c8cb58c55dc6fe96e47727"
+      "sha256": "bcbc77529ce6e4a064e61f63c9ebf03f1402cb0601391f63a971fd26970e4a00"
     },
     {
       "bytes": 770,
@@ -2180,5 +2180,5 @@
     }
   ],
   "schema": 2,
-  "version": 1795368989
+  "version": 1795370615
 }
