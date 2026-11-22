@@ -1,1 +1,1 @@
-Fixed an issue that prevented online login after valid account credentials were accepted.
+Added Frame HUD 2.0. Press Ctrl+Shift+F11 to switch between Normal, Expanded, Hidden, and Compact.
