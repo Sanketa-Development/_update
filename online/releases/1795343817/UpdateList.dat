@@ -287,6 +287,39 @@
       "sha256": "f09ab1ccfbbe69ac65a813d1cc9de29dd30e3341c2af4880f91f30339f83ce28"
     },
     {
+      "bytes": 48280,
+      "path": "client/resource/fx/fxMAPMandara1stField.tfx",
+      "payload": {
+        "bytes": 6850,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "291b2287aa660ca46c3bb985ad510b7054179449eb362583fab940faeaa869a1"
+      },
+      "sha256": "3d78d3e666919481792722c47ee7d373d3e3b16c3519a32ffcac76cce38c76a3"
+    },
+    {
+      "bytes": 1278607,
+      "path": "client/resource/fx/fxMAPMandara1stModel.hpk",
+      "payload": {
+        "bytes": 78093,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "8072a7a07616d1ac1858932addccecd87352ada280d4507b91a13224e53aa091"
+      },
+      "sha256": "b203104be4bc5a09ada6efc894be53372b9828d5816677193d51e9a98757d63b"
+    },
+    {
+      "bytes": 545968,
+      "path": "client/resource/fx/fxMAPMandara1stTexture.hpk",
+      "payload": {
+        "bytes": 137531,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "b6ecdd47c1b4d7a89d73e758ab2bd272ef23378933c0d8810f5ca06ccb926d01"
+      },
+      "sha256": "df3c7f3508ad183f638646a1208ce32528705f7ed8fad4ebbdc30b862abb565e"
+    },
+    {
       "bytes": 36806,
       "path": "client/resource/fx/fxMAPMandara2nd.txl",
       "payload": {
@@ -417,6 +450,17 @@
         "sha256": "3af763365a454fdad88723f618c99341f969ccd767b2f826dc903065dcbf7bb7"
       },
       "sha256": "2d9ac2d42b23febf24be1186414ea0447a94045b0b01215a9eeef24ba7fe4c3c"
+    },
+    {
+      "bytes": 928671,
+      "path": "client/resource/map/Mandara1st/MAP_Mandara1st.tml",
+      "payload": {
+        "bytes": 223437,
+        "format": "sanketa-seal-v2",
+        "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
+        "sha256": "8941c9ae82c49b5e3aab644d9cc5bd15aeb8d632f442299482aebb0bcebf396b"
+      },
+      "sha256": "f8e552cfd64cd75989267aa77e10cc809cfa25adbbedc4add540be55ad21d328"
     },
     {
       "bytes": 5818246,
@@ -2136,5 +2180,5 @@
     }
   ],
   "schema": 2,
-  "version": 1795342544
+  "version": 1795343817
 }
