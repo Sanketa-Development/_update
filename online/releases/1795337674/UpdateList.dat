@@ -705,15 +705,15 @@
       "sha256": "b1be17edd7ce4c71191952c6088824d8eeab9ff2ef8da2d5bc05ba96da40283d"
     },
     {
-      "bytes": 13082088,
+      "bytes": 13147628,
       "path": "client/resource/object/Mandara1stObjTmb.hpk",
       "payload": {
-        "bytes": 2653879,
+        "bytes": 2680846,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "9d563745bf94fd8461fc77c9883ec61d0ae068a6e5b30b9cd4174a8d7abb9f89"
+        "sha256": "4c23dc167a2ebacb36adb18eb73c2b54d2c24897186790befb38f915c784fd25"
       },
-      "sha256": "9db4754ba40d7532b6c0f7e0bf609d8e8d0b8848f3ebcf19b06722739839c8ca"
+      "sha256": "1749f96d7ce2ed213519be66dbb4b84179f543d83e614b27d8f5e4d1fee20715"
     },
     {
       "bytes": 41704,
@@ -2136,5 +2136,5 @@
     }
   ],
   "schema": 2,
-  "version": 1795337252
+  "version": 1795337674
 }
