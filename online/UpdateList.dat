@@ -2025,15 +2025,15 @@
       "sha256": "91d3648f56d61ee7f125a7e90f2f57e12d4146695b8c85b8af4c307d16cec16c"
     },
     {
-      "bytes": 1986,
+      "bytes": 1984,
       "path": "client/system/HTStartup.cfg",
       "payload": {
-        "bytes": 1321,
+        "bytes": 1317,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "c384ece3b574c2e17f29c8d873803c19a5ef8fb0603fbadcd97c7cf9c8bfca8c"
+        "sha256": "e98754f55bc20df849605c9344833f4a3469fbd7d6db55ed940d7b4c463babb8"
       },
-      "sha256": "bcbc77529ce6e4a064e61f63c9ebf03f1402cb0601391f63a971fd26970e4a00"
+      "sha256": "7181e32417b277eb6e008042cfabf32cc73eaea503ac66417071114e2f894bf4"
     },
     {
       "bytes": 770,
@@ -2180,5 +2180,5 @@
     }
   ],
   "schema": 2,
-  "version": 1795370615
+  "version": 1795371090
 }
