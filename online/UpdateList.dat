@@ -23,15 +23,15 @@
       "sha256": "abd3418a7a94d96e43a03f26644cff63da698634a6d429bcfddd782d12d1fb4f"
     },
     {
-      "bytes": 10327040,
+      "bytes": 10330624,
       "path": "client/Sanketa.exe",
       "payload": {
-        "bytes": 5220398,
+        "bytes": 5223110,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "a6214866b4120012550a48ec706dc3e39f4f9d7a9ed7b128e09f212c21e3c302"
+        "sha256": "88d859668aef6b72b3ebce30fdd0815b7defdb1c9bedcd5be353b6e677db4c18"
       },
-      "sha256": "08458774a14409cd9ffa2a06f6e3ad8951e9f7f928b7ee47bdde145f0efde5c0"
+      "sha256": "cdb1ead45f00db78a23e448d30dbb93feece84cd6fb4857406050e44cfe8d12a"
     },
     {
       "bytes": 238592,
@@ -708,12 +708,12 @@
       "bytes": 13148532,
       "path": "client/resource/object/Mandara1stObjTmb.hpk",
       "payload": {
-        "bytes": 2681666,
+        "bytes": 2681648,
         "format": "sanketa-seal-v2",
         "key_id": "a8cc1b1fcfaa9727b215ff93b03b576ddce38cd55067c9a9ccd28b1b50e184ef",
-        "sha256": "e98fa950880cd4eb1ec0309f41c1f82dff5b13f87c5b63eef471f50c4e80da5c"
+        "sha256": "3c2123b5df90ff22d33b5b9ce23408d11b3e1fd645e06579a512dac31cb6b174"
       },
-      "sha256": "ee36d4f7d1f8cd77fc77bc7d444dcafd8b2b3b3be1836a9e9b9beaed3d66b25a"
+      "sha256": "557b192e77f0b27f8cc268a11ae10100ee23550e5d6e62323157128465da6f50"
     },
     {
       "bytes": 41704,
@@ -2136,5 +2136,5 @@
     }
   ],
   "schema": 2,
-  "version": 1795301577
+  "version": 1795312385
 }
